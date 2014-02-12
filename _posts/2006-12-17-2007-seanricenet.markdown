@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 2007 SeanRice.Net
+author: Sean
+author_login: Sean
+author_email: seanrice@seanrice.net
+author_url: http://www.seanrice.net
+excerpt: "<img src=\"http://www.seanrice.net/wp-content/uploads/2008/04/seanricenet-preview.jpg\"
+  alt=\"\" />"
+wordpress_id: 141
+wordpress_url: http://www.seanrice.net/?p=141
+date: 2006-12-17 21:19:26.000000000 +03:00
+categories:
+- Portfolio
+- Web
+- Student Work
+tags:
+- HTML
+- CSS
+- Photoshop
+- Student Work
+- Dreamweaver
+- Portfolio
+- seanrice.net
+comments: []
+---
+This is the old design for my portfolio page. It was live for a little over a year, and helped me land my job at U-Haul.
+
+You can view the site <a href="http://www.seanrice.net/2007-portfolio">here</a>.
+
+[gallery]

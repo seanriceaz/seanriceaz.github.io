@@ -1,0 +1,18 @@
+---
+layout: page
+status: publish
+published: true
+title: Blog
+author: Sean
+author_login: Sean
+author_email: seanrice@seanrice.net
+author_url: http://www.seanrice.net
+wordpress_id: 8
+wordpress_url: http://www.seanrice.net/workblog/blogs/
+date: 2008-04-05 17:51:54.000000000 +04:00
+categories:
+- Blog
+tags: []
+comments: []
+---
+Blog page
