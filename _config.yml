@@ -2,7 +2,7 @@
 title: SeanRice.net
 email:
 description: Sean Rice is a Phoenix-based User Experience Designer. This site houses a history of his work and writings.
-baseurl: "http://seanriceaz.github.io/seanricenet/"
+baseurl: "http://seanriceaz.github.io/seanricenet"
 #url: "http://seanrice.net" # the base hostname & protocol for your site
 twitter_username: seanriceaz
 github_username:  seanriceaz
