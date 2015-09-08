@@ -1,24 +1,26 @@
 ---
 layout: page
 title: Work
+subtext: Reflection on my past work experience and key takeaways from each.
 permalink: /work/
 ---
-
-This page is a reflection on my past work experience and key takeaways from each.
-
 ## Ethology (Formerly 29th Drive)
 
-Ethology is my current work-home. I'm energized daily by the influx of new and interesting projects. Ethology really understands the importance of customer experience design. building empathy with our customers' consumers is always teaching me new and exciting insights to drive performance of our designs.
+[Ethology](http://www.ethology.com) is my current work-home. I'm energized daily by the influx of new and interesting projects. Ethology really understands the importance of customer experience design. building empathy with our customers' consumers is always teaching me new and exciting insights to drive performance of our designs.
 
 ### Big Projects
 
-- ASU UTO Web Site Redesign
-- DUFL app (Through Tallwave)
+- [Sonos Studio Redesign](http://studio.sonos.com)
+- [Insight.com Redesign](http://insight.com)
+- [ASU UTO Web Site Redesign](http://uto.asu.edu)
+- [DUFL app (Through Tallwave)](http://dufl.com)
 - Several technical reporting dashboard applications
 
 ### Open Source
 
-- Inkling: A responsive email framework
+- [Inkling: A responsive email framework](http://github.com/ethology-co/inkling)
+
+---------------------------------------
 
 ## 6 years at U-Haul
 
@@ -26,18 +28,30 @@ The big takeaway from my time at U-Haul was the importance of well-designed syst
 
 ### Big Projects
 
-- Uhaul.com: Tuning based on research, making it mobile-friendly.
+- [Uhaul.com](http://uhaul.com): Tuning based on research, making it mobile-friendly.
 - Internal apps ranging from reports, to warehouse management, to a parking space sharing app, to a reservation management system.
-- U-Haul Car Share: Guiding the launch of a new service line.
-- Supergraphics: Designing and building educational mini-sites, an accompanying phone app, and content management system.
+- [U-Haul Car Share](http://uhaulcarshare.com): Guiding the launch of a new service line.
+- [Supergraphics](http://uhaul.com/supergraphics): Designing and building educational mini-sites, an accompanying phone app, and content management system.
 
-## Freelancing & Owning/Running Streak Creative
+---------------------------------------
+
+## Freelancing & Owning/Operating Streak Creative
 
 As a (former) freelancer, I developed a lot of my web design and programming skills on smaller projects. Later on, I founded Streak Creative Technology Services LLC with a friend of mine. Through that experience, I learned about starting, owning, and running a business. Streak was always a side project for me, and I wound down the business shortly after starting at Ethology (29th Drive).
+
+---------------------------------------
 
 ## 2 Years at NAU
 
 My time at the NAU Marketing Department taught me that in design, the details really matter. It sounds really foundational, and it is, but it's something that's only really learned by having a superior designer critique your work over and over until you get it right. This job is also where I picked up proficiency in several of the Adobe tools.
+
+---------------------------------------
+
+## Bachelor or Fine Arts in Visual Communication from NAU
+
+In 2006, I earned a BFA in Visual Communication with emphasis in Graphic Design from Northern Arizona University.
+
+---------------------------------------
 
 ## Miscellanious Jobs
 

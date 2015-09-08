@@ -3,13 +3,15 @@ layout: post
 title:  "Accessible Design: Raising the Tide"
 date:   2014-01-01 00:00:00
 categories: accessibility usability user-experience
+excerpt: As a young designer of electronic interfaces, accessibility used to an afterthought. What I found out was that thinking of disabled people like second-class-citizens was at worst limiting civil liberties and at best merely leaving millions of dollars on the table for our competitors to swipe away.
+external:
 ---
 
 This article was originally posted on [29thdrive.com](http://29thdrive.com/blog/accessible-design-raising-the-tide/)
 
 As a young designer of electronic interfaces, accessibility used to be more of an afterthought for me. "Blind users won’t need this site anyway, because they can’t legally use the product," I remember saying (I used to work for a large vehicle rental company).
 
-What I found out was that thinking of disabled people like second-class-citizens was at worst limiting civil liberties and at best simply leaving millions of dollars on the table for our competitors to swipe away.
+What I found out was that thinking of disabled people like second-class-citizens was at worst limiting civil liberties and at best merely leaving millions of dollars on the table for our competitors to swipe away.
 
 ## Removing my blinders
 

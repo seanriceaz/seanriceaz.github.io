@@ -21,9 +21,8 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    padding-top:$header-height; //Accommodate our fixed header.
 }
-
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -35,6 +34,10 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+
+hr{
+  margin:$spacing-unit*2 0;
+}
 
 
 /**
@@ -79,8 +82,26 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+
+h1{
+  font-size:64px;
+}
+h2{
+  font-size:48px;
+}
+
+h3{
+  font-size:32px;
+}
+h4{
+  font-size:24px;
+}
+
+h1, h2{
+  font-weight:100;
+}
+h3, h4 {
+    font-weight: 200;
 }
 
 
@@ -89,16 +110,18 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $link-color;
+    @include transition(all .2s ease-in-out);
     text-decoration: none;
+    border-bottom:1px solid rgba($link-color,0);
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($link-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+        color: $link-color;
+        border-bottom:1px solid rgba($link-color,1);
     }
 }
 
@@ -152,7 +175,7 @@ pre {
 
 /**
  * Wrapper
- */
+
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -169,6 +192,7 @@ pre {
         padding-left: $spacing-unit / 2;
     }
 }
+*/
 
 
 
@@ -201,4 +225,83 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+/**
+ * Font Coloring
+ */
+.subtle{
+  color: rgba($text-color, .25);
+}
+
+
+
+
+/**
+ * header
+ */
+
+.site-header{
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  max-width:none;
+  background:$header-background;
+  min-height: $header-height;
+  box-shadow: 0 2px 0 0 rgba(0,0,0,.1);
+
+  a{
+    border-color: rgba(0,0,0,0);
+    color:$text-color;
+    &:visited{
+      color:$text-color;
+    }
+    &:hover {
+        border-color:rgba(0,0,0,.75);
+    }
+  }
+}
+
+.site-title {
+    font-size: 32px;
+    line-height:1;
+    padding:12px 0 4px;
+    float: left;
+}
+
+/**
+ * Main Nav
+ */
+
+.site-nav {
+    float: left;
+    margin-left:40px;
+    .page-link {
+        display:inline-block;
+        line-height:1;
+        padding:24px 0 4px;
+        color:rgba($text-color,.5);
+        &:hover{
+          color:rgba($text-color,1);
+        }
+        // Gaps between nav items, but not on the first one
+        &:not(:first-child) {
+            margin-left: 20px;
+        }
+    }
+}
+
+/**
+ * Headline stuff
+ */
+.fancy-strikethrough{
+  display:inline-block;
+  vertical-align: top;
+  label{
+    display:block;
+    text-align:left;
+    color:$grey-color;
+    text-decoration:line-through;
+  }
 }

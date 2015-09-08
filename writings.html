@@ -5,20 +5,26 @@ permalink: /writings/
 ---
 
 <div class="posts">
+  <header>
+    <h1 class="page-heading">Writings</h1>
+  </header>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+  <div class="post-list">
     {% for post in site.posts %}
-      <li>
+    <article>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
+          {% if post.external %}
+          <a class="post-link" href="{{ post.external }}" target="_blank">{{ post.title }}</a>
+          {% else %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          {% endif %}
         </h2>
-      </li>
+        <p>{{ post.excerpt }}</p>
+    </article>
     {% endfor %}
-  </ul>
+
+  </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 

@@ -3,25 +3,35 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: "Work Sans", Helvetica, Arial, sans-serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$background-color: #fff;
+//$brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
+$grey-color:       #8BB1B2;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$mustard: #CCAF0B;
+$goldenrod: #FFD900;
+$cyan:#a9fdff;
+
+$header-background:rgba(255,255,255,.95);
+$header-height:56px;
+
+// Links
+$link-color: #FF15B5;
+
+
 // Width of the content area
+$header-width: 1280px;
 $content-width:    800px;
 
 $on-palm:          600px;
@@ -42,7 +52,12 @@ $on-laptop:        800px;
     }
 }
 
-
+// Mixins
+@mixin transition($transition...) {
+  -webkit-transition: $transition;
+       -o-transition: $transition;
+          transition: $transition;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
