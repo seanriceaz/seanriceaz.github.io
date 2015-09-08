@@ -1,3 +1,16 @@
-name: Seanrice.net
-markdown: redcarpet
-pygments: true
+# Site settings
+title: SeanRice.net
+email:
+description: Sean Rice is a Phoenix-based User Experience Designer. This site houses a history of his work and writings.
+baseurl: ""
+url: "http://seanrice.net" # the base hostname & protocol for your site
+twitter_username: seanriceaz
+github_username:  seanriceaz
+
+# Build settings
+markdown: kramdown
+# Sass
+sass:
+  sass_dir: _sass
+  style: :compressed
+  line_numbers: false
