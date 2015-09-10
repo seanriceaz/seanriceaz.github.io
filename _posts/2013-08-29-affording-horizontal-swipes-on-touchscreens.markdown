@@ -5,6 +5,8 @@ date:   2013-08-29 00:00:00
 categories: user-experience patterns touch gestures mobile
 excerpt: With the increasing adoption rate of mobile devices, I have noticed that more and more apps and web sites utilize horizontal swipe gestures on touch screens to access different functionality. Of course, this interaction isn’t very helpful unless the user knows that it’s there.
 external: http://uxpatterns.org/affordances/affording-horizontal-swipes-on-touchscreens/
+redirect_from: "http://uxpatterns.org/affordances/affording-horizontal-swipes-on-touchscreens/"
+
 ---
 This article was originally posted on uxpatterns.org - Which now redirects here.
 

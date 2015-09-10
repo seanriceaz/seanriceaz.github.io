@@ -5,6 +5,8 @@ date:   2013-09-12 00:00:00
 categories: user-experience patterns touch navigation mobile
 excerpt: Mobile navigation menu UX has been a hot topic the last few years. There are a couple of UX patterns that have emerged recently and some things that appear on their way out.
 external: http://uxpatterns.org/affordances/mobile-navigation-menus/
+redirect_from: "http://uxpatterns.org/affordances/mobile-navigation-menus/"
+
 ---
 
 This article was originally posted on uxpatterns.org - Which now redirects here.
