@@ -34,9 +34,11 @@ $link-color: #FF15B5;
 $header-width: 1280px;
 $content-width:    800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
+$screen-xl:        1600px;
+$screen-lg:        1300px;
+$screen-md:        1000px;
+$screen-sm:        800px;
+$screen-xs:        500px;
 
 
 // Using media queries with like this:
