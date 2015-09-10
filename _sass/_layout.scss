@@ -23,6 +23,7 @@ article{
 }
 
 
+
 /**
  * Site footer
  */
@@ -34,6 +35,15 @@ footer {
     p{
       font-size:14px;
     }
+}
+
+@include media-query($screen-md) {
+  header, article{
+    margin-bottom:$spacing-unit;
+  }
+  footer{
+    margin-top:0;
+  }
 }
 
 .footer-heading {
@@ -85,39 +95,8 @@ footer {
     //letter-spacing: -1px;
     line-height: 1;
 
-    @include media-query($on-laptop) {
-        //font-size: 36px;
-    }
+
 }
 .rss-subscribe{
   margin-top:$spacing-unit;
 }
-/*
-.post-content {
-    margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
-    }
-
-    h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
-    }
-}
-*/

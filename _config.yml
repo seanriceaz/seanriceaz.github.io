@@ -7,6 +7,9 @@ baseurl: "http://seanriceaz.github.io/seanricenet"
 twitter_username: seanriceaz
 github_username:  seanriceaz
 
+gems:
+  - jekyll-redirect-from
+
 # Build settings
 markdown: kramdown
 # Sass

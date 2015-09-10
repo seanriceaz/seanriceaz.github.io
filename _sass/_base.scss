@@ -24,6 +24,12 @@ body {
     padding-top:$header-height; //Accommodate our fixed header.
 }
 
+@include media-query($screen-xs) {
+  body{
+    padding-top:$spacing-unit;
+  }
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -97,14 +103,31 @@ h4{
   font-size:24px;
 }
 
-h1, h2{
+h1{
   font-weight:100;
 }
-h3, h4 {
+h2, h3, h4 {
     font-weight: 200;
 }
 
+@include media-query($screen-lg) {
+  h1{
+    font-size:48px;
+    font-weight:200;
+  }
+  h2{
+    font-size:32px;
+    font-weight:300;
+  }
 
+  h3{
+    font-size:24px;
+    font-weight:300;
+  }
+  h4{
+    font-size:18px;
+  }
+}
 
 /**
  * Links
@@ -292,6 +315,22 @@ pre {
     }
 }
 
+
+@include media-query($screen-xs) {
+  .site-header{
+    position:relative;
+  }
+  .site-nav, .site-title{
+    float:none;
+    text-align:center;
+    margin-left:0;
+  }
+  .site-nav .page-link{
+    margin-bottom:$spacing-unit/2;
+
+  }
+}
+
 /**
  * Headline stuff
  */
@@ -303,5 +342,21 @@ pre {
     text-align:left;
     color:$grey-color;
     text-decoration:line-through;
+  }
+}
+
+@include media-query($screen-md) {
+  .fancy-strikethrough{
+    font-size:.5em;
+    font-weight:200;
+  }
+}
+@include media-query($screen-sm) {
+.fancy-strikethrough{
+  display:block;
+  text-align:center;
+  label{
+    text-align:center;
+    }
   }
 }

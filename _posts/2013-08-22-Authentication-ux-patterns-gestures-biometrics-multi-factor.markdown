@@ -5,7 +5,11 @@ date:   2013-08-22 00:00:00
 categories: user-experience patterns authentication
 excerpt: For a very long time, we have dreamed of ways to unlock things or gain entry where we don’t need to remember something or carry some kind of token. As computers get better and companies experiment with more powerful hardware and software, this dream edges closer and closer to reality.
 external: http://uxpatterns.org/authentication/authentication-ux-gestures-and-biometrics/
+redirect_from: "http://uxpatterns.org/authentication/authentication-ux-gestures-and-biometrics/"
+
 ---
+
+This article was originally posted on uxpatterns.org - Which now redirects here.
 
 Authentication UX: Gestures, Biometrics, and Multi-Factor Authentication
 By Sean Rice On August 22, 2013 · Add Comment
