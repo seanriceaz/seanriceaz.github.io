@@ -6,6 +6,7 @@ categories: user-experience patterns payment credit card ecommerce
 excerpt: Credit card forms are necessary to take payment online. They are one of the last necessary steps to completing a purchase, so it’s very important to get it right! These last few years, there have been several popular innovations in credit card form design.
 external: http://uxpatterns.org/forms/new-credit-card-form-ux/
 ---
+This article was originally posted on uxpatterns.org - Which now redirects here.
 
 Credit card forms are necessary to take payment online. They are one of the last necessary steps to completing a purchase, so it’s very important to get it right!
 

@@ -6,6 +6,8 @@ categories: user-experience patterns progressive disclosure ux
 excerpt: When designing something with a lot of information that the user may not need to know all at once, you need progressive disclosure. Users see something and decide they want more information about it, or to see things related to it. So they “zoom in.”
 external: http://uxpatterns.org/affordances/progressive-disclosure/
 ---
+This article was originally posted on uxpatterns.org - Which now redirects here.
+
 When designing something with a lot of information that the user may not need to know all at once, you need progressive disclosure. Actually, progressive disclosure is woven into the nature of the internet and many applications. Users see something and decide they want more information about it, or to see things related to it. So they “zoom in.”
 
 Commonly, this takes the form of clicking a “more” link. Other times it could be an accordion or some sort of other expanding and collapsing control. Progressive disclosure also includes things like tool tips and info boxes. The idea is that the app allows the user to  indicate that they are interested in learning more about something by some sort of input—generally a click or a tap.
