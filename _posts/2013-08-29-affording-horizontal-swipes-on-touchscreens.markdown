@@ -5,10 +5,12 @@ date:   2013-08-29 00:00:00
 categories: user-experience patterns touch gestures mobile
 excerpt: With the increasing adoption rate of mobile devices, I have noticed that more and more apps and web sites utilize horizontal swipe gestures on touch screens to access different functionality. Of course, this interaction isn’t very helpful unless the user knows that it’s there.
 external: http://uxpatterns.org/affordances/affording-horizontal-swipes-on-touchscreens/
-redirect_from: "http://uxpatterns.org/affordances/affording-horizontal-swipes-on-touchscreens/"
+redirect_from: "/affordances/affording-horizontal-swipes-on-touchscreens/"
 
 ---
-This article was originally posted on uxpatterns.org - Which now redirects here.
+This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/affordances/affording-horizontal-swipes-on-touchscreens/)
+
+<!-- - Which now redirects here.
 
 With the increasing adoption rate of mobile devices, I have noticed that more and more apps and web sites utilize horizontal swipe gestures on touch screens to access different functionality. Of course, this interaction isn’t very helpful unless the user knows that it’s there. The way of indicating that an action is available or that there is a particular way to get a particular result somehow is called an affordance. If we don’t give the user an affordance, they may never know how to access certain functionality. Conversely, if we follow a pattern that looks like an affordance but isn’t, as in the Facebook example to the right, we may frustrate our users as they try to interact and get a puzzling result or no result at all.
 
@@ -74,3 +76,4 @@ There is no clear cut winner among these affordance methods. However, the Beyond
 In my search I also found several apps that allow sideways swiping but didn’t show me that it was there except maybe in an instruction screen when I first ran the app. Google Now uses sideways swiping to “push away” cards that aren’t important at the moment. In IOS, the messages app allows swiping to access a quick delete function, but doesn’t tell you about it as it’s not essential to the experience. Pinterest allows you to swipe between tabs.
 
 The bottom line is if you’re building an app or site that uses horizontal swipe gestures as a key interaction, be sure to inform the user somehow—even if its just a clever hint that there’s more to see to the right or left.
+-->

@@ -5,11 +5,13 @@ date:   2013-08-08 00:00:00
 categories: user-experience patterns widgets loading progress
 excerpt: No matter how zippy we make our applications and sites, there will often be something that takes time to process. Loading indicators, often those swirly circle graphics like these , generally show up when something takes longer than a second or two to process.
 external: http://uxpatterns.org/progress/loading-indicators/
-redirect_from: "http://uxpatterns.org/progress/loading-indicators/"
+redirect_from: "/progress/loading-indicators/"
 
 ---
 
-This article was originally posted on uxpatterns.org - Which now redirects here.
+This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/progress/loading-indicators/)
+
+<!-- - Which now redirects here.
 
 Creating User Patience with Loading Indicators
 By Sean Rice On August 8, 2013 · Add Comment
@@ -98,4 +100,4 @@ US Airways animates their logo to indicate processing
 
 Summary
 
-There are plenty of different things you can do to keep the user on your site or in your app while something loads. As always, balance the business needs (revenue from advertisement, cross promotion, etc.) against user fatigue and interest and promoting your brand. Wherever possible try to reduce load times altogether.
+There are plenty of different things you can do to keep the user on your site or in your app while something loads. As always, balance the business needs (revenue from advertisement, cross promotion, etc.) against user fatigue and interest and promoting your brand. Wherever possible try to reduce load times altogether.-->
