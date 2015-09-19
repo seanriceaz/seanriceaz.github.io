@@ -3,6 +3,7 @@ layout: page
 title: Work
 subtext: Reflection on my past work experience and key takeaways from each.
 permalink: /work/
+excerpt: A brief history of Sean Rice's work in user experience design
 ---
 ## Ethology (Formerly 29th Drive)
 
