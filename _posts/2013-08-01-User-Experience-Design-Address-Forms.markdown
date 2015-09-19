@@ -5,10 +5,12 @@ date:   2013-08-01 00:00:00
 categories: forms address user-experience patterns
 excerpt: If you've ever worked on a site that needs to process payments or mail something out to a physical address, you've encountered address forms. This post covers some innovations in address form design that show us that perhaps these forms need special attention.
 external: http://uxpatterns.org/forms/address-forms/
-redirect_from: "http://uxpatterns.org/forms/address-forms/"
+redirect_from: "/forms/address-forms/"
 ---
 
-This article was originally posted on uxpatterns.org - Which now redirects here.
+This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/forms/address-forms/)
+
+<!---- Which now redirects here.
 
 If you’ve ever worked on a site that needs to process payments or mail something out to a physical address, you’ve encountered address forms. Like many things in user experience design, they are something easily overlooked. You can just go with whatever is built in to your ecommerce platform, or roll your own simple form. This post covers some innovations in address form design that show us that perhaps these forms need special attention.
 
@@ -91,3 +93,4 @@ UPS address form usability example
 This is the address form on the guest shipment page for UPS
 UPS Address form UX
 UPS uses autocomplete on the city name field to reduce errors
+-->

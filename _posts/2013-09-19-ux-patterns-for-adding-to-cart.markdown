@@ -5,11 +5,13 @@ date:   2013-09-19 00:00:00
 categories: user-experience patterns cart ecommerce conversion funnel
 excerpt: Any time a customer wants to buy something, they need to add it to their cart. But what happens when the user clicks that magical button?
 external: http://uxpatterns.org/ecommerce/adding-to-cart/
-redirect_from: " http://uxpatterns.org/ecommerce/adding-to-cart/"
+redirect_from: "/ecommerce/adding-to-cart/"
 
 ---
 
-This article was originally posted on uxpatterns.org - Which now redirects here.
+This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/ecommerce/adding-to-cart/)
+<!--
+- Which now redirects here.
 
 Any time a customer wants to buy something, they need to add it to their cart. But what happens when the user clicks that magical button? I sought out several options and have laid them out for you. Most of the sites I checked used one of two strategies for confirming something was added to the shopping cart.
 
@@ -79,3 +81,4 @@ On sites selling fewer items, or higher-priced, but customized items, it may mak
 Similar article
 
 [UX FTW: What Happens When You Add an Item to Your Cart?](http://www.aidanbryant.com/post/37053391376/ux-ftw-what-happens-when-you-add-an-item-to-your-cart)
+-->
