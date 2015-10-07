@@ -10,7 +10,7 @@ redirect_from: "/forms/new-credit-card-form-ux/"
 ---
 This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/forms/new-credit-card-form-ux/)
 
-<!--- Which now redirects here.
+<!-- - Which now redirects here.
 
 Credit card forms are necessary to take payment online. They are one of the last necessary steps to completing a purchase, so it’s very important to get it right!
 

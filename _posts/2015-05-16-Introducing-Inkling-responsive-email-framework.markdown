@@ -15,7 +15,7 @@ At Ethology, we leverage a few different web development tools that help us to d
 
 In our hunt for a responsive email toolkit, we settled on <a href="http://zurb.com/ink/" target="_blank">Zurb’s ink framework</a> because — unlike the many templates from the major email marketing providers — it was pretty bare-bones to begin with, giving us a clean starting point.
 
-<img class="alignnone size-full wp-image-2189" src="{{ site.baseurl }}/media/2015code-before.jpg" alt="Code Snapshot of an HTML email ">
+<img class="alignnone size-full wp-image-2189" src="{{ site.baseurl }}/media/2015/code-before.jpg" alt="Code Snapshot of an HTML email ">
 
 We discovered very quickly that we still had to rely on tables nested within tables nested within tables to achieve the desired effect. That’s just part of the experience when coding HTML emails.
 

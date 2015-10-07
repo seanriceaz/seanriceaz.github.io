@@ -11,7 +11,7 @@ redirect_from: "/authentication/passwords-pins-and-patterns/"
 
 This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/authentication/passwords-pins-and-patterns/)
 
- <!--- Which now redirects here.
+ <!-- - Which now redirects here.
 
 Authentication UX Patterns – Passwords & PINs
 By Sean Rice On August 15, 2013 · 2 Comments
