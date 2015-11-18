@@ -7,8 +7,8 @@ url: "http://seanrice.net" # the base hostname & protocol for your site
 twitter_username: seanriceaz
 github_username:  seanriceaz
 
-gems:
-  - jekyll-redirect-from
+#gems: #comment this out when developing. Uncomment when deploying.
+#  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
