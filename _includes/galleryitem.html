@@ -1,0 +1,17 @@
+<figure>
+  {% if include.full != "" and include.thumb != "" %}
+    <a href="{{include.full}}" data-caption="{{include.caption}}" class="lightbox">
+      <img src="{{include.thumb}}" alt="">
+    </a>
+  {% else %}
+    {% if  include.full != "" %}
+      <img src="{{include.full}}" alt="">
+    {% else %}
+      <img src="{{include.thumb}}" alt="">
+    {% endif %}
+  {% endif %}
+
+</figure>
+<figcaption>
+  {{include.caption}}
+</figcaption>

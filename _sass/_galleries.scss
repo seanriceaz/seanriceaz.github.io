@@ -186,9 +186,10 @@
 			right: 15px;
 			display: block;
 			height: 20px;
-			width: 20px;
+			width: 100%;
 			line-height: 0;
 			font-size: 0;
+      text-align:right;
 			cursor: pointer;
 			background: transparent;
 			color: transparent;
@@ -196,14 +197,14 @@
 			border: none;
 			&:focus { outline: none; }
 			&:before {
-				font-family: "slick";
+				//font-family: "slick";
 				font-size: 20px;
 				line-height: 1;
 				color: white;
 				opacity: 0.85;
 				-webkit-font-smoothing: antialiased;
 				-moz-osx-font-smoothing: grayscale;
-				content: '×';
+				content: 'Close';
 			}
 		}
 	}
@@ -216,10 +217,13 @@
 	.slick-next {
 		right: 15px;
 	}
+  .slick-track{
+    background:transparent;
+  }
 }
 // Slick Theme
 
-$slick-font-path: "./fonts/" !default;
+$slick-font-path: "/fonts/" !default;
 $slick-font-family: "slick" !default;
 $slick-loader-path: "./" !default;
 $slick-arrow-color: white !default;
@@ -232,6 +236,7 @@ $slick-dot-size: 6px !default;
 $slick-opacity-default: 0.75 !default;
 $slick-opacity-on-hover: 1 !default;
 $slick-opacity-not-active: 0.25 !default;
+$slick-list-bg-color: transparent !default;
 
 @function slick-image-url($url) {
     @if function-exists(image-url) {
@@ -254,11 +259,14 @@ $slick-opacity-not-active: 0.25 !default;
 /* Slider */
 
 .slick-list {
+    //overflow:visible;
     .slick-loading & {
         background: #fff slick-image-url("ajax-loader.gif") center center no-repeat;
     }
 }
-
+.slick-track{
+    background-color: $slick-list-bg-color;
+}
 /* Icons */
 @if $slick-font-family == "slick" {
     @font-face {

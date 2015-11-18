@@ -5,7 +5,22 @@
 <script type="text/javascript">
   jQuery(function(){
     //Set up image gallery sliders
-
+    jQuery('.gallery').slick({
+      centerMode: true,
+      infinite: true,
+      speed: 300,
+      slidesToShow: 3,
+      adaptiveHeight: true,
+      variableWidth:true
+    }).slickLightbox({
+      caption:"caption"
+    });
     //Set up image gallery lightboxes
+    //set up individual lightboxes
+    jQuery('figure').not('.gallery figure').each(function(){
+      jQuery(this).slickLightbox({
+        caption:"caption"
+      });
+    });
   });
 </script>

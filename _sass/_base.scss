@@ -360,3 +360,38 @@ pre {
     }
   }
 }
+
+/**
+ * Galleries
+ */
+ul.gallery{
+  padding:1em 0;
+  margin:0;
+  li{
+    padding:.25em;
+    border:1px solid #e1e1e1;
+    background:white;
+    margin:.5em;
+    list-style:none;
+    max-width:300px;
+    text-align:center;
+    figcaption{
+      margin:0;
+    }
+    a{
+      display:block;
+      border:none;
+      }
+    img{
+      display:inline-block;
+    }
+    &:focus{
+      border:0;
+      outline:0;
+    }
+  }
+}
+figcaption{
+  font-style:italic;
+  margin:0 0 1em;
+}
