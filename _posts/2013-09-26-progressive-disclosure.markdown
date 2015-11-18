@@ -21,50 +21,19 @@ Content toggles allow the user to click or hover on a heading to expand and coll
 
 <ul class="gallery">
   <li>
-    <figure><a href="/media/2013/10/Screen-Shot-2013-09-12-at-10.40.46-PM.png" title="Click the comments link to show comments on Google Plus" class="lightbox">
-      <img src="/media/2013/10/Screen-Shot-2013-09-12-at-10.41.02-PM-209x300.png" alt="">
-    </a>
-    </figure>
-    <figcaption>
-      Google shows comments in a scrollable box
-    </figcaption>
-
+    {% include galleryitem.html thumb="/media/2013/10/Screen-Shot-2013-09-12-at-10.41.02-PM-209x300.png" full="/media/2013/10/Screen-Shot-2013-09-12-at-10.40.46-PM.png" caption="Click the comments link to show comments on Google Plus" %}
   </li>
   <li>
-    <figure><a href="/media/2013/10/Screen-Shot-2013-09-12-at-10.40.46-PM.png" title="Click the comments link to show comments on Google Plus" class="lightbox">
-    <img src="/media/2013/10/Screen-Shot-2013-09-12-at-10.40.46-PM-281x300.png" alt="">
-    </a>
-    </figure>
-    <figcaption>
-      Click the comments link to show comments on Google Plus
-    </figcaption>
+    {% include galleryitem.html thumb="/media/2013/10/Screen-Shot-2013-09-12-at-10.40.46-PM-281x300.png" full="/media/2013/10/Screen-Shot-2013-09-12-at-10.40.46-PM.png" caption="Click the comments link to show comments on Google Plus" %}
   </li>
   <li>
-    <figure><a href="/media/2013/09/msdn.png" title="The MSDN web site uses a tree view for progressive disclosure UX" class="lightbox">
-    <img src="/media/2013/09/msdn-149x300.png" alt="">
-    </a>
-    </figure>
-    <figcaption>
-      The MSDN web site uses a tree view for progressive disclosure UX
-    </figcaption>
+    {% include galleryitem.html thumb="/media/2013/09/msdn-149x300.png" full="/media/2013/09/msdn.png" caption="The MSDN web site uses a tree view for progressive disclosure UX" %}
   </li>
   <li>
-    <figure><a href="/media/2013/09/gmail2.png" title="Gmail uses a &quot;more/less&quot; toggle that slides more email categories out and back." class="lightbox">
-    <img src="/media/2013/09/gmail2-96x300.png" alt="">
-    </a>
-    </figure>
-    <figcaption>
-      Gmail uses a "more/less" toggle that slides more email categories out and back.
-    </figcaption>
+    {% include galleryitem.html thumb="/media/2013/09/gmail2-96x300.png" full="/media/2013/09/gmail2.png" caption="Gmail uses a &quot;more/less&quot; toggle that slides more email categories out and back." %}
   </li>
   <li>
-    <figure><a href="/media/2013/09/istock.png" title="Istock uses little triangles to show where there are more controls" class="lightbox">
-    <img src="/media/2013/09/istock-83x300.png" alt="">
-    </a>
-    </figure>
-    <figcaption>
-    Istock uses little triangles to show where there are more controls
-    </figcaption>
+    {% include galleryitem.html thumb="/media/2013/09/istock-83x300.png" full="/media/2013/09/istock.png" caption="Istock uses little triangles to show where there are more controls" %}
   </li>
 </ul>
 

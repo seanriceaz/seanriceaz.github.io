@@ -12,8 +12,10 @@
       slidesToShow: 3,
       adaptiveHeight: true,
       variableWidth:true
-    }).slickLightbox({
-      caption:"caption"
+    }).each(function(){
+      jQuery(this).slickLightbox({
+        caption:"caption"
+      });
     });
     //Set up image gallery lightboxes
     //set up individual lightboxes
