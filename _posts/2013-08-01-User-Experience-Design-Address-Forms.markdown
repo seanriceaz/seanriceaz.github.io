@@ -107,8 +107,7 @@ In their E-Commerce Checkout Usability Guide (2011), The Baymard Institute recom
   include galleryitem.html
   thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM-300x215.png"
   full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM.png"
-  caption="Here is what you see on the Apple address form before you enter in your zip code.
-"
+  caption="Here is what you see on the Apple address form before you enter in your zip code."
 %}</li>
 <li>{%
   include galleryitem.html
