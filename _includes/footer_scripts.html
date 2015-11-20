@@ -5,17 +5,24 @@
 <script type="text/javascript">
   jQuery(function(){
     //Set up image gallery sliders
-    jQuery('.gallery').slick({
-      centerMode: true,
-      infinite: true,
-      speed: 300,
-      slidesToShow: 3,
-      adaptiveHeight: true,
-      variableWidth:true
-    }).each(function(){
-      jQuery(this).slickLightbox({
-        caption:"caption"
-      });
+    jQuery('.gallery').each(function(){
+      slickSettings = {
+        centerMode: true,
+        infinite: true,
+        speed: 300,
+        slidesToShow: 3,
+        adaptiveHeight: true,
+        variableWidth:true
+      };
+      if(jQuery(this).children().length <= slickSettings.slidesToShow){
+        slickSettings.slidesToShow = jQuery(this).children().length -1;
+      }
+      if (slickSettings.slidesToShow > 0 ){
+        jQuery(this).slick(slickSettings).slickLightbox({
+          caption:"caption"
+        });
+      }
+
     });
     //Set up image gallery lightboxes
     //set up individual lightboxes

@@ -4,13 +4,11 @@ title:  "The User Experience Design of Address Forms"
 date:   2013-08-01 00:00:00
 categories: forms address user-experience patterns
 excerpt: If you've ever worked on a site that needs to process payments or mail something out to a physical address, you've encountered address forms. This post covers some innovations in address form design that show us that perhaps these forms need special attention.
-external: http://uxpatterns.org/forms/address-forms/
+# external: http://uxpatterns.org/forms/address-forms/
 redirect_from: "/forms/address-forms/"
 ---
 
-This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/forms/address-forms/)
-
-<!-- -- Which now redirects here.
+This article was originally posted on [uxpatterns.org.](http://uxpatterns.org/forms/address-forms/).
 
 If you’ve ever worked on a site that needs to process payments or mail something out to a physical address, you’ve encountered address forms. Like many things in user experience design, they are something easily overlooked. You can just go with whatever is built in to your ecommerce platform, or roll your own simple form. This post covers some innovations in address form design that show us that perhaps these forms need special attention.
 
@@ -55,15 +53,32 @@ Many sites fell back to dumb entry fields. Sometimes, state was in a dropdown se
 
 Having the state as a dropdown eliminates the problem of people not knowing the state abbreviation for the state they are entering. This is especially helpful for applications where users need to use this form on behalf of somebody else, like a customer service app. It also provides cleaner data than a text field, as it makes it impossible to misspell a state name.
 
-Paypal's Address form is straightforward, except they specify that they need legal names.
-Paypal’s Address form is straightforward, except they specify that they need legal names.
-Newegg uses a traditional address form with some in-field Zip Code hinting that implies I must enter my full 9-digit zip.
-Newegg uses a traditional address form with some in-field Zip Code hinting that implies I must enter my full 9-digit zip.
-Basic address form
-Amazon has a basic address form with no bells & whistles
-Best Buy Address Form UX
-Best Buy’s address form design has no automatic features.
-
+<ul class="gallery">
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/08/paypal-266x300.png"
+  full="/media/2013/08/paypal.png"
+  caption="Paypal’s Address form is straightforward, except they specify that they need legal names."
+%}</li>
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/08/Newegg-300x128.png"
+  full="/media/2013/08/Newegg.png"
+  caption="Newegg uses a traditional address form with some in-field Zip Code hinting that implies I must enter my full 9-digit zip."
+%}</li>
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.26.28-PM-276x300.png"
+  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.26.28-PM.png"
+  caption="Amazon has a basic address form with no bells & whistles"
+%}</li>
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.31.27-PM-300x127.png"
+  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.31.27-PM.png"
+  caption="Best Buy’s address form design has no automatic features."
+%}</li>
+</ul>
 
 ### The Zip-o-Matic (Recommended!)
 
@@ -75,22 +90,50 @@ I saw a few sites (Apple and FedEx) make the user enter their zip code first, an
 - You should also provide a way for someone to successfully complete this form without knowing their zip code. Your requirements may vary depending on the application.
 In their E-Commerce Checkout Usability Guide (2011), The Baymard Institute recommends using this method where technically and financially feasible.
 
-User experience for Fedex address form
-The address form for Fedex when the zip code has a single city. The dropdown button is non-functional.
-Fedex address form UX
-The address form Fedex uses when there are multiple options for one zip code.
-zip code shows with helper text to the right
-Here is what you see on the Apple address form before you enter in your zip code.
-Apple Address Form UX
-Apple uses a dropdown form as well. Selecting “Other” shows a basic city, state, zip form
-
+<ul class="gallery">
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM-300x224.png"
+  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM.png"
+  caption="The address form for Fedex when the zip code has a single city. The dropdown button is non-functional."
+%}</li>
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM-300x215.png"
+  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM.png"
+  caption="The address form Fedex uses when there are multiple options for one zip code."
+%}</li>
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM-300x215.png"
+  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM.png"
+  caption="Here is what you see on the Apple address form before you enter in your zip code.
+"
+%}</li>
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM-300x224.png"
+  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM.png"
+  caption="Apple uses a dropdown form as well. Selecting “Other” shows a basic city, state, zip form"
+%}</li>
+</ul>
 
 ### The suggestion box
 
 UPS uses an automatic suggestion dropdown as you type your city name. This may reduce errors as well, but still requires more keystrokes and more form field interactions than the Zip-O-Matic method. Developing this method requires a database of all possible city names, or perhaps just the most misspelled ones.
 
-UPS address form usability example
-This is the address form on the guest shipment page for UPS
-UPS Address form UX
-UPS uses autocomplete on the city name field to reduce errors
--->
+<ul class="gallery">
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/UPS-address-form-300x148.png"
+  full="/media/2013/07/UPS-address-form.png"
+  caption="This is the address form on the guest shipment page for UPS"
+%}</li>
+<li>{%
+  include galleryitem.html
+  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.05.29-PM-300x136.png"
+  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.05.29-PM.png"
+  caption="UPS uses autocomplete on the city name field to reduce errors"
+%}</li>
+
+</ul>
