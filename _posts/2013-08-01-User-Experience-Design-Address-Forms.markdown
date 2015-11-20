@@ -54,26 +54,10 @@ Many sites fell back to dumb entry fields. Sometimes, state was in a dropdown se
 Having the state as a dropdown eliminates the problem of people not knowing the state abbreviation for the state they are entering. This is especially helpful for applications where users need to use this form on behalf of somebody else, like a customer service app. It also provides cleaner data than a text field, as it makes it impossible to misspell a state name.
 
 <ul class="gallery">
-<li>{% include galleryitem.html
-  thumb="/media/2013/08/paypal-266x300.png"
-  full="/media/2013/08/paypal.png"
-  caption="Paypal’s Address form is straightforward, except they specify that they need legal names."
-%}</li>
-<li>{% include galleryitem.html
-  thumb="/media/2013/08/Newegg-300x128.png"
-  full="/media/2013/08/Newegg.png"
-  caption="Newegg uses a traditional address form with some in-field Zip Code hinting that implies I must enter my full 9-digit zip."
-%}</li>
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.26.28-PM-276x300.png"
-  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.26.28-PM.png"
-  caption="Amazon has a basic address form with no bells & whistles"
-%}</li>
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.31.27-PM-300x127.png"
-  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.31.27-PM.png"
-  caption="Best Buy’s address form design has no automatic features."
-%}</li>
+<li>{% include galleryitem.html thumb="/media/2013/08/paypal-266x300.png" full="/media/2013/08/paypal.png" caption="Paypal’s Address form is straightforward, except they specify that they need legal names." %}</li>
+<li>{% include galleryitem.html thumb="/media/2013/08/Newegg-300x128.png" full="/media/2013/08/Newegg.png" caption="Newegg uses a traditional address form with some in-field Zip Code hinting that implies I must enter my full 9-digit zip." %}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.26.28-PM-276x300.png" full="/media/2013/07/Screen-Shot-2013-07-08-at-10.26.28-PM.png" caption="Amazon has a basic address form with no bells & whistles" %}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.31.27-PM-300x127.png" full="/media/2013/07/Screen-Shot-2013-07-08-at-10.31.27-PM.png" caption="Best Buy’s address form design has no automatic features." %}</li>
 </ul>
 
 ### The Zip-o-Matic (Recommended!)
@@ -87,26 +71,10 @@ I saw a few sites (Apple and FedEx) make the user enter their zip code first, an
 In their E-Commerce Checkout Usability Guide (2011), The Baymard Institute recommends using this method where technically and financially feasible.
 
 <ul class="gallery">
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM-300x224.png"
-  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM.png"
-  caption="The address form for Fedex when the zip code has a single city. The dropdown button is non-functional."
-%}</li>
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM-300x215.png"
-  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM.png"
-  caption="The address form Fedex uses when there are multiple options for one zip code."
-%}</li>
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM-300x215.png"
-  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM.png"
-  caption="Here is what you see on the Apple address form before you enter in your zip code."
-%}</li>
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM-300x224.png"
-  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM.png"
-  caption="Apple uses a dropdown form as well. Selecting “Other” shows a basic city, state, zip form"
-%}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM-300x224.png" full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM.png" caption="The address form for Fedex when the zip code has a single city. The dropdown button is non-functional." %}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM-300x215.png" full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM.png" caption="The address form Fedex uses when there are multiple options for one zip code." %}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM-300x215.png" full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.08-PM.png" caption="Here is what you see on the Apple address form before you enter in your zip code." %}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM-300x224.png" full="/media/2013/07/Screen-Shot-2013-07-08-at-10.14.29-PM.png" caption="Apple uses a dropdown form as well. Selecting “Other” shows a basic city, state, zip form" %}</li>
 </ul>
 
 ### The suggestion box
@@ -114,15 +82,7 @@ In their E-Commerce Checkout Usability Guide (2011), The Baymard Institute recom
 UPS uses an automatic suggestion dropdown as you type your city name. This may reduce errors as well, but still requires more keystrokes and more form field interactions than the Zip-O-Matic method. Developing this method requires a database of all possible city names, or perhaps just the most misspelled ones.
 
 <ul class="gallery">
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/UPS-address-form-300x148.png"
-  full="/media/2013/07/UPS-address-form.png"
-  caption="This is the address form on the guest shipment page for UPS"
-%}</li>
-<li>{% include galleryitem.html
-  thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.05.29-PM-300x136.png"
-  full="/media/2013/07/Screen-Shot-2013-07-08-at-10.05.29-PM.png"
-  caption="UPS uses autocomplete on the city name field to reduce errors"
-%}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/UPS-address-form-300x148.png" full="/media/2013/07/UPS-address-form.png" caption="This is the address form on the guest shipment page for UPS" %}</li>
+<li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-08-at-10.05.29-PM-300x136.png" full="/media/2013/07/Screen-Shot-2013-07-08-at-10.05.29-PM.png" caption="UPS uses autocomplete on the city name field to reduce errors" %}</li>
 
 </ul>
