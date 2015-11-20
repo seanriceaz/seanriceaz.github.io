@@ -7,7 +7,7 @@ excerpt: As a young designer of electronic interfaces, accessibility used to an 
 external:
 ---
 
-This article was originally posted on [29thdrive.com](http://29thdrive.com/blog/accessible-design-raising-the-tide/)
+_This article was originally posted on [29thdrive.com](http://29thdrive.com/blog/accessible-design-raising-the-tide/)_
 
 As a young designer of electronic interfaces, accessibility used to be more of an afterthought for me. "Blind users won’t need this site anyway, because they can’t legally use the product," I remember saying (I used to work for a large vehicle rental company).
 

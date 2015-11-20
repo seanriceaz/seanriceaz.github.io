@@ -8,7 +8,7 @@ excerpt: If you've ever worked on a site that needs to process payments or mail 
 redirect_from: "/forms/address-forms/"
 ---
 
-This article was originally posted on [uxpatterns.org.](http://uxpatterns.org/forms/address-forms/).
+_This article was originally posted on [uxpatterns.org.](http://uxpatterns.org/forms/address-forms/)._
 
 If you’ve ever worked on a site that needs to process payments or mail something out to a physical address, you’ve encountered address forms. Like many things in user experience design, they are something easily overlooked. You can just go with whatever is built in to your ecommerce platform, or roll your own simple form. This post covers some innovations in address form design that show us that perhaps these forms need special attention.
 
