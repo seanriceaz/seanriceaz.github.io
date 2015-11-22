@@ -19,31 +19,19 @@ Without further ado, Here are the different ways I found that UX designers are a
 
 A very common way of indicating that the user can swipe to move the viewport side to side is to have content overlap the edges of the content area or move past the sides of the screen. Sometimes, designers give a peek at what swiping left or right will reveal. Windows Phone is a good early example of this technique being used system wide. Since its release in 2010, settings screens and many other screens across different applications had a built-in method of swiping to traverse tabs.
 
-Windows Phone User Experience Example
-Windows Phone Store shows a peek at the next screen. Used with permission from Microsoft
-Microsoft Windows Phone Metro UI Example
-Microsoft Office Mobile 2010 Interface. Used with permission from Microsoft
-This photo gallery in my Facebook stream affords that I can swipe left and right to see other photos, and I can
-This photo gallery in my Facebook stream affords that I can swipe left and right to see other photos, and I can
-
-Google Plus photo gallery swipe gesture UX
-The Google Plus photo gallery interface crops the images to the viewport indicating that you can use swipe gestures
-Amazon Kindle Carousel UX
-Amazon crops off books at the left and right to indicate users can swipe
-Netflix swipe UI
-Netflix has a horizontal scrolling UX in all of their apps, cropping video covers at the edge of the screen
-
-Amazon App Store UX
-As with other Amazon apps, their app store user experience crops images at the edges of the viewport to indicate scrolling is possible
-Amazon Store App User Experience
-In the Amazon app, users can swipe left and right to view more products
-Google Play Swipe Gesture User Interface
-The Google Play App Store shows you can swipe by cropping tabs off at the top.
-
-Web site overlapping image
-Intentional or not, this image overlaps the side of the page, and indicates that you can pan to the right
-Ingress has a coverflow-style interface with a scroll indicator.
-Ingress has a coverflow-style interface with a scroll indicator.
+<ul class="gallery">
+  <li>{% include galleryitem.html thumb="/media/2013/08/Windows_Phone_Store-180x300.png" full="/media/2013/08/Windows_Phone_Store.png" caption="Windows Phone Store shows a peek at the next screen. Used with permission from Microsoft" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Microsoft_Office_Mobile_2010_hub-179x300.png" full="/media/2013/08/Microsoft_Office_Mobile_2010_hub.png" caption="Microsoft Office Mobile 2010 Interface. Used with permission from Microsoft" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-19-15-43-31-168x300.png" full="/media/2013/08/Screenshot_2013-07-19-15-43-31.png" caption="This photo gallery in my Facebook stream affords that I can swipe left and right to see other photos" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/" full="/media/2013/08/" caption="The Google Plus photo gallery interface crops the images to the viewport indicating that you can use swipe gestures" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-15-59-16-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-15-59-16.png" caption="Amazon crops off books at the left and right to indicate users can swipe" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/" full="/media/2013/08/" caption="Netflix has a horizontal scrolling UX in all of their apps, cropping video covers at the edge of the screen" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-15-54-51-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-15-54-51.png" caption="As with other Amazon apps, their app store user experience crops images at the edges of the viewport to indicate scrolling is possible" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-15-58-34-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-15-58-34.png" caption="In the Amazon app, users can swipe left and right to view more products" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-16-07-15-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-16-07-15.png" caption="The Google Play App Store shows you can swipe by cropping tabs off at the top." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-29-07-10-04-168x300.png" full="/media/2013/08/Screenshot_2013-07-29-07-10-04.png" caption="Intentional or not, this image overlaps the side of the page, and indicates that you can pan to the right" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-08-09-20-25-29-168x300.png" full="/media/2013/08/Screenshot_2013-08-09-20-25-29.png" caption="Ingress has a coverflow-style interface with a scroll indicator." %}</li>
+</ul>
 
 ## Dots
 
