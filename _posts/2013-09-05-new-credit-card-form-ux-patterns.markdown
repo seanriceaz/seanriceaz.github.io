@@ -34,6 +34,7 @@ Instant credit card form validation evolved from the traditional credit card for
 
 For a development (jQuery) example. see http://jquerycreditcardvalidator.com/
 
+{% include galleryitem.html thumb="/media/2013/08/.png" full="/media/2013/08/" caption="" %}
 Walmart's payment form has several available methods. If one is selected incorrectly, it automatically selects the correct one. Numbers are grouped automatically as well.
 Walmart’s payment form has several available methods. If one is selected incorrectly, it automatically selects the correct one. Numbers are grouped automatically as well.
 jQuery Credit Card Validator demo

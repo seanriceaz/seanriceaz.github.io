@@ -23,6 +23,8 @@ The Word Menu
 
 Until recently, mobile navigation often contained the word “menu” to tell users that tapping would open up some kind of menu. This is much less common these days. I only found it in a few places. Also, typically this pattern is paired with a dropdown navigation that pushes the content down as it opens.
 
+<ul class="gallery">
+  <li>{% include galleryitem.html thumb="/media/2013/08/.png" full="/media/2013/08/" caption="" %}</li>
 BabyCenter uses a dropdown triggered by a menu button.
 BabyCenter uses a dropdown triggered by a menu button.
 The BBC uses the word "menu" and the menu drops down.
@@ -31,7 +33,7 @@ Burton used a standard select box for their menu up until a few weeks ago.
 Burton used a standard select box for their menu up until a few weeks ago.
 Whitehouse.gov uses the word menu paired up with a drop down.
 Whitehouse.gov uses the word menu paired up with a drop down.
-
+</ul>
 
 Three Horizontal Lines
 

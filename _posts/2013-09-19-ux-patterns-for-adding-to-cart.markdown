@@ -21,6 +21,9 @@ Usually paired up with some related items the customer could buy, I found most o
 
 This helps the user retain the knowledge of where they are in the site and encourages additional purchases.
 
+<ul class="gallery">
+<li>{% include galleryitem.html thumb="/media/2013/08/.png" full="/media/2013/08/" caption="" %}</li>
+</ul>
 Threadless has a cute cart character and a confirmation overlay
 Threadless has a cute cart character and a confirmation overlay
 Autozone uses s simple confirmation message

@@ -37,27 +37,23 @@ A very common way of indicating that the user can swipe to move the viewport sid
 
 Many apps have a user interface design that includes dots at the bottom to indicate multiple screens that users can swipe left and right to get to. This affordance goes all the way back to the original iPhone home screen that used this to let users know there were more apps on subsequent screens.
 
-Cut The Rope App UI
-This app uses dots in its User Experience to indicate more. It also crops on the left and right as a secondary affordance.
-Starbucks App Dot UX Pattern
-The Starbucks App uses dots to show I have more gift cards to select from.
-Wunderlist Paging UI
-This intro screen in Wunderlist has several horizontal pages, indicated by dots on their interface.
-Android UX
-Every Android configuration is different, but my app drawer uses dots and a horizontal paging user experience
-
+<ul class="gallery">
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-15-34-08-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-15-34-08.png" caption="Cut the Rope uses dots in its user experience to indicate more. It also crops on the left and right as a secondary affordance." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-15-56-08-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-15-56-08.png" caption="The Starbucks App uses dots to show I have more gift cards to select from." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-30-20-33-07-168x300.png" full="/media/2013/08/Screenshot_2013-07-30-20-33-07.png" caption="This intro screen in Wunderlist has several horizontal pages, indicated by dots on their interface." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-15-29-07-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-15-29-07.png" caption="Every Android configuration is different, but my app drawer uses dots and a horizontal paging user experience" %}</li>
+</ul>
 
 ## Arrows
 
 Arrows are far less prominent as a user experience pattern these days as they send a confusing message. An arrow may indicate something to the left or right, but does it tell the user to swipe in the direction of the arrow to get to it? Is it a button that I can tap? Trial and error will surely reveal the answer, but as UX professionals, we want our users to intrinsically know where the content is and how to get to it. Still, there are uses for arrows when interfaces need to be multi-purpose. Not all touch devices support gestures natively, and if you are building an app that needs to be almost the same across multiple platforms, these may be the way to go.
 
-Angry Birds Rio example with Arrow
-Angry Birds Rio sports an arrow on the right, indicating there is another screen of levels over there.
+{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-29-20-52-15-300x168.png" full="/media/2013/08/Screenshot_2013-07-29-20-52-15.png" caption="Angry Birds Rio sports an arrow on the right, indicating there is another screen of levels over there." %}
 
 ## Summary
 
-Google now allows users to swipe left or right to remove cards
-Google now allows users to swipe left or right to remove cards
+{% include galleryitem.html thumb="/media/2013/08/.png" full="/media/2013/08/" caption="Google now allows users to swipe left or right to remove cards" %}
+
 There is no clear cut winner among these affordance methods. However, the Beyond Borders method was more often used for galleries. The Dots method was more often found where there were discrete pages or cards to flip through. The Arrows method was not as popular, but I did find a couple of games that used it paired up with the Dots method.
 
 In my search I also found several apps that allow sideways swiping but didn’t show me that it was there except maybe in an instruction screen when I first ran the app. Google Now uses sideways swiping to “push away” cards that aren’t important at the moment. In IOS, the messages app allows swiping to access a quick delete function, but doesn’t tell you about it as it’s not essential to the experience. Pinterest allows you to swipe between tabs.
