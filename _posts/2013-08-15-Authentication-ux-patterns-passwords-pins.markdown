@@ -9,7 +9,8 @@ redirect_from: "/authentication/passwords-pins-and-patterns/"
 
 ---
 
-This article was originally posted on [uxpatterns.org](http://uxpatterns.org/authentication/passwords-pins-and-patterns/).
+_This article was originally posted on uxpatterns.org, which now redirects here._
+<!-- [uxpatterns.org](http://uxpatterns.org/authentication/passwords-pins-and-patterns/).-->
 
 Any time you have an account, you have some sort of sensitive information. That information might be as simple as a list of comments you’ve made, or it may be your banking history. We use passwords and patterns to unlock out smartphones. We might have a gate code to enter our apartment complex.
 

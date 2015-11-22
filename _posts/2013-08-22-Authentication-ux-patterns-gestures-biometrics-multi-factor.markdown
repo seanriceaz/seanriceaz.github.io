@@ -8,9 +8,10 @@ external: http://uxpatterns.org/authentication/authentication-ux-gestures-and-bi
 redirect_from: "/authentication/authentication-ux-gestures-and-biometrics/"
 
 ---
+_This article was originally posted on uxpatterns.org, which now redirects here._
 
-This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/authentication/authentication-ux-gestures-and-biometrics/)
-<!-- - Which now redirects here.
+<!--[Original Article Link](http://uxpatterns.org/authentication/authentication-ux-gestures-and-biometrics/) -->
+
 
 Authentication UX: Gestures, Biometrics, and Multi-Factor Authentication
 By Sean Rice On August 22, 2013 · Add Comment
