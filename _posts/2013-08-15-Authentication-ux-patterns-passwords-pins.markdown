@@ -41,7 +41,7 @@ Some sites require passwords with special characters, such as punctuation, dashe
 
 <ul class="gallery">
   <li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-19-at-8.23.38-PM-300x194.png" full="/media/2013/07/Screen-Shot-2013-07-19-at-8.23.38-PM.png" caption="First step to signing in to Bank of America" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-19-at-8.25.01-PM-171x300.png" full="/media/2013/07/Screen-Shot-2013-07-19-at-8.25.01-PM.png" caption="Bank of America has a "SiteKey" step where you enter your password. (This is not a real SiteKey combination)" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-19-at-8.25.01-PM-171x300.png" full="/media/2013/07/Screen-Shot-2013-07-19-at-8.25.01-PM.png" caption="Bank of America has a \"SiteKey\" step where you enter your password. (This is not a real SiteKey combination)" %}</li>
   <li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-19-at-8.25.23-PM-300x274.png" full="/media/2013/07/Screen-Shot-2013-07-19-at-8.25.23-PM.png" caption="The sign in from for Wells Fargo. This is a standard username and password combo." %}</li>
   <li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-19-at-8.22.58-PM-300x179.png" full="/media/2013/07/Screen-Shot-2013-07-19-at-8.22.58-PM.png" caption="Amazon's standard sign in form" %}</li>
   <li>{% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-19-at-8.34.26-PM-300x258.png" full="/media/2013/07/Screen-Shot-2013-07-19-at-8.34.26-PM.png" caption="The sign in form for Gmail is a username and password combo." %}</li>
