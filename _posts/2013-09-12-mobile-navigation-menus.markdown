@@ -4,7 +4,7 @@ title:  "Mobile Navigation Menus"
 date:   2013-09-12 00:00:00
 categories: user-experience patterns touch navigation mobile
 excerpt: Mobile navigation menu UX has been a hot topic the last few years. There are a couple of UX patterns that have emerged recently and some things that appear on their way out.
-external: http://uxpatterns.org/affordances/mobile-navigation-menus/
+#external: http://uxpatterns.org/affordances/mobile-navigation-menus/
 redirect_from: "/affordances/mobile-navigation-menus/"
 
 ---
@@ -48,13 +48,13 @@ In many newer apps and sites, particularly on Android, those three horizontal li
 Usually, when the menu was open, the three lines receded slightly to the left becoming even thinner.
 
 <ul class="gallery">
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Flixter app Menu" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Gmail Menu" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Google Play Music Menu" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Google Plus Menu" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="LinkedIn Menu" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Redbox menu" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Simple App Menu" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/flixter.png" caption="Flixter" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/gmail.png" caption="Gmail Menu" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/googleplaymusic.png" caption="Google Play Music" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/gplus.png" caption="Google Plus" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/linkedin.png" caption="LinkedIn Menu" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/redbox.png" caption="Redbox menu" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/simple.png" caption="Simple App Menu" %}</li>
 </ul>
 
 ## Button positioning
