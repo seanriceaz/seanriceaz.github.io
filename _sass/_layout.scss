@@ -100,3 +100,21 @@ footer {
 .rss-subscribe{
   margin-top:$spacing-unit;
 }
+
+
+/**
+ * Streak creative alert
+ */
+ .streak-warning{
+   position:fixed;
+   z-index:2;
+   top:$spacing-unit *3;
+   width:300px;
+   left:50%;
+   margin-left:-(150 + $spacing-unit);
+   overflow:auto;
+   background:white;
+   padding:$spacing-unit;
+   border:1px solid $grey-color;
+   box-shadow: 0 0 10px 0 rgba(0,0,0,.5);
+ }
