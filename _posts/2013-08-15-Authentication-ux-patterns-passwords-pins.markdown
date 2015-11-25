@@ -6,7 +6,7 @@ categories: user-experience patterns passwords
 excerpt: On many web sites, one of the most-used features is the password reset tool. We UX'ers must design our applications to accommodate the failings of human memory, which is why the password reset function exists. But perhaps we should strive for something higher than the illusion of security at the expense of user experience. In this article, we are going to explore different methods of authenticating, and how human memory limitations collide with security requirements.
 #external: http://uxpatterns.org/authentication/passwords-pins-and-patterns/
 redirect_from: "/authentication/passwords-pins-and-patterns/"
-
+schema_images: "[\"http://seanrice.net/media/2013/07/IMG951235-169x300\",\"http://www.seanrice.net/media/2013/07/Screen-Shot-2013-07-19-at-8.36.37-PM-300x178.png\"]"
 ---
 
 _This article was originally posted on uxpatterns.org, which now redirects here._
