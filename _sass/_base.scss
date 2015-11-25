@@ -53,7 +53,11 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
-
+.img-right{
+  float:right;
+  margin-left:$spacing-unit;
+  margin-bottom:$spacing-unit;
+}
 
 
 /**
@@ -394,4 +398,10 @@ ul.gallery{
 figcaption{
   font-style:italic;
   margin:0 0 1em;
+}
+@include media-query($screen-xs) {
+  .img-right{
+    float:none;
+    margin:0;
+  }
 }
