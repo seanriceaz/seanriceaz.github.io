@@ -68,9 +68,9 @@ Early on, it was a common pattern to place the logo on the left and menu button 
 A menu button on the right usually tells the user that the menu will slide in from the top, or from the right.
 
 <ul class="gallery">
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="QQ’s menu comes in above with their menu icon on the right." %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="The Smashing menu drops in from the top" %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Flipboard’s menu slides in from the right." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/qq-300x266.png" full="/media/2013/09/qq.png" caption="QQ’s menu comes in above with their menu icon on the right." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/smashing-300x266.png" full="/media/2013/09/smashing.png" caption="The Smashing menu drops in from the top" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/flipboard-300x266.png" full="/media/2013/09/flipboard.png" caption="Flipboard’s menu slides in from the right." %}</li>
 </ul>
 
 ### Menu Button on the Left
@@ -78,23 +78,23 @@ A menu button on the right usually tells the user that the menu will slide in fr
 At some point, the menu button started appearing on the left. This usually tells the user that the menu will slide in from the left. I found this to be the most popular option in newer apps, and on many web sites. This is almost always paired up with an off-canvas layout to the left that pushes the content over as the menu opens.
 
 <ul class="gallery">
-  <li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Flixter's menu slides in from the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Gmail's menu comes in from the left with a darkened overlay." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="When logged in, this Google menu appears from the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="The Google Play Music app menu comes in from the left" %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Google Plus's menu has an overlay and comes in from the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="LinkedIn's menu slides in from the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Redbox has a left menu" %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Simple's menu slides from the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="The menu in the Spotify app appears from the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="The Trip Advisor menu is on the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="For Wikipedia, once you're in an article, there is a menu on the left." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="The Wordpress App has a menu on the left.
-" %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Wunderlist has a menu on the left that comes out like a drawer.
-" %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Yahoo (Currently testing alternate logos) has a menu that slides down over the content on the page." %}</li>
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="Burton's new menu drops in from the top." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/flixter1-300x266.png" full="/media/2013/09/flixter1.png" caption="Flixter's menu slides in from the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/gmail1-300x266.png" full="/media/2013/09/gmail1.png" caption="Gmail's menu comes in from the left with a darkened overlay." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/google-300x266.png" full="/media/2013/09/google.png" caption="When logged in, this Google menu appears from the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/googlemusic-300x266.png" full="/media/2013/09/googlemusic.png" caption="The Google Play Music app menu comes in from the left" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/googleplus-300x266.png" full="/media/2013/09/googleplus.png" caption="Google Plus's menu has an overlay and comes in from the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/linkedinux-300x266.png" full="/media/2013/09/linkedinux.png" caption="LinkedIn's menu slides in from the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/redbox1-300x266.png" full="/media/2013/09/redbox1.png" caption="Redbox has a left menu" %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/simpleleft-300x266.png" full="/media/2013/09/simpleleft.png" caption="Simple's menu slides from the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/spotify-300x266.png" full="/media/2013/09/spotify.png" caption="The menu in the Spotify app appears from the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/Tripadvisor-300x266.png" full="/media/2013/09/Tripadvisor.png" caption="The Trip Advisor menu is on the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/wikipedia-300x266.png" full="/media/2013/09/wikipedia.png" caption="For Wikipedia, once you're in an article, there is a menu on the left." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/wordpressApp-300x266.png" full="/media/2013/09/wordpressApp.png" caption="The Wordpress App has a menu on the left.
+  " %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/wunderlist-300x266.png" full="/media/2013/09/wunderlist.png" caption="Wunderlist has a menu on the left that comes out like a drawer.
+  " %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/yahoo-300x266.png" full="/media/2013/09/yahoo.png" caption="Yahoo (Currently testing alternate logos) has a menu that slides down over the content on the page." %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/burtonmenuUX-300x266.png" full="/media/2013/09/burtonmenuUX.png" caption="Burton's new menu drops in from the top." %}</li>
 </ul>
 
 ## Different Strokes
@@ -105,22 +105,19 @@ A few apps are doing different things with menus that you, my dear readers may w
 
 When Path launched, it gained some notoriety for this feature. To post something, you tap their menu (a plus icon) and the items come out around it in a circle.
 
-<li>{% include galleryitem.html thumb="/media/2013/09/path-300x266.png" full="/media/2013/09/path.png" caption="" %}</li>
-Path Menu UX
+{% include galleryitem.html thumb="/media/2013/09/path-300x266.png" full="/media/2013/09/path.png" caption="Path Menu UX" %}
 
 ### Google Maps
 
 Google Maps (on Android) has moved their menu button to the lower left of the screen. This clears some room up top, but is otherwise a curious choice.
 
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="" %}</li>
-Google Maps Menu UX
+{% include galleryitem.html thumb="/media/2013/09/googlemaps-ux-300x266.png" full="/media/2013/09/googlemaps-ux.png" caption="Google Maps Menu UX" %}
 
 ### Facebook
 
 Facebook has two different menus that serve different functions. The left one is for navigation and other tools. The right one is for finding your friends
 
-<li>{% include galleryitem.html thumb="/media/2013/09/" full="/media/2013/09/" caption="" %}</li>
-Facebook app menu
+{% include galleryitem.html thumb="/media/2013/09/facebook-menu-ux-both-sides-300x177.png" full="/media/2013/09/facebook-menu-ux-both-sides.png" caption="Facebook app menu" %}
 
 ## More reading
 
