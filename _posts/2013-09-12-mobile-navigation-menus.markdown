@@ -91,8 +91,7 @@ At some point, the menu button started appearing on the left. This usually tells
   <li>{% include galleryitem.html thumb="/media/2013/09/wikipedia-300x266.png" full="/media/2013/09/wikipedia.png" caption="For Wikipedia, once you're in an article, there is a menu on the left." %}</li>
   <li>{% include galleryitem.html thumb="/media/2013/09/wordpressApp-300x266.png" full="/media/2013/09/wordpressApp.png" caption="The Wordpress App has a menu on the left.
   " %}</li>
-  <li>{% include galleryitem.html thumb="/media/2013/09/wunderlist-300x266.png" full="/media/2013/09/wunderlist.png" caption="Wunderlist has a menu on the left that comes out like a drawer.
-  " %}</li>
+  <li>{% include galleryitem.html thumb="/media/2013/09/wunderlist-300x266.png" full="/media/2013/09/wunderlist.png" caption="Wunderlist has a menu on the left that comes out like a drawer." %}</li>
   <li>{% include galleryitem.html thumb="/media/2013/09/yahoo-300x266.png" full="/media/2013/09/yahoo.png" caption="Yahoo (Currently testing alternate logos) has a menu that slides down over the content on the page." %}</li>
   <li>{% include galleryitem.html thumb="/media/2013/09/burtonmenuUX-300x266.png" full="/media/2013/09/burtonmenuUX.png" caption="Burton's new menu drops in from the top." %}</li>
 </ul>
