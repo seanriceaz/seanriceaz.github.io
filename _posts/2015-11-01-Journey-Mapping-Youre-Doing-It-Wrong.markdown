@@ -11,16 +11,16 @@ _This article was originally posted on [ethology.com](http://www.ethology.com/jo
 
 &quot;How do your customers buy your product?&quot; Of all the questions someone could ask you about your business, this one seems far from the hardest to answer. Yet, with the emergence of new marketing channels, multiple screens and digital media, it’s now one of the most complex, dynamic and important questions of our time &ndash; one that sits at the very core of modern business. The companies that are able to most accurately answer it are the ones differentiating themselves and succeeding in the marketplace. This is why more and more companies are embarking on <a href="http://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/" target="_blank">journey mapping</a> projects to better understand the paths and needs of their customers.
 
-<blockquote>It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.</blockquote>
+> It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
 
 However, not all journey mapping projects are created equal. Too often these exercises are done with minimal investment, based solely on the intuition of a handful of often-isolated executives. While these partial journey maps may have some value, they almost always fall short of revealing the types of insights and ideas that can truly drive innovation and growth.
 
-So how do you <a href="http://www.ethology.com/use-your-customer-journey-map-to-guide-your-marketing">unlock a journey map’s full potential</a>? By creating more robust maps <b>based on ethnographic research</b>. It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
+So how do you [unlock a journey map’s full potential](http://www.ethology.com/use-your-customer-journey-map-to-guide-your-marketing)? By creating more robust maps *based on ethnographic research*. It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
 
-<img class="aligncenter size-full wp-image-2409" src="http://www.ethology.com/wp-content/uploads/2015/12/what-is-ethnography.jpg" alt="what is ethnography" width="778" height="228" />
+<img src="http://www.ethology.com/wp-content/uploads/2015/12/what-is-ethnography.jpg" alt="what is ethnography" width="778" height="228" />
 
 ## What Is Ethnography?
-In short, ethnography is the <b>systematic</b> study of people and cultures. Pioneered in the field of anthropology to gain deeper and more nuanced understanding of human social behavior and cultures, ethnography emphasizes long-term, observational, field-based research as opposed to research conducted in laboratories or other controlled settings. It’s not a new concept as applied to business &ndash; <a href="https://hbr.org/2009/03/ethnographic-research-a-key-to-strategy" target="_blank">Intel’s successful expansion into creating products for home use in the mid-1990s, for example, was driven by ethnographic research.</a> Yet, ethnographic research, which often requires significant time and resources, is often cut out of the equation or not even considered in the name of &quot;going lean&quot; and &quot;maximizing efficiency.&quot; Let’s take a look at why this is shortsighted.
+In short, ethnography is the *systematic* study of people and cultures. Pioneered in the field of anthropology to gain deeper and more nuanced understanding of human social behavior and cultures, ethnography emphasizes long-term, observational, field-based research as opposed to research conducted in laboratories or other controlled settings. It’s not a new concept as applied to business &ndash; <a href="https://hbr.org/2009/03/ethnographic-research-a-key-to-strategy" target="_blank">Intel’s successful expansion into creating products for home use in the mid-1990s, for example, was driven by ethnographic research.</a> Yet, ethnographic research, which often requires significant time and resources, is often cut out of the equation or not even considered in the name of &quot;going lean&quot; and &quot;maximizing efficiency.&quot; Let’s take a look at why this is shortsighted.
 
 ## Your Typical Journey Map
 
@@ -29,34 +29,37 @@ A journey map generally starts with a handful of executives gathered in a room, 
 ## The Trap
 
 Without knowing it, many journey mappers fall into the trap of only looking at what happens on the site or app in focus to understand a user. The problem with this is that there are factors that operate outside the site, or even offline entirely, that have tremendous influence on the user journey:
-<ul>
-	<li>Context &ndash; Where is the user completing a step? At a library? On the bus? At home?</li>
-	<li>Comparison &ndash; Does the user have a competitor’s site open in another browser tab? Or perhaps multiple product pages <a href="http://www.nngroup.com/articles/multi-tab-page-parking/" target="_blank">in multiple tabs</a>?</li>
-	<li>Influence of Others &ndash; Did someone influence a user’s decision in some way?</li>
-	<li>Real-World Interactions &ndash; Did a user arrive at the location and get what he or she needed easily? Was there confusion? Were the employees helpful? Are print materials in sync with the website? Did the user utilize a mobile device to enhance the experience? If so, how? (Price comparisons? Tap-to-Pay?)</li>
-</ul>
-This short list reveals gaps in knowledge that exist when journey mappers focus on interpreting a user’s data and activity in a vacuum, rather than understanding his or her holistic, everyday experiences.
-<h2><b>The Solution: Real World Data Mining</b></h2>
-<strong>The way to escape the trap is to escape the office.</strong> Go observe real users in their natural environments (or as close to it as you can get). If you sell dishwashing soap, go watch people wash dishes! If you have a running app, go watch people run! Conduct interviews and observe brick-and-mortar locations. Observe your users, write down details and interpret later. Look for things that others don’t see:
-<ul>
-	<li>What are users doing while they wait?</li>
-	<li>What are they writing down?</li>
-	<li>Are they consulting anyone at particular decision points?</li>
-	<li>Are they using multiple devices?</li>
-</ul>
-<h2><b>What Your Journey Map Should Look Like</b></h2>
-While journey maps will understandably look different (sometimes vastly so) depending on your industry and market, there are elements that you should generally always have:
-<ul>
-	<li>Insights into what users are thinking at each step</li>
-	<li>Notes about the location(s) where each step is completed</li>
-	<li>Notes about the different people and job positions involved in the user journey</li>
-	<li>Insights into what is happening before users enter the sales funnel and why they choose to look into your funnel to begin with</li>
-	<li>Insights into what users do after the initial conversion (often, there is an ongoing relationship created)</li>
-	<li>Insights into what causes user friction in the process, usually identified as &quot;pain points&quot;</li>
-	<li>Insights into what happens in between direct interactions with the process (i.e., is there a wait time between steps?)</li>
-</ul>
 
-## One Journey Map Is a Start, But It’s Not Enough<
+- Context &ndash; Where is the user completing a step? At a library? On the bus? At home?
+- Comparison &ndash; Does the user have a competitor’s site open in another browser tab? Or perhaps multiple product pages <a href="http://www.nngroup.com/articles/multi-tab-page-parking/" target="_blank">in multiple tabs</a>?
+- Influence of Others &ndash; Did someone influence a user’s decision in some way?
+- Real-World Interactions &ndash; Did a user arrive at the location and get what he or she needed easily? Was there confusion? Were the employees helpful? Are print materials in sync with the website? Did the user utilize a mobile device to enhance the experience? If so, how? (Price comparisons? Tap-to-Pay?)
+
+This short list reveals gaps in knowledge that exist when journey mappers focus on interpreting a user’s data and activity in a vacuum, rather than understanding his or her holistic, everyday experiences.
+
+## The Solution: Real World Data Mining
+
+*The way to escape the trap is to escape the office.* Go observe real users in their natural environments (or as close to it as you can get). If you sell dishwashing soap, go watch people wash dishes! If you have a running app, go watch people run! Conduct interviews and observe brick-and-mortar locations. Observe your users, write down details and interpret later. Look for things that others don’t see:
+
+- What are users doing while they wait?
+- What are they writing down?
+- Are they consulting anyone at particular decision points?
+- Are they using multiple devices?
+
+## What Your Journey Map Should Look Like
+
+While journey maps will understandably look different (sometimes vastly so) depending on your industry and market, there are elements that you should generally always have:
+
+- Insights into what users are thinking at each step
+- Notes about the location(s) where each step is completed
+- Notes about the different people and job positions involved in the user journey
+- Insights into what is happening before users enter the sales funnel and why they choose to look into your funnel to begin with
+- Insights into what users do after the initial conversion (often, there is an ongoing relationship created)
+- Insights into what causes user friction in the process, usually identified as &quot;pain points&quot;
+- Insights into what happens in between direct interactions with the process (i.e., is there a wait time between steps?)
+
+
+## One Journey Map Is a Start, But It’s Not Enough
 
 One journey map tells the experience of one user through his or her entire relationship with your company. For a more complete picture, map several users or focused user personas. Don’t rely on simple demographics for this &ndash; they’re too low resolution.
 
