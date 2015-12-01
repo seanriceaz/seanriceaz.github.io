@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Journey Mapping &mdash; You’re Doing It All Wrong"
-date:   2015-05-16 09:00:00
+date:   2015-11-01 09:00:00
 categories: analytics customer-experience cx data ethnography journey-map ux
 excerpt: By using journey mapping essentials such as ethnography, you can make sure you're not missing any pieces to your journey map puzzle.
 external: http://www.ethology.com/journey-mapping-essentials-ethnography
@@ -26,7 +26,7 @@ In short, ethnography is the <b>systematic</b> study of people and cultures. Pio
 
 A journey map generally starts with a handful of executives gathered in a room, talking about how their customers walk through the purchasing process. More often than not, there are plenty of sticky notes and whiteboarding exercises. At this point, people are excited and feeling good &ndash; and they should! It’s a great start to understanding the process. The problem is, most companies and agencies stop here, resulting in less of a customer journey map and more of something like a customer journey best guess. If a few customer-facing people are involved, or user analytics data is incorporated, the results may be slightly better, but still underwhelming.
 
-## The Trap 
+## The Trap
 
 Without knowing it, many journey mappers fall into the trap of only looking at what happens on the site or app in focus to understand a user. The problem with this is that there are factors that operate outside the site, or even offline entirely, that have tremendous influence on the user journey:
 <ul>
