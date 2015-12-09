@@ -9,7 +9,7 @@ excerpt: By using journey mapping essentials such as ethnography, you can make s
 
 _This article was originally posted on [ethology.com](http://www.ethology.com/journey-mapping-essentials-ethnography?ref=seanricenet)_
 
-&quot;How do your customers buy your product?&quot; Of all the questions someone could ask you about your business, this one seems far from the hardest to answer. Yet, with the emergence of new marketing channels, multiple screens and digital media, it’s now one of the most complex, dynamic and important questions of our time &ndash; one that sits at the very core of modern business. The companies that are able to most accurately answer it are the ones differentiating themselves and succeeding in the marketplace. This is why more and more companies are embarking on <a href="http://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/" target="_blank">journey mapping</a> projects to better understand the paths and needs of their customers.
+&quot;How do your customers buy your product?&quot; Of all the questions someone could ask you about your business, this one seems far from the hardest to answer. Yet, with the emergence of new marketing channels, multiple screens and digital media, it’s now one of the most complex, dynamic and important questions of our time &ndash; one that sits at the very core of modern business. The companies that are able to most accurately answer it are the ones differentiating themselves and succeeding in the marketplace. This is why more and more companies are embarking on [journey mapping](http://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) projects to better understand the paths and needs of their customers.
 
 > It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
 
@@ -17,7 +17,7 @@ However, not all journey mapping projects are created equal. Too often these exe
 
 So how do you [unlock a journey map’s full potential](http://www.ethology.com/use-your-customer-journey-map-to-guide-your-marketing)? By creating more robust maps *based on ethnographic research*. It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
 
-<img src="http://www.ethology.com/wp-content/uploads/2015/12/what-is-ethnography.jpg" alt="what is ethnography" width="778" height="228" />
+<!--<img src="http://www.ethology.com/wp-content/uploads/2015/12/what-is-ethnography.jpg" alt="what is ethnography" />-->
 
 ## What Is Ethnography?
 In short, ethnography is the *systematic* study of people and cultures. Pioneered in the field of anthropology to gain deeper and more nuanced understanding of human social behavior and cultures, ethnography emphasizes long-term, observational, field-based research as opposed to research conducted in laboratories or other controlled settings. It’s not a new concept as applied to business &ndash; <a href="https://hbr.org/2009/03/ethnographic-research-a-key-to-strategy" target="_blank">Intel’s successful expansion into creating products for home use in the mid-1990s, for example, was driven by ethnographic research.</a> Yet, ethnographic research, which often requires significant time and resources, is often cut out of the equation or not even considered in the name of &quot;going lean&quot; and &quot;maximizing efficiency.&quot; Let’s take a look at why this is shortsighted.
