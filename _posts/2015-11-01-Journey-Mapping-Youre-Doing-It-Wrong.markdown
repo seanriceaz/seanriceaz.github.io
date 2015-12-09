@@ -4,10 +4,10 @@ title:  "Journey Mapping &mdash; You’re Doing It All Wrong"
 date:   2015-11-01 09:00:00
 categories: analytics customer-experience cx data ethnography journey-map ux
 excerpt: By using journey mapping essentials such as ethnography, you can make sure you're not missing any pieces to your journey map puzzle.
-external: http://www.ethology.com/journey-mapping-essentials-ethnography
+# external: http://www.ethology.com/journey-mapping-essentials-ethnography
 ---
 
-_This article was originally posted on [ethology.com](http://www.ethology.com/journey-mapping-essentials-ethnography)_
+_This article was originally posted on [ethology.com](http://www.ethology.com/journey-mapping-essentials-ethnography?ref=seanricenet)_
 
 &quot;How do your customers buy your product?&quot; Of all the questions someone could ask you about your business, this one seems far from the hardest to answer. Yet, with the emergence of new marketing channels, multiple screens and digital media, it’s now one of the most complex, dynamic and important questions of our time &ndash; one that sits at the very core of modern business. The companies that are able to most accurately answer it are the ones differentiating themselves and succeeding in the marketplace. This is why more and more companies are embarking on <a href="http://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/" target="_blank">journey mapping</a> projects to better understand the paths and needs of their customers.
 
