@@ -9,7 +9,21 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-  {{ page.schema }}
+  {% if page.layout == "post" %}
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "headline": "{{page.title}}",
+    "datePublished": "{{page.date}}",
+    "description":"{{page.excerpt}}",
+    "image": {{page.schema_images}}
+  }
+  </script>
+
+  {% else %}
+    {{ page.schema }}
+  {% endif %}
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

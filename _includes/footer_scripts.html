@@ -31,5 +31,21 @@
         caption:"caption"
       });
     });
+    //Set up the streak creative popup if necessary
+    if(getParameterByName('ref')=="streakcreative"){
+      $('body').append("<div class='streak-warning'><p><b>Streak Creative</b> is no longer operating. For questions pertaining to streak, feel free to contact me.</p><p>If you are looking for top quality design and digital marketing services, please reach out to <a href='http://www.ethology.com'>Ethology</a>, where I now work.</p><a href='#' class='close button'>Got it</a></div>");
+      $('.streak-warning .close').click(function(e){
+        e.preventDefault();
+        $('.streak-warning').fadeOut();
+      });
+    }
   });
+
+  //Function to get query string parameters
+  function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+        results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+  }
 </script>

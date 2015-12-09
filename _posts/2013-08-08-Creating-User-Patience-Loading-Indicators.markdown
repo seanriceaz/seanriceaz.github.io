@@ -6,7 +6,7 @@ categories: user-experience patterns widgets loading progress
 excerpt: No matter how zippy we make our applications and sites, there will often be something that takes time to process. Loading indicators, often those swirly circle graphics like these , generally show up when something takes longer than a second or two to process.
 #external: http://uxpatterns.org/progress/loading-indicators/
 redirect_from: "/progress/loading-indicators/"
-
+schema_images: "[\"http://seanrice.net/media/2013/08/Screenshot_2013-07-15-23-36-33-168x300.png\",\"http://www.seanrice.net/media/2013/08/wordpress-uploading.png\"]"
 ---
 
 _This article was originally posted on uxpatterns.org, which now redirects here._

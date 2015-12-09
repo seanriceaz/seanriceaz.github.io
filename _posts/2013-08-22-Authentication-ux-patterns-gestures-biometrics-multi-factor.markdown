@@ -6,7 +6,7 @@ categories: user-experience patterns authentication
 excerpt: For a very long time, we have dreamed of ways to unlock things or gain entry where we don’t need to remember something or carry some kind of token. As computers get better and companies experiment with more powerful hardware and software, this dream edges closer and closer to reality.
 #external: http://uxpatterns.org/authentication/authentication-ux-gestures-and-biometrics/
 redirect_from: "/authentication/authentication-ux-gestures-and-biometrics/"
-
+schema_images: "[\"http://seanrice.net/media/2013/07/Screenshot_2013-07-18-06-43-12-168x300.png\",\"http://www.seanrice.net/media/2013/08/842938_60675048-300x225.jpg\"]"
 ---
 _This article was originally posted on uxpatterns.org, which now redirects here._
 
