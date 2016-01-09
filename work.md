@@ -5,9 +5,9 @@ subtext: Reflection on my past work experience and key takeaways from each.
 permalink: /work/
 excerpt: A brief history of Sean Rice's work in user experience design
 ---
-## Ethology (Formerly 29th Drive)
+## Ethology (Since Fall 2013)
 
-[Ethology](http://www.ethology.com) is my current work-home. I'm energized daily by the influx of new and interesting projects. Ethology really understands the importance of customer experience design. building empathy with our customers' consumers is always teaching me new and exciting insights to drive performance of our designs.
+[Ethology](http://www.ethology.com) is my current work-home. I'm energized daily by the influx of new and interesting projects. Ethology really understands the importance of customer experience design. Building empathy with our customers' consumers is always teaching me new and exciting insights to drive performance of our designs.
 
 ### Big Projects
 
@@ -15,7 +15,9 @@ excerpt: A brief history of Sean Rice's work in user experience design
 - [Insight.com Redesign](http://insight.com)
 - [ASU UTO Web Site Redesign](http://uto.asu.edu)
 - [DUFL app (Through Tallwave)](http://dufl.com)
+- [NextCare Website Optimization & Testing](http://www.nextcare.com)
 - Several technical reporting dashboard applications
+- Customer experience research, interviews and reporting
 
 ### Open Source
 
