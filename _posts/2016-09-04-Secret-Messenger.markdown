@@ -25,4 +25,4 @@ I will broadcast a live sketching session around this idea and post the resultin
 
 ## Licensing this idea
 
-I'm working out a license
+I'm working out a license to use for these ideas. For now, if you want to use this in a product, just reach out to me. I'm not hard to find (Social links below)
