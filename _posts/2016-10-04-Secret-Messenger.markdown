@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Secret Messenger &mdash; Keep Nosy Neighbors from Peeking"
-date:   2015-11-01 09:00:00
+date:   2016-10-04 09:00:00
 categories: idea app prototype
-excerpt: A free idea for an app that helps people hide their messages from people seated nearby
+excerpt: An app that helps people hide their messages from people seated nearby (Idea)
 # external: http://www.ethology.com/journey-mapping-essentials-ethnography
 ---
 
@@ -19,10 +19,10 @@ Why not place the phone keyboard at the top of the screen? This way, users can t
 
 Hiding the message dialog from the view of others also hides it from the user's view. This may result in an increase in typographical errors, which may increase frustration.
 
-## Next step
+## Prototyping
 
-I will broadcast a live sketching session around this idea and post the resulting sketches here.
+I will broadcast a live sketching session around this idea and post the resulting sketches here. [Follow me on twitter](https://twitter.com/SeanRiceaz) for a heads-up on when this will happen.
 
-## Licensing this idea
+## Want to use this idea? Seen this somewhere already?
 
-I'm working out a license to use for these ideas. For now, if you want to use this in a product, just reach out to me. I'm not hard to find (Social links below)
+I'm releasing these ideas to the internet in hopes that they'll inspire some creativity. If you like the idea, or know somewhere it's already in use, feel free to leave a comment! If you want to use this idea in your product, reach out to me. I'd love to help you integrate it.
