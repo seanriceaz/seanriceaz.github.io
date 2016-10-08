@@ -4,7 +4,7 @@ title:  "Secret Messenger &mdash; Keep Nosy Neighbors from Peeking"
 date:   2016-10-04 09:00:00
 categories: idea app prototype
 excerpt: An app that helps people hide their messages from people seated nearby (Idea)
-# external: http://www.ethology.com/journey-mapping-essentials-ethnography
+showcomments: true
 ---
 
 ## The problem

@@ -4,7 +4,7 @@ title:  "My 10 heuristics for UX design"
 date:   2016-10-07 09:00:00
 categories: heuristics user-experience
 excerpt: Announcing a blog series about 10 Heuristics I use when evaluating UX designs
-# external: http://www.ethology.com/journey-mapping-essentials-ethnography
+showcomments: true
 ---
 
 ## Didn't Jakob Nielsen already make this?
