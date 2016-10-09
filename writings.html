@@ -13,17 +13,19 @@ excerpt: Articles on user experience by Sean Rice
 
   <div class="post-list">
     {% for post in site.posts %}
-    <article>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          {% if post.external %}
-          <a class="post-link" href="{{ post.external }}" target="_blank">{{ post.title }}</a>
-          {% else %}
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {% endif %}
-        </h2>
-        <p>{{ post.excerpt }}</p>
-    </article>
+      {% unless post.draft %}
+      <article>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <h2>
+            {% if post.external %}
+            <a class="post-link" href="{{ post.external }}" target="_blank">{{ post.title }}</a>
+            {% else %}
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            {% endif %}
+          </h2>
+          <p>{{ post.excerpt }}</p>
+      </article>
+      {% endunless %}
     {% endfor %}
 
   </div>
