@@ -38,7 +38,7 @@ PDF is a very typical file format on the web. However, it can be problematic for
 
 ### Form elements
 
-Forms are a passion of mine. They're almost never implemented well when I first encounter them. As it pertains to accessibility, mostly what I look for in forms is that every form element should be appropriately labelled &mdash; preferably with a `<label>` element.
+Forms are a passion of mine. They're almost never implemented well when I first encounter them. As it pertains to accessibility, mostly what I look for in forms is that every form element should be appropriately labelled &mdash; preferably with a `<label>` element. I also make sure that all form elements can be interacted with appropriately depending on the type of input that is required.
 
 ## Diving deeper
 
