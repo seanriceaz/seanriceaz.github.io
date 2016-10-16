@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Heuristic #1: Accessibility"
-date:   2016-10-14 09:00:00
+date:   2016-10-16 09:00:00
 categories: heuristics user-experience accessibility
 excerpt: Accessibility is the first of the ten heuristics I use to evaluate digital user experiences. The reason it is number one because it is the baseline. It's table stakes. If your experience isn't accessible to your customers (including the disabled), at minimum you're leaving money on the table and may be opening yourself up for lawsuits.
 showcomments: true
-draft: true
+draft: false
 ---
 
 Accessibility is the first of the ten heuristics I use to evaluate digital user experiences. The reason it is number one because it is the baseline. It's table stakes. If your experience isn't accessible to your customers (including the disabled), at minimum you're leaving money on the table and may be opening yourself up for lawsuits.
