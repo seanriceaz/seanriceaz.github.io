@@ -32,13 +32,19 @@ In a usable experience, colors don't call attention to themselves. There is a lo
 
 - Colors that vibrate (like complimentary colors) should not be placed next to each other
 - Background and foreground colors should be different enough to make the foreground stand out
-- Brand colors should be accurately reproduced in digital elements and should match.
+- Brand colors should match exactly everywhere (no "close enough")
 
 ### Image selection
 
+This section doesn't have a lot to do with usability, but it definitely affects the user's perception of the brand. Poorly-selected images diminish the experience. This can take a few different forms.
 
+One is more technical: "lossy" over-compressed images, or images that were stretched to fill the space are visibly low-quality. Lossy images need to be reworked from the original. Stretched images may need to be resized from the original, but more often, the stylsheet or the markup need to be adjusted to make it stretch proportionally, or limit the resizing so that the image doesn't stretch past its native resolution.
 
+The other form image selection issues take is more content-related: Some images draw attention away from the content of the experience for the _wrong reasons_. They're too goofy, or otherwise inappropriate. Other times, they're simply meaningless images. Avoid these images!
 
+## Summary
+
+Aesthetics are pretty important to the success of a digital experience. Customers expect high standards, even from "value" brands.
 
 ## Stay tuned!
 
