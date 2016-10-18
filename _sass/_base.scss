@@ -59,6 +59,15 @@ img {
   margin-bottom:$spacing-unit;
 }
 
+figure{
+  padding: $spacing-unit/2;
+  border:1px solid $grey-color;
+  clear:both;
+  figcaption{
+    margin:$spacing-unit/2 0;
+  }
+}
+
 
 /**
  * Figures

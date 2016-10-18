@@ -59,4 +59,4 @@ Much has been written about accessibility on the web. Here are a few sites/artic
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at Heuristic #2: Aesthetics from [My 10 Heuristics](http://seanrice.net/heuristics/user-experience/2016/10/07/heuristics-overview.html)
+Next week, I'll post a detailed look at Heuristic #2: Aesthetics from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html)
