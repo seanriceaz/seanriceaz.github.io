@@ -16,7 +16,8 @@ What I needed was something simpler and easier to clearly apply to the user inte
 ## My 10 heuristics
 
 1. [Accessibility](/heuristics/user-experience/2016/10/16/heuristic-1-accessibility.html)
-2. [Aesthetics](/heuristics/user-experience/2016/10/21/heuristic-2-aesthetics.html)
+<!--2. [Aesthetics](/heuristics/user-experience/2016/10/21/heuristic-2-aesthetics.html)-->
+2. Aesthetics
 3. Awareness
 4. Wayfinding
 5. Reactivity
