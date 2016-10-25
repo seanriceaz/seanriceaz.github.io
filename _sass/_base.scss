@@ -59,22 +59,23 @@ img {
   margin-bottom:$spacing-unit;
 }
 
-figure{
-  padding: $spacing-unit/2;
-  border:1px solid $grey-color;
-  clear:both;
-  figcaption{
-    margin:$spacing-unit/2 0;
-  }
-}
-
-
 /**
  * Figures
  */
 figure > img {
     display: block;
 }
+
+figure.img-right, figure.img-left{
+  padding: $spacing-unit/2;
+  border:1px solid $grey-color;
+  clear:both;
+  display:inline-block;
+  figcaption{
+    margin:$spacing-unit/2 0;
+  }
+}
+
 
 figcaption {
     font-size: $small-font-size;
