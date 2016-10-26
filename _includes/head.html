@@ -32,8 +32,6 @@
     siteURL=siteURL.replace(/__/g,".");
     canonical=canonical.replace(/__/g,".");
 
-    console.log(canonical);
-    console.log(siteURL);
     if ( window.location.href.indexOf(siteURL)<0 && window.location.href.indexOf("localhost")<0 ){
       window.location.replace(canonical);
     }
