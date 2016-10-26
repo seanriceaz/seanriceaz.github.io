@@ -27,12 +27,13 @@
   <script>
   //Due to some bad actors, we need to check if this page is being proxied, and if it is, redirect the traffic to the right place. SHAME ON YOU PROXIES!
     var canonical = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}";
-    var siteURL= "{{ site.url }}"
-    if ( window.location.href.indexOf(siteURL)<0 ){
+    var siteURL= "{{ site.url }}";
+    console.log(window.location.href.indexOf(siteURL));
+    if ( window.location.href.indexOf(siteURL)<0 && window.location.href.indexOf("localhost")<0 ){
       window.location.replace(canonical);
     }
 
-  
+
   </script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
