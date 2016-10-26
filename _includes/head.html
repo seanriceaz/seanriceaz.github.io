@@ -25,9 +25,13 @@
     {{ page.schema }}
   {% endif %}
   <script>
-  //Due to some bad actors, we need to check if this page is being proxied, and if it is, redirect the traffic to the right place. SHAME ON YOU PROXIES!
-    var canonical = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}";
-    var siteURL= "{{ site.url }}";
+  //Due to some bad actors, we need to check if this page is being proxied, and if it is, redirect the traffic to the right place. SHAME ON YOU PROXIES for placing ads over my content!
+    var canonical = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace: '.', '__' }}";
+    var siteURL= "{{ site.url | replace: '.', '__' }}";
+
+    siteURL=siteURL.replace("__",".");
+    canonical=canonical.replace("__",".");
+
     console.log(window.location.href.indexOf(siteURL));
     if ( window.location.href.indexOf(siteURL)<0 && window.location.href.indexOf("localhost")<0 ){
       window.location.replace(canonical);
