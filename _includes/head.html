@@ -29,8 +29,8 @@
     var canonical = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace: '.', '__' }}";
     var siteURL= "{{ site.url | replace: '.', '__' }}";
 
-    siteURL=siteURL.replace("__",".");
-    canonical=canonical.replace("__",".");
+    siteURL=siteURL.replace(/__/g,".");
+    canonical=canonical.replace(/__/g,".");
 
     console.log(canonical);
     console.log(siteURL);
