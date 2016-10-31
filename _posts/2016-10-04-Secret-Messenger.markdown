@@ -11,9 +11,11 @@ showcomments: true
 
 Have you ever been on a plane, or at church, or in a car seated next to somebody who appears a little interested in your text messages? Maybe you want to write a message about this person to somebody else, but you can't because they might see it, and so instead of connecting with somebody, you remain silent.
 
-## Proposed solution
+## Proposed solution (Updated 10/30/2016)
 
 Why not place the phone keyboard at the top of the screen? This way, users can type messages while covering the screen with their palms.
+
+In thinking about this problem more, I wanted to also explore some ideas around screenless or wearable (at least for the sender) interactions. The sender could have a wearable that allows them to tap morse code, enter some shorthand gestures, or draw letters.
 
 ## Anticipated UX ramifications
 
