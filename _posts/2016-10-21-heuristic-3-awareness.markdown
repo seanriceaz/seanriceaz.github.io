@@ -23,6 +23,10 @@ Our studies have shown _very_ low use of geolocation features when the user is p
 
 #### (Recommended) Look up the user's location using their IP address
 
+<figure><img  src="/media/2016/11/walgreens-location.png" alt="Walgreens autodetects by IP">
+<figcaption>Walgreens's Location Finder detect location by IP</figcaption>
+</figure>
+
 Let's face it, your web site (apps don't have this problem) doesn't need to know where a user is within 3 feet. IP address lookup can get you close enough&mdash;within a city block or so&mdash;to find your nearest locations to them, and they can fine-tune from there. You also don't need to prompt them for this. A good example of this is Walgreens' location finder.
 
 #### Prompt when the user interacts
@@ -31,11 +35,15 @@ A "use my location" button gets the user in the mindset of sharing their informa
 
 #### Ask them for their location
 
-The old standby option is to simply ask them for their location. If you do this, make sure you only ask them once, and save the information until the user indicates that they want to change it. Users don't like being nagged over and over again for information they've already provided.
+<figure class="img-right"><img  src="/media/2016/11/Wal-Mart-Location.png" alt="Wal-Mart location prompt">
+<figcaption>Wal-Mart prompts for a location</figcaption>
+</figure> The old standby option is to simply ask them for their location. If you do this, make sure you only ask them once, and save the information until the user indicates that they want to change it. Users don't like being nagged over and over again for information they've already provided.
 
 ### Device
 
-Sites and apps know which devices I'm using. It's part of how the internet works and how apps are built. A user browsing the web on a Google Nexus Tablet shouldn't be prompted to download apps from the IOS app store, and vice-versa.
+<figure class="img-right"><img  src="/media/2016/11/7-eleven-app.png" alt="7-Eleven app screenshot">
+<figcaption>Both App stores visible</figcaption>
+</figure> Sites and apps know which devices I'm using. It's part of how the internet works and how apps are built. A user browsing the web on a Google Nexus Tablet shouldn't be prompted to download apps from the IOS app store, and vice-versa.
 
 ### Logged-in Experience
 
