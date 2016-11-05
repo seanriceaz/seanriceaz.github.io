@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Heuristic #3: Awareness"
-date:   2016-10-30 09:00:00
+date:   2016-11-05 09:00:00
 categories: heuristics user-experience awareness
 excerpt: Awareness is all about how an experience uses the data it has to provide the user a better experience. It's also about taking data the user enters and using it for their benefit.
 showcomments: true
-draft: true
+
 ---
 
 When I audit the _awareness_ of an experience, I'm looking at how the experience adapts to the user. Any time a web site asks for information, that information should be used to benefit the user. Any data the web site can gather on the user with or without their knowledge should be used to make the experience better.
@@ -23,7 +23,7 @@ Our studies have shown _very_ low use of geolocation features when the user is p
 
 #### (Recommended) Look up the user's location using their IP address
 
-<figure><img  src="/media/2016/11/walgreens-location.png" alt="Walgreens autodetects by IP">
+<figure class="img-right"><img  src="/media/2016/11/walgreens-location.png" alt="Walgreens autodetects by IP">
 <figcaption>Walgreens's Location Finder detect location by IP</figcaption>
 </figure>
 
