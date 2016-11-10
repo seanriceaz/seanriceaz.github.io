@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Heuristic #4: Wayfinding"
-date:   2016-11-07 09:00:00
+date:   2016-11-09 09:00:00
 categories: heuristics user-experience wayfinding
 excerpt: Wayfinding is a heuristic that gauges the ease of navigating an app. It's about telling the user where they are as well as how to get where they want to go.
 showcomments: true
-draft: true
 ---
 
 Ever been to an airport? A zoo? Perhaps a hospital? Or maybe you've driven on a highway (anywhere). Wayfinding in these contexts is typically related to signage throughout. A Mall has a directory with a map of the stores. A train station tells you what the next stops are in either direction.
@@ -13,6 +12,10 @@ Ever been to an airport? A zoo? Perhaps a hospital? Or maybe you've driven on a 
 Wayfinding in a digital context is largely the same. There are really only two concepts.
 
 ## Tell the user where they are
+
+<figure class="img-right width-400"><img  src="/media/2016/11/Shinjuku_station_sign.jpg" alt="Japanese train station sign">
+<figcaption>This train station sign from Tokyo tells the passenger where they are, where they were, and where they're going all at once.</figcaption>
+</figure>
 
 ### Page titles
 
@@ -34,6 +37,9 @@ In a hospital, arrows on the walls direct users where to find the pharmacy or th
 
 ### The hamburger menu
 
+<figure class="img-right width-400"><img  src="/media/2016/11/hamburger-menu.gif" alt="Example of a hamburger menu opening">
+<figcaption><a href="http://www.itsnicethat.com/">It's nice that</a> has a rather extensive hamburger menu.</figcaption>
+</figure>
 Hamburger menus are a junk-drawer approach to site and app navigation. They're not necessarily _wrong_ to use, but they they should only be a last-resort or a backup plan for better navigation patterns.
 
 The hamburger menu is discussed at length by others, so I won't get into the details here.
@@ -44,6 +50,9 @@ Users navigate with whatever is available to them. As [Luke Wroblewski](http://w
 
 ### Navigation hierarchy
 
+<figure class="img-right width-400"><img  src="/media/2016/11/servicearizona.jpg" alt="servicearizona.com screenshot">
+<figcaption>Government agencies have notoriously disorganized content.  <a href="http://servicearizona.com">Service Arizona</a> is no exception.</figcaption>
+</figure>
 Larger sites need good hierarchy. This can be a difficult thing to put together. Here are a few tips for organizing your site architecture well.
 
 1. Use common language to group menu entries

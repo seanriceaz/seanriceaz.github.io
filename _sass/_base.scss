@@ -62,20 +62,23 @@ img {
 /**
  * Figures
  */
-figure > img {
+figure{
+  &.width-400{
+    max-width:400px;
+  }
+  > img {
     display: block;
-}
-
-figure.img-right, figure.img-left{
-  padding: $spacing-unit/2;
-  //border:1px solid $grey-color;
-  clear:both;
-  display:inline-block;
-  figcaption{
-    margin:$spacing-unit/2 0;
+  }
+  &.img-right, &.img-left{
+    padding: $spacing-unit/2;
+    //border:1px solid $grey-color;
+    clear:both;
+    display:inline-block;
+    figcaption{
+      margin:$spacing-unit/2 0;
+    }
   }
 }
-
 
 figcaption {
     font-size: $small-font-size;
