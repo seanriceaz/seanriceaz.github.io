@@ -7,7 +7,7 @@ excerpt: You've been live for a year or two. You’re receiving tepid app store 
 #external: http://www.ethology.com/blog/digital-experience-frictionless/
 ---
 
-_This article was originally posted on Ethology.com_
+_This article was originally posted on [Ethology.com](http://www.ethology.com]_
 
 ## Exposing user experience issues to elevate your metrics.
 
