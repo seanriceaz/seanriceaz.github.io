@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Don't miss your industry's Brexit"
-date:   2016-11-21 09:00:00
+date:   2016-11-21 13:00:00
 categories: marketing personas journey-mapping
 excerpt: Do you know who your customers are and why they should vote for you? Learn how to apply lessons from from recent elections to improve your marketing.
 showcomments: true
-draft: true
 external: http://www.ethology.com/blog/dont-miss-industrys-brexit/?ref=seanricenet
+schema_images: /media/2016/11/marketing-and-brexit.jpg
+
 ---
 
 _This article was originally posted on [ethology.com](http://www.ethology.com/blog/dont-miss-industrys-brexit/?ref=seanricenet)_
