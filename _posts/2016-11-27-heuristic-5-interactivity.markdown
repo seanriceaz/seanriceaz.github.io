@@ -24,9 +24,19 @@ The only way to know for sure if your interactive elements appear interactive en
 
 ### When an element looks interactive, but isn't
 
-The issue that usually comes up when reviewing for this is when items that look interactive are, in fact not interactive at all.
+The issue that usually comes up when reviewing for this is when items that look interactive are, in fact not interactive at all. It's _very easy_ to run into this problem because users will click on just about anything that stands out. Here's a short list:
 
+- Any image
+- Headline text
+- Anything with a border
+- Anything with an underline
+- Anything with a drop shadow
+- Icons
+-
 
+## Responding appropriately
+
+This is tricky.
 
 ## Stay tuned!
 
