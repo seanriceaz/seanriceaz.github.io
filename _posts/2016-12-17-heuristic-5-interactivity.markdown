@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Heuristic #5: Interactivity"
-date:   2016-12-11 09:00:00
+date:   2016-12-17 15:00:00
 categories: heuristics user-experience interactivity
-excerpt: this is the excerpt.
+excerpt: Nobody wins awards for being ordinary, so break the mold, and break the rules a little bit! Make your interactive experiences noteworthy, but don't leave your users behind.
 showcomments: true
-draft: true
+
 ---
 
 How do users interact with a digital experience? And how does the experience respond to the input? Generally, the library of interactions a user can do are click, tap, drag, swipe, pinch, scroll or hover. There are many others, but these form the most widely used ones.
@@ -52,6 +52,20 @@ Take a modal dialog with a close button for example. If the user clicks the clos
 ### Responses should be immediate
 
 When an interaction happens, the response should occur effectively right away. This means that something should happen within about 100-200 milliseconds of interacting for it to work right. If waiting is necessary for the action to complete, then display a loading indicator or something similar to show that the application received the interaction and is processing it.
+
+## Tips for designing interactions
+
+### Prototype interactions rapidly with familiar tools
+
+Not everyone is comfortable building interactions natively in code. The key for finding the right interaction for your circumstance is speed. If you can code it quickly, go for it. The rest of us use paper cutouts and pens to try different things. Sometimes, it makes sense to make an animated gif to illustrate something too.
+
+### Test everything
+
+Always test your interactions. At first, you will want to test the paper prototype. Coworkers are great for this. Check with them to make sure what you want to do makes sense. Secondly, when everything's been developed, put your interaction in front of real users. You can use sites like usertesting.com to do this, or you can just take your prototype with you on a phone or laptop and check if people in "the wild" understand how to use it. The key is to have real people that don't know you walk through it and to get real candid feedback from them.
+
+## Be noteworthy
+
+Nobody wins awards for being ordinary, so break the mold, and break the rules a little bit! Make your interactive experiences noteworthy, but don't leave your users behind. Make sure your target audience feels in control of the experience by informing them of available interactions and then responding appropriately to their input.
 
 ## Stay tuned!
 
