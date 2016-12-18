@@ -67,4 +67,4 @@ Before you can really excel at wayfinding, you need to map and group your conten
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at [Heuristic #5: Reactivity](/heuristics/user-experience/interactivity/2016/12/17/heuristic-5-interactivity.html) from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html)
+Next week, I'll post a detailed look at [Heuristic #5: Reactivity](/heuristics/user-experience/interactivity/2016/12/17/heuristic-5-interactivity.html) from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).

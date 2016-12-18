@@ -59,4 +59,4 @@ In short, awareness means your site or app should consume the data available to 
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at Heuristic #4: Wayfinding from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html)
+Next week, I'll post a detailed look at Heuristic #4: Wayfinding from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).

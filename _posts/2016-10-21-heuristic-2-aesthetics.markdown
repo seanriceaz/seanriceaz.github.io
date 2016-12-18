@@ -64,4 +64,4 @@ Aesthetics are pretty important to the success of a digital experience. Customer
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at Heuristic #3: Awareness from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html)
+Next week, I'll post a detailed look at Heuristic #3: Awareness from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).

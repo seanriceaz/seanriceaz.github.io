@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heuristic #5: Interactivity"
+title:  "Heuristic #5: Reactivity"
 date:   2016-12-17 15:00:00
 categories: heuristics user-experience interactivity
 excerpt: Nobody wins awards for being ordinary, so break the mold, and break the rules a little bit! Make your interactive experiences noteworthy, but don't leave your users behind.
@@ -69,4 +69,4 @@ Nobody wins awards for being ordinary, so break the mold, and break the rules a 
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at Heuristic #6: Legibility from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html)
+Next week, I'll post a detailed look at Heuristic #6: Legibility from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).
