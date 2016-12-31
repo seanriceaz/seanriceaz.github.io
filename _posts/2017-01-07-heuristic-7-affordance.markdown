@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heuristic #7: Affordance"
-date:   2016-12-17 15:00:00
+date:   2017-01-07 15:00:00
 categories: heuristics user-experience affordance
 excerpt:
 showcomments: true

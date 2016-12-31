@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heuristic #9: Clarity"
-date:   2016-12-17 15:00:00
+date:   2017-01-28 15:00:00
 categories: heuristics user-experience clarity
 excerpt:
 showcomments: true

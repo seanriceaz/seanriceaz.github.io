@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heuristic #8: Simplicity"
-date:   2016-12-17 15:00:00
+date:   2017-01-14 15:00:00
 categories: heuristics user-experience simplicity
 excerpt:
 showcomments: true
