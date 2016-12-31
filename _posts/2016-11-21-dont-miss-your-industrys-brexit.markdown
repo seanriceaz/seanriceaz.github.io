@@ -14,7 +14,7 @@ _This article was originally posted on [ethology.com](http://www.ethology.com/bl
 
 <img src="/media/2016/11/marketing-and-brexit.jpg" alt="">
 
-If the surprising election of Donald Trump as President of the United States has taught us anything, it’s that the majority pollsters, reporters, and politicos were listening to (and reporting on) an incomplete set of voters. As the the U.S. media looks back on this, the consensus appears to be that the experts listened too too closely to others like themselves, and not closely enough to the voters outside of their normal circles, who turned out in unexpected numbers. Because of this, nearly everyone, regardless of which way they cast their own vote, expected Clinton to win.
+If the surprising election of Donald Trump as President of the United States has taught us anything, it’s that the majority pollsters, reporters, and politicos were listening to (and reporting on) an incomplete set of voters. As the U.S. media looks back on this, the consensus appears to be that the experts listened too closely to others like themselves, and not closely enough to the voters outside of their normal circles, who turned out in unexpected numbers. Because of this, nearly everyone, regardless of which way they cast their own vote, expected Clinton to win.
 
 This bears resemblance to another major political upset that happened across the ocean a few months ago: the Brexit, when the UK voted (to the surprise of the British media and government) to exit the European Union. And it will happen again, perhaps as a major upset in your industry.
 
@@ -32,7 +32,7 @@ Form a cross-functional working group. It’s important to include people who de
 
 ### 2. Look for groups of people that are underrepresented in your customer base
 
-It’s time to get hyper-focused. If you think “Millennials” is focused enough you’ve got some work to do. You should have some groups like Train-commuting twenty-somethings who trail-run on the weekends or Cellphone addicted environmentally-conscious snapchat junkies. These people should have a compelling reason to buy your product, but don’t make up a large enough portion of your customer base.
+It’s time to get hyper-focused. If you think “Millennials” is focused enough you’ve got some work to do. You should have some groups like Train-commuting twenty-somethings who trail-run on the weekends or Cellphone addicted environmentally-conscious Snapchat junkies. These people should have a compelling reason to buy your product, but don’t make up a large enough portion of your customer base.
 
 ### 3. Find these people and talk with them at length about their lives, preferences, wants and needs
 
