@@ -11,13 +11,13 @@ excerpt: A brief history of Sean Rice's work in user experience design
 
 ### Big Projects
 
+- [Tarkett Collections Infinies Site](http://collectionsinfinies.tarkettna.com)
 - [Sonos Studio Redesign](http://studio.sonos.com)
 - [Insight.com Redesign](http://insight.com)
 - [ASU UTO Web Site Redesign](http://uto.asu.edu)
 - [DUFL app (Through Tallwave)](http://dufl.com)
-- [NextCare Website Optimization & Testing](http://www.nextcare.com)
 - Several technical reporting dashboard applications
-- Customer experience research, interviews and reporting
+- Customer experience research, interviews and reporting for various companies
 
 ### Open Source
 

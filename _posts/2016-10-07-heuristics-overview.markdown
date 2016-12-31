@@ -20,7 +20,7 @@ What I needed was something simpler and easier to clearly apply to the user inte
 3. [Awareness](/heuristics/user-experience/awareness/2016/10/30/heuristic-3-awareness.html)
 4. [Wayfinding](/heuristics/user-experience/wayfinding/2016/11/9/heuristic-4-wayfinding.html)
 5. [Reactivity](/heuristics/user-experience/interactivity/2016/12/17/heuristic-5-interactivity.html)
-6. Legibility
+6. [Legibility](/heuristics/user-experience/legibility/2016/12/30/heuristic-6-legibility.html)
 7. Affordance
 8. Simplicity
 9. Clarity
