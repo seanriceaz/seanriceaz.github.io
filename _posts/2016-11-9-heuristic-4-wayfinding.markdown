@@ -40,7 +40,7 @@ In a hospital, arrows on the walls direct users where to find the pharmacy or th
 <figure class="img-right width-400"><img  src="/media/2016/11/hamburger-menu.gif" alt="Example of a hamburger menu opening">
 <figcaption><a href="http://www.itsnicethat.com/">It's nice that</a> has a rather extensive hamburger menu.</figcaption>
 </figure>
-Hamburger menus are a junk-drawer approach to site and app navigation. They're not necessarily _wrong_ to use, but they they should only be a last-resort or a backup plan for better navigation patterns.
+Hamburger menus are a junk-drawer approach to site and app navigation. They're not necessarily _wrong_ to use, but they should only be a last-resort or a backup plan for better navigation patterns.
 
 The hamburger menu is discussed at length by others, so I won't get into the details here.
 

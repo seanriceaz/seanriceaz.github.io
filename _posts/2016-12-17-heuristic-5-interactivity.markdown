@@ -69,4 +69,4 @@ Nobody wins awards for being ordinary, so break the mold, and break the rules a 
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at Heuristic #6: Legibility from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).
+Next week, I'll post a detailed look at [Heuristic #6: Legibility](/heuristics/user-experience/legibility/2016/12/30/heuristic-6-legibility.html) from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).

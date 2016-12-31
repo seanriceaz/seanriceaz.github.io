@@ -29,7 +29,7 @@ Here is an example of difficult-to-read text on a noisy image:
 
 ![Example of noisy text background](/media/2016/12/legibility-text-on-image-no.jpg)
 
-On the flipside, [Juxtapoz.com](http://juxtapoz.com) has a good approach to text on top of images:
+On the flipside, [Juxtapoz.com](http://juxtapoz.com) (pictured below) has a good approach to text on top of images. They place a semi-transparent background behind the text.
 
 ![Example of noisy background solution](/media/2016/12/legibility-text-on-image.jpg)
 
@@ -40,7 +40,7 @@ There are a bunch of other issues that can make text unreadable such as:
 - Poor font choice
 - Too-small font sizes (16px is recommended for body text)
 - Aggressive type manipulation such as decreasing spacing too much or stretching the letterforms out
-- Pixellated letters from some typefaces on some web browsers
+- Pixelated letters from some typefaces on some web browsers
 
 ## Conclusion
 
