@@ -52,7 +52,9 @@ Arrows are far less prominent as a user experience pattern these days as they se
 
 ## Summary
 
-{% include galleryitem.html thumb="/media/2013/08/Screenshot_2013-07-27-15-57-56-168x300.png" full="/media/2013/08/Screenshot_2013-07-27-15-57-56.png" caption="Google now allows users to swipe left or right to remove cards" %}
+<figure class="img-right"><a href="/media/2013/08/Screenshot_2013-07-27-15-57-56.png" class="lightbox" data-caption="Google now allows users to swipe left or right to remove cards"><img  src="/media/2013/08/Screenshot_2013-07-27-15-57-56-168x300.png" alt="Screenshot of poor alignment"></a>
+<figcaption>Google now allows users to swipe left or right to remove cards</figcaption>
+</figure>
 
 There is no clear cut winner among these affordance methods. However, the Beyond Borders method was more often used for galleries. The Dots method was more often found where there were discrete pages or cards to flip through. The Arrows method was not as popular, but I did find a couple of games that used it paired up with the Dots method.
 
