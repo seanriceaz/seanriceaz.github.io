@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heuristic #7: Affordance"
-date:   2017-01-07 15:00:00
+date:   2017-01-05 15:00:00
 categories: heuristics user-experience affordance
 excerpt: Affordance is about letting the user know about how to successfully interact with your digital experience.
 showcomments: true
