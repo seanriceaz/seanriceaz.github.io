@@ -13,13 +13,22 @@
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
-    "@type": "Person",
+    "@type": "article",
+    "Author": "Sean Rice",
     "headline": "{{page.title}}",
     "datePublished": "{{page.date}}",
     "description":"{{page.excerpt}}",
-    "image": {{page.schema_images}}
+    "image": "{{page.schema_images}}"
   }
   </script>
+  <meta property="og:title" content="{{page.title}}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:article:author" content="Sean Rice" />
+  <meta property="og:article:published_time" content="{{page.date}}" />
+  <meta property="og:article:tag" content="{{page.categories}}" />
+  <meta property="og:article:section" content="Design" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image" content="{{page.schema_images}}" />
 
   {% else %}
     {{ page.schema }}

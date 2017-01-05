@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Heuristic #7: Affordance"
-date:   2017-01-05 15:00:00
+date:   2017-01-05 09:00:00
 categories: heuristics user-experience affordance
 excerpt: Affordance is about letting the user know about how to successfully interact with your digital experience.
 showcomments: true
 schema_images: http://seanrice.net/media/2017/01/heuristic-7-affordance-title.jpg
-draft: true
+
 ---
 
 We covered this briefly in [Heuristic #5: Interactivity](/heuristics/user-experience/interactivity/2016/12/17/heuristic-5-interactivity.html), but we're about to dive a bit deeper into affordance. In short, affordance is the way of letting a user know _how_ to interact with something successfully by the way it is designed.
