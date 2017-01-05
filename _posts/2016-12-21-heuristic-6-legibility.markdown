@@ -49,4 +49,4 @@ If you have text in your experiences, and chances are, you do, make sure your au
 
 ## Stay tuned!
 
-Next, I'll post a detailed look at Heuristic #7: Affordance from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).
+Next, I'll post a detailed look at [Heuristic #7: Affordance](/heuristics/user-experience/affordance/2017/01/05/heuristic-7-affordance.html) from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).
