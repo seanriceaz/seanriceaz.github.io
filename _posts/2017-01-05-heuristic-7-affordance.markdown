@@ -65,4 +65,4 @@ There are lots of different ways to give users affordances about ways to interac
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at Heuristic #8: Simplicity from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).
+Next, I'll post a detailed look at [Heuristic #8: Simplicity](/heuristics/user-experience/simplicity/2017/01/30/heuristic-8-simplicity.html) from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).
