@@ -3,12 +3,12 @@ layout: post
 title:  "Heuristic #9: Clarity"
 date:   2017-02-13 15:00:00
 categories: heuristics user-experience clarity
-excerpt:
+excerpt: Clarity, in interaction design, is when content and microcopy are concise and direct. Clarity makes users feel empowered.
 showcomments: true
-draft: true
+schema_images: http://seanrice.net/media/2017/02/heuristic-9-clarity-title.png
 ---
 
-Clarity, in interaction design, is when content and microcopy are concise and direct. Users aren't expected to *just know* how to interact with something to get what they want. But when users encounter a clear design, the feel empowered.
+Clarity, in interaction design, is when content and microcopy are concise and direct. Users aren't expected to *just know* how to interact with something to get what they want. But when users encounter a clear design, they feel empowered.
 
 ## Calls to action
 
@@ -26,9 +26,13 @@ Many apps and web sites fall victim to poorly-written content. I recommend worki
 - Use bulleted and numbered lists only occasionally.
 - Keep lists to under 5 or so items. Longer lists may need some special treatment.
 
-## Communicate state
+## Communicate state and next steps
 
-Users need to know where they are, how they got there, and what the next step is. Some of this is about [wayfinding](/heuristics/user-experience/wayfinding/2016/11/09/heuristic-4-wayfinding.html), but to a certain extent, it also has to do with clear labelling.
+Users need to know where they are, how they got there, and what the next step is. Some of this is about [wayfinding](/heuristics/user-experience/wayfinding/2016/11/09/heuristic-4-wayfinding.html), but to a certain extent, it also has to do with clear labelling and instruction. Many times, simply telling the user what to do next in a way they understand increases conversion rates. This doesn't mean putting a giant &quot;Next&quot; button on the screen. Spell it out for them, especially if they can also convert offline by, for example, opening an account on the phone or in-person.
+
+## Conclusion
+
+Clarity is very important to interaction design. For an experience to perform well, users need to understand whats going on, and that sometimes means explaining it to them concisely.
 
 ## Stay tuned!
 
