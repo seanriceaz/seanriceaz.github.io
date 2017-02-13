@@ -34,4 +34,4 @@ Next time you're designing something, look for pieces to take out. Is the design
 
 ## Stay tuned!
 
-Next time, I'll post a detailed look at Heuristic #9: Clarity from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).
+Next time, I'll post a detailed look at [Heuristic #9: Clarity](/heuristics/user-experience/clarity/2017/02/13/heuristic-9-clarity.html) from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html).

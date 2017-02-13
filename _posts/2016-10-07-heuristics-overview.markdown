@@ -23,7 +23,7 @@ What I needed was something simpler and easier to clearly apply to the user inte
 6. [Legibility](/heuristics/user-experience/legibility/2016/12/30/heuristic-6-legibility.html)
 7. [Affordance](/heuristics/user-experience/affordance/2017/01/05/heuristic-7-affordance.html)
 8. [Simplicity](/heuristics/user-experience/simplicity/2017/01/30/heuristic-8-simplicity.html)
-9. Clarity
+9. [Clarity](/heuristics/user-experience/clarity/2017/02/13/heuristic-9-clarity.html)
 10. Error handling
 
 ## What next?
