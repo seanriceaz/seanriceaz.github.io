@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Heuristic #9: Clarity"
+title:  "Heuristic #10: Error Handling"
 date:   2017-02-15 15:00:00
-categories: heuristics user-experience clarity
-excerpt:
+categories: heuristics user-experience error-handling
+excerpt: Error is so much a part of the Human Experience that we should plan a significant occurrence of it in our interfaces.
 showcomments: true
 draft: true
 schema_images: http://seanrice.net/media/2017/02/heuristic-10-error-handling-title.png
 ---
 
-Error handling is the last in the list of [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html). It's also usually the last thing to get designed, many times as an afterthought to the rest of the design. This should not be! Error is so much a part of the Human Experience and so much a part of our experiences with software, that we should plan a significant occurrence of error in our software.
+Error handling is the last in the list of [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html). It's also usually the last thing to get designed, many times as an afterthought to the rest of the design. This should not be! Error is so much a part of the Human Experience and so much a part of our experiences with software, that we should plan a significant occurrence of it in our interfaces.
 
 ## Error states
 
