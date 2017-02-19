@@ -30,7 +30,7 @@ Some tools exist that allow for automatic formatting of phone number inputs. Use
 
 Other inputs such as the message field for [twitter](http://www.twitter.com){:target="\_blank"} handle input outside of the acceptable range well. They inform the user that the user is over the allotted character limit, but let them continue typing while they formulate their message. Twitter has even implemented ways to give users more available characters by using link shorteners and attaching images differently.
 
-![Twitter message over the 140 character limit](/media/2017/02/twitter-over.jpg")
+![Twitter message over the 140 character limit](/media/2017/02/twitter-over.jpg)
 
 ### Input type mismatch
 
@@ -64,7 +64,7 @@ To limit the impact of interrupted or slow connections:
 
 ## Error Prevention
 
-Jakob Nielsen states in his article [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/), &quot;Even better than good error messages is a careful design which prevents a problem from occurring in the first place.&quot; Well-designed and well-executed user experiences prevent the user from making errors in several different ways.
+Jakob Nielsen states in his article [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/){:target="\_blank"}, &quot;Even better than good error messages is a careful design which prevents a problem from occurring in the first place.&quot; Well-designed and well-executed user experiences prevent the user from making errors in several different ways.
 
 ### Correct mistakes for the user
 
