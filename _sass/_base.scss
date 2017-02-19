@@ -53,6 +53,10 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
+p img{
+  display:block;
+  margin:0 auto;
+}
 .img-right{
   float:right;
   margin-left:$spacing-unit;
