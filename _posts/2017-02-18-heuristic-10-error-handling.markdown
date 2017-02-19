@@ -14,7 +14,7 @@ Error handling is the last in the list of [My 10 Heuristics](/heuristics/user-ex
 
 ### Input incorrect
 
-<figure class="img-right"><img  src="/media/2017/01/input-error.gif" alt="Screenshot of poor alignment">
+<figure class="img-right"><img  src="/media/2017/02/input-error.gif" alt="Screenshot of poor alignment">
 <figcaption>Stripe's way of notifying the user of an incorrect value (<a href="https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e#.qw5hdz65b" target="\_blank">from this article</a>)</figcaption>
 </figure>
 
