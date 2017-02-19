@@ -36,4 +36,4 @@ Clarity is very important to interaction design. For an experience to perform we
 
 ## Stay tuned!
 
-Next week, I'll post a detailed look at Heuristic #10: Error Handling from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html)
+Next week, I'll post a detailed look at [Heuristic #10: Error Handling](/heuristics/user-experience/error-handling/2017/02/18/heuristic-10-error-handling.html) from [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html)
