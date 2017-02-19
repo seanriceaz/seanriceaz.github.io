@@ -11,8 +11,12 @@ schema_images:
 
 <figure>
 <img src="/media/2017/02/in-defense-of-staircases-1.jpg" alt="A non-handicap-friendly ramp cuts through a set of stairs">
-<figcaption>Photo credit <a href="https://www.flickr.com/photos/borkazoid/4202740785">Beau Lebens, 2009</a></figcaption>
+<figcaption>Photo credit <a href="https://www.flickr.com/photos/borkazoid/4202740785" target="\_blank">Beau Lebens, 2009</a></figcaption>
 </figure>
+
+## Designing for a world of differently-abled devices
+
+We've come a long way since [Ethan Marcotte coined the term "responsive design" in 2010](https://alistapart.com/article/responsive-web-design). Most web sites can be pulled up without so much as a thought from the glass rectangles we keep in our pockets. Most of them adapt nicely to fit the smaller screens.
 
 ## Title
 
