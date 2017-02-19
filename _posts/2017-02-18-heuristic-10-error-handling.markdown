@@ -14,7 +14,7 @@ Error handling is the last in the list of [My 10 Heuristics](/heuristics/user-ex
 
 ### Input incorrect
 
-<figure class="img-right"><img  src="/media/2017/02/input-error.gif" alt="Screenshot of poor alignment">
+<figure class="img-right" style="width:349px"><img  src="/media/2017/02/input-error.gif" alt="Screenshot of poor alignment">
 <figcaption>Stripe's way of notifying the user of an incorrect value (<a href="https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e#.qw5hdz65b" target="\_blank">from this article</a>)</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ The best way to help users avoid this type of "accident" is to detect the issue 
 
 Another type of "accidental click" involves accidentally submitting a form or a part of a form. Help people avoid this by making button text clear, and explaining what will happen when they submit, especially if they are at the end of a longer process. Also, give the user the ability to "undo" or go back whenever possible.
 
-<figure class="img-right" style="width:349px"><img src="/media/2017/02/sent-undo.jpg" alt="Google Inbox Undo">
+<figure class="img-right"><img src="/media/2017/02/sent-undo.jpg" alt="Google Inbox Undo">
 </figure> [Google Inbox](http://inbox.google.com){:target="\_blank"} does a good job with this, allowing the user to &quot;undo&quot; a recently sent email for a few seconds after clicking &quot;send&quot;
 
 
