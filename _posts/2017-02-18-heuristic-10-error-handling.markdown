@@ -46,7 +46,7 @@ The best way to help users avoid this type of "accident" is to detect the issue 
 
 Another type of "accidental click" involves accidentally submitting a form or a part of a form. Help people avoid this by making button text clear, and explaining what will happen when they submit, especially if they are at the end of a longer process. Also, give the user the ability to "undo" or go back whenever possible.
 
-<figure class="img-right"><img src="/media/2017/02/sent-undo.jpg" alt="Google Inbox Undo">
+<figure class="img-right" style="width:349px"><img src="/media/2017/02/sent-undo.jpg" alt="Google Inbox Undo">
 </figure> [Google Inbox](http://inbox.google.com){:target="\_blank"} does a good job with this, allowing the user to &quot;undo&quot; a recently sent email for a few seconds after clicking &quot;send&quot;
 
 
