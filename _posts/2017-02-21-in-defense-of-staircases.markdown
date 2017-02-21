@@ -40,7 +40,6 @@ Ramps also require no electricity and can generally support hundreds of people a
 
 Like stairs, ramps also need very little ongoing maintenance. One needs only to clean them periodically and repair the occasional crack.
 
-
 ## Elevators
 
 Elevators work for everyone as well. They're very easy to use, as the user does no work at all to traverse floors.
@@ -60,18 +59,18 @@ Escalators have many of the problems of both stairs and elevators. they're effic
 
 The obvious solution may seem like combining a ramp and a staircase together. The advantages here are clear. People can walk, roll, glide, or push between floors in the way that works best for them. There's little upkeep and energy use compared to the mechanical options.
 
-But take a closer look. In the image, a wheelchair user would need to turn back and forth every 10 or so feet. Steps cut out at strange angles, which may cause people to trip. In the article cover picture, the ramps are too narrow for most wheelchairs, defeating their purpose, and likely adding hazard to an otherwise unremarkable architecture feature.
+But take a closer look. In the image, a wheelchair user would need to turn back and forth every 10 or so feet which would be quote troublesome and time consuming. Steps cut out at strange angles, which may cause people to trip. In the article cover picture, the ramps are too narrow for most wheelchairs, defeating their purpose, and likely adding hazard to an otherwise unremarkable architecture feature.
 
 ## What this means
 
-Web designers need to be flexible and look at the problems and the people, and not always cling tightly to principles like the one listed above. They should provide a unique solution that provides accommodations to people and software with different abilities.
+Web designers need to be flexible and look at the problems and the people individually when building a solution. Sometimes we have to let go of rigid principles to meet the needs of the users&mdash;*all of the users*. Many times, that requires making special accommodations for the different devices they have.
 
-What would happen if?
+That means embracing the unique features of the user and their devices as an opportunity to serve up an exemplary experience.
 
-Tall buildings = elevators primarily
-Short buildings have staircases and ramps.
+Sometimes, an exemplary experience is like that ramp-staircase mix. Other times, it's more like an escalator and an elevator.
 
-Many buildings have a mixture of all of the above options.
+In any case, the right solution requires understanding. What good is an escalator when power is unavailable? Why should a user stand on an escalator for 100 floors? Should 1,000 users have to wait for a single elevator because the building designer didn't add stairs?
 
-Forcing all users through the same experience doesn't work for everyone.
-Instead of removing all stairs in a hospital because not everyone can use them, provide multiple options made especially for people of different abilities so they can use the method most efficient and comfortable for them.
+## The bottom line
+
+Ensuring all users can use your app is the baseline. Everyone deserves a great experience no matter their abilities or device choice, desktop or mobile. So take advantage of the special features each device has.
