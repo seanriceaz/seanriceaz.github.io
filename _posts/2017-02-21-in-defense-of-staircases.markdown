@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "In Defense of Staircases"
-date:   2017-02-21 15:00:00
+date:   2017-02-21 11:00:00
 categories: user-experience accessibility inclusive-design
 excerpt:  Sometimes we have to let go of rigid principles to meet the needs of all users. Many times, that requires making special accommodations for the different devices they have.
-draft: true
 showcomments: true
 schema_images: http://seanrice.net/media/2017/02/in-defense-of-staircases-1.jpg
 ---
