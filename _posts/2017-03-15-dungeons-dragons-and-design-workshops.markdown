@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Dungeons, dragons, and design workshops"
+date:   2017-03-15 11:00:00
+categories: user experience, workshop facilitation
+excerpt:
+showcomments: true
+draft: true
+schema_images: http://seanrice.net/media/2017/02/in-defense-of-staircases-1.jpg
+---
+
+I agreed to it months ago. The four adventurers arrived at my tabletop largely on-time. I had dice and pencils and most importantly, snacks. I was about to <abbr title="Dungeon Master">DM</abbr> my very first <abbr title="Dungeons and Dragons">D&D</abbr> campaign. As the party worked through my series of fictional encounters, I began to realize that leading this D&D session was much like facilitating workshops, which is something I do often in my work.
+
+## Preparation
+
+Well before the participants arrive, a workshop must plan the activities that everyone will work through. As a DM knows what type of story they want to tell, A good facilitator has an outcome in mind and knows exactly the right activities to put into the workshop.
+
+The easiest part of the preparation is ensuring the materials (pens, paper, sticky notes, kraft paper, and most importantly, snacks) are ready when the participants arrive. An unprepared Facilitator or DM puts barriers in the way of a successful session. Being prepared sets the stage, even before the workshop begins.
+
+## Setting the stage
+
+> Insert quote about why dungeons are important... from the DM guide
+
+I've found in my workshop facilitation experience that getting participants to engage is difficult, but crucial. The very first things I say when kicking it off pull participants out of their day-to-day.
+
+### Welcome to the Studio
+
+I tell my workshop participants a story. I tell them that they have entered a new place&mdash;that the meeting room we are in has been transformed. I invite them to leave their creative blocks aside for a short time. Usually, these blocks include laptops, judgmental impulses, nervousness, job descriptions, and others.
+
+In Dungeons and Dragons, I begin by telling a story:
+
+> You have been lost in the desert for so long that you can no longer remember the warm embrace of civilization. You see clouds in the distance, and begin to move toward them in hopes of tasting a few drops of water and feasting on a few weeds.
+
+You are now someplace else. The rules are different here. It's time to get to work.
+
+## Encounters and activities
+
+In a fantasy roleplaying game, you have encounters. Usually this is a fight with a larger enemy, or a conversation with someone. The encounters must be carefully planned so that they
+
+- Are interesting
+- Are difficult, but not too difficult
+- Move the story along
+
+In a workshop, every activity must follow the same rules. The facilitator must know their participants and the problems they are trying to solve. The activities they choose to make up their workshop should move the group forward toward solving those problems, and shouldn't leave anyone in the group behind in the process.
+
+## Improvise
+
+In my first DM experience, my group nearly failed to make it past the first major encounter. I had not planned on some poor dice rolls, and had not equipped my adventurers to take on the monster I put in front of them.
+
+From time to time, something will happen in a workshop setting that you don't plan for. Sometimes, you misjudge the group of people you're leading. Other times, you spot an opprotunity to add value to a workshop by swapping out an activity on the fly.
