@@ -2,7 +2,7 @@
 layout: post
 title:  "Dungeons, dragons, and design workshops"
 date:   2017-03-15 8:00:00
-categories: user experience, workshop facilitation
+categories: user-experience workshop-facilitation
 excerpt: While hosting my first D&D campaign, I realized that hosting a tabletop game session is similar in many ways to facilitating a design workshop.
 showcomments: true
 draft: true
@@ -13,7 +13,7 @@ I agreed to it months ago. The four adventurers arrived at my tabletop largely o
 
 ## Preparation
 
-<figure class="img-right"><img src="/media/2017/03/d20.jpg" alt="">
+<figure class="img-right"><img width="300" src="/media/2017/03/d20.jpg" alt="">
 </figure>
 
 Well before the participants arrive, I plan the activities that everyone will work through. As a DM knows what type of story they want to tell; A good facilitator has an outcome in mind and knows exactly the right activities to put into the workshop.
