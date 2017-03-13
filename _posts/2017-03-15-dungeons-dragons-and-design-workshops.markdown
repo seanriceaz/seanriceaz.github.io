@@ -19,8 +19,6 @@ The easiest part of the preparation is ensuring the materials (pens, paper, stic
 
 ## Setting the stage
 
-> Insert quote about why dungeons are important... from the DM guide
-
 I've found in my workshop facilitation experience that getting participants to engage is difficult, but crucial. The very first things I say when kicking it off pull participants out of their day-to-day.
 
 ### Welcome to the Studio
