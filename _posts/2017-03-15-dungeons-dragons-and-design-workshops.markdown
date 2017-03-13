@@ -1,31 +1,36 @@
 ---
 layout: post
 title:  "Dungeons, dragons, and design workshops"
-date:   2017-03-15 11:00:00
+date:   2017-03-15 8:00:00
 categories: user experience, workshop facilitation
 excerpt: While hosting my first D&D campaign, I realized that hosting a tabletop game session is similar in many ways to facilitating a design workshop.
 showcomments: true
 draft: true
-schema_images: http://seanrice.net/media/2017/02/in-defense-of-staircases-1.jpg
+schema_images: http://seanrice.net/media/2017/03/dddw.png
 ---
 
 I agreed to it months ago. The four adventurers arrived at my tabletop largely on-time. I had dice and pencils and most importantly, snacks. I was about to <abbr title="Dungeon Master">DM</abbr> my very first <abbr title="Dungeons and Dragons">D&D</abbr> campaign. As the party worked through my series of fictional encounters, I began to realize that leading this D&D session was much like facilitating workshops, which is something I do often in my work.
 
 ## Preparation
 
-Well before the participants arrive, a workshop must plan the activities that everyone will work through. As a DM knows what type of story they want to tell, A good facilitator has an outcome in mind and knows exactly the right activities to put into the workshop.
+<figure class="img-right"><img src="/media/2017/03/d20.jpg" alt="">
+</figure>
+
+Well before the participants arrive, I plan the activities that everyone will work through. As a DM knows what type of story they want to tell; A good facilitator has an outcome in mind and knows exactly the right activities to put into the workshop.
 
 The easiest part of the preparation is ensuring the materials (pens, paper, sticky notes, kraft paper, and most importantly, snacks) are ready when the participants arrive. An unprepared Facilitator or DM puts barriers in the way of a successful session. Being prepared sets the stage, even before the workshop begins.
 
 ## Setting the stage
 
-I've found in my workshop facilitation experience that getting participants to engage is difficult, but crucial. The very first things I say when kicking it off pull participants out of their day-to-day.
+I've found in my workshop facilitation experience that getting participants to engage is difficult, but crucial. The trick is to pull your participants out of their day-to-day mentality. Typically I'll put thing on the walls and scatter workshop tools (pens, paper, etc) across the tables. Don't forget the snacks!
+
+After introductions and everything, it's important to recap why they are there, talk about goals for the day and answer any pertinent questions before diving in.
 
 ### Welcome to the Studio
 
-I tell my workshop participants a story. I tell them that they have entered a new place&mdash;that the meeting room we are in has been transformed. I invite them to leave their creative blocks aside for a short time. Usually, these blocks include laptops, judgmental impulses, nervousness, job descriptions, and others.
+I tell my workshop participants a story. I tell them that they have entered a new place&mdash;that the meeting room we are in has been transformed. I invite them to leave their creative blocks aside for a short time. Usually, these blocks include laptops, judgmental impulses, nervousness, job descriptions, and others. They are following in the tradition of many of the great thinkers before them. The day will be structured, but a bit chaotic, and most of all, it will be _productive_.
 
-In Dungeons and Dragons, I begin by telling a story:
+In Dungeons and Dragons, I may also begin by telling a story:
 
 > You have been lost in the desert for so long that you can no longer remember the warm embrace of civilization. You see clouds in the distance, and begin to move toward them in hopes of tasting a few drops of water and feasting on a few weeds.
 
@@ -53,6 +58,8 @@ In my gaming example above, I realized I had made a mistake in my planning and a
 
 ## Who is this about?
 
-Ultimately, with gaming as with design, the end product isn't about the designer or storyteller. It's about the story. And as a facilitator, you are creating the atmosphere to bring your group of participants along for the ride. They're going to work through some tough problems together, and will end up co-creating the final product with you.
+Ultimately, with gaming as with design, the end product isn't about the designer or storyteller. It's about the story. And as a facilitator, you are creating the atmosphere to bring your group of participants along for the ride. They're going to work through some tough problems together, and will end up co-creating the final  with you. Often, the result will be wholly different, and better than the one you had in mind before the session.
 
 Get over yourself and have some fun with it!
+
+_Special thanks to Henrique Zambonin for providing the [https://www.flickr.com/photos/hzambonin/318590612](source image for the article cover)_
