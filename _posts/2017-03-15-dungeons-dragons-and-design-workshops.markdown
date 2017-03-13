@@ -3,7 +3,7 @@ layout: post
 title:  "Dungeons, dragons, and design workshops"
 date:   2017-03-15 11:00:00
 categories: user experience, workshop facilitation
-excerpt:
+excerpt: While hosting my first D&D campaign, I realized that hosting a tabletop game session is similar in many ways to facilitating a design workshop.
 showcomments: true
 draft: true
 schema_images: http://seanrice.net/media/2017/02/in-defense-of-staircases-1.jpg
@@ -47,4 +47,14 @@ In a workshop, every activity must follow the same rules. The facilitator must k
 
 In my first DM experience, my group nearly failed to make it past the first major encounter. I had not planned on some poor dice rolls, and had not equipped my adventurers to take on the monster I put in front of them.
 
-From time to time, something will happen in a workshop setting that you don't plan for. Sometimes, you misjudge the group of people you're leading. Other times, you spot an opprotunity to add value to a workshop by swapping out an activity on the fly.
+From time to time, something will happen in a workshop setting that you don't plan for. Sometimes, you misjudge the group of people you're leading. Other times, you spot an opportunity to add value to a workshop by swapping out an activity on the fly.
+
+I like to have a backup plan in mind in case things go a little off-the-rails. Remember, it's about getting the value out of the workshop, not merely completing a list of predetermined tasks. So, change the activities, take an extra-long break to re-evaluate the problem, or move the entire meeting outside for a change of scenery.
+
+In my gaming example above, I realized I had made a mistake in my planning and arranged for some nearby villagers to rescue my adventurers (an admittedly shallow plot device), and the night continued.
+
+## Who is this about?
+
+Ultimately, with gaming as with design, the end product isn't about the designer or storyteller. It's about the story. And as a facilitator, you are creating the atmosphere to bring your group of participants along for the ride. They're going to work through some tough problems together, and will end up co-creating the final product with you.
+
+Get over yourself and have some fun with it!
