@@ -9,6 +9,8 @@ schema_images: http://seanrice.net/media/2017/03/dddw.png
 external: https://tallwave.com/secrets/design/dungeons-dragons-and-design-workshops/?ref=seanrice.net
 ---
 
+_This article was originally posted on [tallwave.com](https://tallwave.com/secrets/design/dungeons-dragons-and-design-workshops/?ref=seanrice.net)_
+
 What does orchestrating a Dungeons & Dragons campaign have to do with design and branding workshops? Quite a bit, actually.
 
 I agreed to it months ago. The four adventurers arrived at my tabletop largely on-time. I had dice and pencils and most importantly, snacks. I was about to Dungeon Master (<abbr title="Dungeon Master">DM</abbr>) my very first Dungeons and Dragons (<abbr title="Dungeons and Dragons">D&D</abbr>) campaign. As the party worked through my series of fictional encounters, I began to realize that leading this D&D session was much like facilitating design workshops, which is something I do often in my work.
