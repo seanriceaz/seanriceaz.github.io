@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Onward"
+date:   2017-06-17 12:00:00
+categories: career
+excerpt: I'm moving from a job I loved at Tallwave to start a new adventure at Infusionsoft
+showcomments: true
+schema_images:
+draft: true
+---
+
+It's never easy leaving something behind. Yesterday, I closed a chapter of my life at a company where I enjoyed working among friends on projects that were challenging and varied.
+
+Tallwave is one of those companies that genuinely cares for its employees. I rarely felt "burnt out" and that's not because I'm a glutton for punishment as some designers are. The people there are smart, talented, and fun to be around. The clients they have cover many industry verticals from healthcare to fintech. My team and I consistently delivered great quality design work that exceeded client expectations. The development team there is also top-notch and a joy to work with.
+
+I believe Tallwave is going to make a big impact in the next few years. If you're looking for an agency to work for, or if you're seeking one to help your company innovate, I can think of no better agency than Tallwave.
+
+## Why am I moving on?
+
+It's personal, really. For me, it's about opportunity and ownership. At Infusionsoft, I look forward to some new career growth opportunities that I just wasn't seeing for myself at Tallwave on the timeline I want. I also look forward to the opportunity to continually improve what I work on rather than launching something, hoping to secure another contract that may never materialize.
+
+Infusionsoft is a killer-awesome company with some really challenging problems they're solving for their customers. Their mission is to help small businesses succeed. They've got a team of solid designers and developers that I'm excited to collaborate with. I plan to make a big, positive impact there, as I did at Tallwave.
+
+## What I will miss
+
+- I'm going to miss the 30-minute commute. I'm adding 10 or so minutes on.
+- I'm going to miss Taco Tuesdays and Wade's Wednesdays (can't beat free food).
+- I'm going to miss the clients I've spent a lot of time with.
+- But mostly, I'm going to miss the people. Everyone from the interns to the CEO (and even the board members I've met) are who really made 29th Drive-Ethology-Tallwave worth coming to work for every day worthwhile&mdash;and most of the time, fun.
