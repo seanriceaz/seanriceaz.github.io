@@ -5,7 +5,7 @@ date:   2017-06-17 12:00:00
 categories: career
 excerpt: I'm moving from a job I loved at Tallwave to start a new adventure at Infusionsoft
 showcomments: true
-schema_images:
+schema_images: http://33.media.tumblr.com/077a1507e5bdd407c8decf11326c818f/tumblr_nmt01ogheD1u6l9wmo1_r2_500.gif
 draft: true
 ---
 
@@ -27,3 +27,5 @@ Infusionsoft is a killer-awesome company with some really challenging problems t
 - I'm going to miss Taco Tuesdays and Wade's Wednesdays (can't beat free food).
 - I'm going to miss the clients I've spent a lot of time with.
 - But mostly, I'm going to miss the people. Everyone from the interns to the CEO (and even the board members I've met) are who really made 29th Drive-Ethology-Tallwave worth coming to work for every day worthwhile&mdash;and most of the time, fun.
+
+![Millennium Falcon Departing](http://33.media.tumblr.com/077a1507e5bdd407c8decf11326c818f/tumblr_nmt01ogheD1u6l9wmo1_r2_500.gif)
