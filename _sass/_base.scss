@@ -150,6 +150,35 @@ h2, h3, h4 {
   }
 }
 
+table{
+  border-collapse:collapse;
+  margin-bottom:$spacing-unit;
+  thead{
+    th,td{
+      font-weight: bold;
+      border-bottom:1px solid $grey-color;
+      padding:$spacing-unit/2;
+      font-size: $base-font-size;
+      text-align:left;
+    }
+  }
+  tbody{
+    th, td{
+      margin:0;
+      border:0;
+      padding:$spacing-unit/2;
+      font-size:$base-font-size * .75;
+      border-bottom:1px solid $grey-color-light;
+      background:white;
+    }
+    tr:last-child{
+      td, th{
+        border-bottom:1px solid $grey-color;
+      }
+    }
+  }
+}
+
 /**
  * Links
  */
