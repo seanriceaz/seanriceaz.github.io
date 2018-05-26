@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link href='https://fonts.googleapis.com/css?family=Work+Sans:300,200,400,100' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+    <meta property="og:title" content="{{page.title}}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:author" content="Sean Rice" />
+    <meta property="og:article:published_time" content="{{page.date}}" />
+    <meta property="og:article:tag" content="{{page.categories}}" />
+    <meta property="og:article:section" content="Design" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="{{page.schema_images}}" />
+
+    {% else %}
+      {{ page.schema }}
+    {% endif %}
+    <script>
+    //Due to some bad actors, we need to check if this page is being proxied, and if it is, redirect the traffic to the right place. SHAME ON YOU PROXIES for placing ads over my content!
+      var canonical = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | replace: '.', '__' }}";
+      var siteURL= "{{ site.url | replace: '.', '__' }}";
+
+      siteURL=siteURL.replace(/__/g,".");
+      canonical=canonical.replace(/__/g,".");
+
+      if ( window.location.href.indexOf(siteURL)<0 && window.location.href.indexOf("localhost")<0 ){
+        window.location.replace(canonical);
+      }
+
+
+    </script>
+
+    <!-- Start of Async Drift Code -->
+    <script>
+    !function() {
+      var t;
+      if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+      t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+      t.factory = function(e) {
+        return function() {
+          var n;
+          return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+        };
+      }, t.methods.forEach(function(e) {
+        t[e] = t.factory(e);
+      }), t.load = function(t) {
+        var e, n, o, i;
+        e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+        n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+      });
+    }();
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('b2miugmaic5g');
+    </script>
+    <!-- End of Async Drift Code -->
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+
+        {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
