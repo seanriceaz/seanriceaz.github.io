@@ -28,8 +28,20 @@ For Infusionsoft, here's what our layers look like:
 
 ## Design system and App layers
 
+These are the layers that our users only know as "Infusionsoft". We have several apps, and a handful of interchangeable themes within our design system. Each app may even have its own design system that generally inherits from the main one. This is what makes them separate layers.
+
 ## Meta builders
+
+As the user navigates through our apps they encounter ways to set up or automate various things. The simplest one of these to explain is how users may create and send a broadcast email. You set up the subject line, recipients, and AB test settings in what I like to call a *meta builder.* This could take the form of a wizard or automation tool, or even an API call.
+
+For an email broadcast, it's important to note that the email message and design template itself are not what get setup in a meta builder. A meta builder should provide a smooth transition to a builder experience. In the email example, it makes sense that once a subject and other metadata are set up, the user should be able to pick and edit their email templates. This is where the user traverses to the builder level.
 
 ## Builders
 
+
+
 ## Content editors
+
+## When is something a layer?
+
+Something becomes a layer when you discover that you have multiple types or versions of a certain piece of your ecosystem that are interchangeable. For example: Infusionsoft has three email builders in the app, and two different ways to create landing pages. These comprise parts of the builder layer.
