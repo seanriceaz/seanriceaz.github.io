@@ -66,6 +66,6 @@ In an app, users traverse layers all the time without really knowing about it. L
 8. Since the user had already created this email template, they simply check it over in the _builder_ but don't do any content editing.
 9. Lastly, the user backs out to the _meta builder_ again to launch their automation.
 
-## Comments?
+## Conclusion
 
-Have you mapped your app using layers or something similar? What insights did you find?
+At Infusionsoft, we've found it helpful to map the layers in our app because it has given us insight into ways to continually improve. Have you mapped your app in a similar way? What insights did you find?
