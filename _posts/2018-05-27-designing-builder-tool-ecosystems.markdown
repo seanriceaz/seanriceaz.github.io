@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deigning builder tool ecosystems in layers"
-date:   2018-05-27 22:00:00
+date:   2018-05-27 23:36:00
 categories: user-experience information-architecture
 excerpt: I design tool sets that need to interact with each other within the context of a larger ecosystem of apps. Here's a framework for describing the different layers involved.
 showcomments: true
