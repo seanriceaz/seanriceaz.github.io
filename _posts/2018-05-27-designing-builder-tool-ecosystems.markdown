@@ -38,9 +38,11 @@ For an email broadcast, it's important to note that the email message and design
 
 ## Builders
 
-
+Builders are about assembling blocks of content, imagery, and other things that are created or otherwise modified in content editors. Builders make enduring and reusable artifacts like email templates and landing pages. Artifacts made in builders shouldn't belong to meta builders, but they can be referenced in them.
 
 ## Content editors
+
+Content editors allow users to create rich text, code, or upload and modify images. If you're composing an email or cropping and recoloring an image you're using a content editor. Content editors don't only live on their own, but within the context of other layers. Users traverse to this level briefly to make a change and snap out just as quickly when they're done.
 
 ## When is something a layer?
 
