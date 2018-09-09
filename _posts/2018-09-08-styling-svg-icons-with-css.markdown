@@ -24,17 +24,34 @@ We only use a few icons in our app. Each page can include its own subset of icon
 
 ## Design tool problems and solutions
 
-
+In getting our icons to work in the way desvribed above, I encountered some strange issues across from different desiggn tools.
 
 ### Working with Figma
 
+I love Figma. This is where I do the lion's share of my design work. It's more styraightforward to build icon vectors in Figma than in Sketch, and stroke-based icons are supported as components (components in Figma are like Symbols in Sketch). Unfortunately,it's not a perfect experience for exporting Vectors. Seemingly unpredictably, it will *outline the stroke* of an icon when exporting. It only does this for some icons and not others. An outlined stroke breaks the scalability of the icons the way we want them, and it bloats the SVG markup.
+
 #### Export strangeness workaround
+
+I discovered a workaround to this issue. The short story is you just need to start with a predefiend shape (like a line, circle, or rectangle) instead of the pen tool. From there, you can edit the shape however you want provided you...
+
+- Don't combine it with another shape
+- Don't "flatten" it (figma's way of burning in transforms).
+
+I'm hoping somebody at figma reads this little article and puts in a fix or some kind of export option to make this more predictable.
 
 ### Working with Sketch
 
+Sketch does a pretty solid job of exporting the SVGs so far as I can tell, provided you leave the stroke alignment to "centered". It adds some decoration to the markup, and groups things too aggressively, but that's easily resolved with a script like `svgo`, which can be added into the icon build process. 
+
+But there's a big problem making it completely unusable, at least for me.
+
 #### Stroke icons won't work as symbols
 
-## How we mad our icons work in code
+In symbols, you can't override properties like the stroke thickness or color. You can get a similar effect by outlining your icons and using the shape as a mask on a color swatch. But that's hacky, and you'd need to create separate sets of icons for every size variation to keep the same stroke weight effect at all the different sizes.
+
+## How we made our icons work in code
+
+
 
 ### Trouble with `<use>`
 
