@@ -28,7 +28,7 @@ In getting our icons to work in the way desvribed above, I encountered some stra
 
 ### Working with Figma
 
-I love Figma. This is where I do the lion's share of my design work. It's more styraightforward to build icon vectors in Figma than in Sketch, and stroke-based icons are supported as components (components in Figma are like Symbols in Sketch). Unfortunately,it's not a perfect experience for exporting Vectors. Seemingly unpredictably, it will *outline the stroke* of an icon when exporting. It only does this for some icons and not others. An outlined stroke breaks the scalability of the icons the way we want them, and it bloats the SVG markup.
+I love Figma. This is where I do the lion's share of my design work. It's more straightforward to build icon vectors in Figma than in Sketch, and stroke-based icons are supported as components (_components_ in Figma are like _symbols_ in Sketch). Unfortunately, it's not a perfect experience for exporting vectors. Seemingly unpredictably, it will *outline the stroke* of an icon when exporting. Figma does this for some icons and not others. An outlined stroke is unusable because it breaks the scalability of the icons the way we want them, and it bloats the SVG markup.
 
 #### Export strangeness workaround
 
@@ -51,23 +51,95 @@ In symbols, you can't override properties like the stroke thickness or color. Yo
 
 ## How we made our icons work in code
 
+In any given page within our app, there is an _svg sprite_. This sprite is written directly into the HTML based on the icons in-use on the screen. Simplified to show only one icon, that sprite looks something like this:
 
+```html
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0" id="__SVG_SPRITE_NODE__">
+    <symbol viewBox="0 0 24 24" id="user">
+        <path d="M20.5 21.5v-2a4 4 0 0 0-4-4h-9a4 4 0 0 0-4 4v2M12 11.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9z" class="is-icon-target"></path>
+    </symbol>
+</svg>
+```
 
-### Trouble with `<use>`
+Now, whenever we need this icon, we reference it instead of writing it to the DOM again and again, or pointing at an svg file. We use this method because it allows us to consistantly manipulate the icon with CSS while keeping the HTML nice and clean.
+
+Here's what this type of reference looks like:
+
+```html
+<svg class="icon">
+    <use xlink:href="#user"></use>
+</svg>
+```
+
+Nice and clean, right?
 
 ### Shadow DOM lurking
 
+The trouble with using `<use>` is that with a normal SVG, you can't manipulate the paths with CSS (or anything else). The SVG, in this case, lives in the _shadow DOM_, and is protected by the browser. In order to get an SVG that we could mess around with, we needed to strip out all inline styling on the svg elements and defs such as stroke, color, fill etc.
+
 ### SVG markup that works
+
+Our SVG files are minified using the SVG0 script, then we've stripped out all styling, and replaced them with one of two classes that we use to style them based on whether the element has a fill or a stroke. Things like dots needed to be filled. In our case, everything else is a stroke.
+
+Ultimately, our SVG files look like this one:
+
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.5 21.5v-2a4 4 0 0 0-4-4h-9a4 4 0 0 0-4 4v2M12 11.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9z" class="is-icon-target"/></svg>
+```
+
+We design our icons to have a starting point of 24x24 pixels. This ensures uniform sizing across icons even when scaled down to smaller sizes.
 
 ### CSS that works
 
+For us, we wanted to be able to change all aspects of our icons with CSS. We can change the color, size, or stroke weight of our icons with CSS. Stroke weight was the primary reason we chose to go with SVG icons instead of an icon font. This required some work to keep stroke weight at 1px regardless of the size of the svg. Here's how we did that.
+
+```scss
+.icon { /* Styles the parent SVG element */
+    @include transition(all);
+    cursor: var(--icon-cursor, inherit);
+    height: var(--icon-size, #{$font-size-icons}); /* Defaults to the value of our design token, if a local CSS variable isn't defined. */
+    width: var(--icon-size, #{$font-size-icons});
+    min-height: var(--icon-size, #{$font-size-icons});
+    min-width: var(--icon-size, #{$font-size-icons});
+    margin: var(--icon-margin, 0);
+    fill: var(--icon-color, currentcolor); /* currentcolor is a shortcut which means the curent text color */
+    stroke: var(--icon-color, currentcolor);
+    stroke-width: var(--icon-stroke-width, #{$icon-stroke-width}); /* This is always 1px at the moment */
+}
+
+.is-icon-target,
+.is-icon-target * {
+    stroke-width: inherit;
+    fill: none;
+    vector-effect: non-scaling-stroke;
+}
+.is-icon-dot{
+    stroke-width: 0;
+    fill: inherit;
+}
+```
+
+See those `inherit` values? This is the shadow DOM workaround. If you set those values to inherit, you can style their parent `<svg>` and those styles will get applied to the icon's child elements.
+
+This is also why it's important to remove all styling from the SVG file itself. CSS will not override an inline style on a shadow DOM element, even with `!important`.
+
+### Try it out!
+
+I've put the code above [in a codepen](https://codepen.io/seanriceaz/pen/YOONRm) so you can style the user icon yourself.
+
 ## Screen quality issues
 
-### Low DPI monitors hooked up to retina macbooks
+When we first rolled out our new icons, things looked great on our fancy macbook pros with high-DPI displays. Then we took a look at things on lower DPI displays, and uncovered a major problem.
 
-### Low DPI monitors in general
+(image)
+
+Turns out, our icons were drawn on the pixel grid, which is perfect for when youre filling icons and want them to look nice and crisp. What we were doing is adding strokes, and the computer was trying to draw half of the stroke in one pixel, and the other half in the next pixel. These icons looked like 1992.
+
+The solution was to re-tool all our icons to draw our lines on half-pixels, which wouldn't affect our high-DPI monitors much but made things look much better on low-DPI ones.
 
 ## Worth it?
+
+Time will tell if our foray into stroke-based SVG icons will be worthwhile. We've had to do quite a bit of hacking to get them working well. Ultimately, we will be creating an icon font and several sizes of flattened-outlined SVGs to support other platforms (and Sketch). It all takes time!
 
 ## What about you?
 
