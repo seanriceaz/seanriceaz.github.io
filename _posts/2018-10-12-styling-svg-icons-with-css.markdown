@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Styling SVG icons with css"
-date:   2018-09-08 12:00:00
+date:   2018-10-12 00:00:00
 categories: code design-system
-excerpt: We use a custom SVG icon set in our apps. Here's how I've naviggated some of the pitfalls &mdash; and there are a lot of them.
+excerpt: We use a custom SVG icon set in our apps. Here's how I've navigated some of the pitfalls &mdash; and there are a lot of them.
 showcomments: true
-schema_images: http://seanrice.net/media/2018/06/Figma-v-sketch.png
+schema_images: http://seanrice.net/media/2018/10/svg.png
 ---
 
 For the latest design iteration of Infusionsoft, we chose to use stroke-based icons because of their clean, contemporary look. In implementing these icons across our app, we ran into a number of technical issues. In this article, I will describe these issues in detail and walk you through how we tackled them. I hope to spare you, dear reader, days of trial and error getting your SVG icons to work the way you want them to.
@@ -16,7 +16,7 @@ There are a bunch of different ways to make icons. You can use image files, or i
 
 ### Stylable with CSS
 
-One of the great things about this approach is that SVG's are stylable with CSS. You can use CSS to set the stroke thickness. You can use it to set the color. You can even animate these attrubutes. With an icon font, you're stuck with faking the stroke, and if the browser wants to read your `letter-spacing` or `line-height` wrong, you could be stuck with blurry rendering everywhere. SVG is treated like an image for size and alignment purposes, which has its advantages.
+One of the great things about this approach is that SVG's are stylable with CSS. You can use CSS to set the stroke thickness. You can use it to set the color. You can even animate these attributes. With an icon font, you're stuck with faking the stroke, and if the browser wants to read your `letter-spacing` or `line-height` wrong, you could be stuck with blurry rendering everywhere. SVG is treated like an image for size and alignment purposes, which has its advantages.
 
 ### Only load what you need
 
@@ -24,7 +24,7 @@ We only use a few icons in our app. Each page can include its own subset of icon
 
 ## Design tool problems and solutions
 
-In getting our icons to work in the way desvribed above, I encountered some strange issues across from different desiggn tools.
+In getting our icons to work in the way described above, I encountered some strange issues across from different design tools.
 
 ### Working with Figma
 
@@ -35,13 +35,13 @@ I love Figma. This is where I do the lion's share of my design work. It's more s
 I discovered a workaround to this issue. The short story is you just need to start with a predefiend shape (like a line, circle, or rectangle) instead of the pen tool. From there, you can edit the shape however you want provided you...
 
 - Don't combine it with another shape
-- Don't "flatten" it (figma's way of burning in transforms).
+- Don't "flatten" it (Figma's way of burning in transforms).
 
 I'm hoping somebody at figma reads this little article and puts in a fix or some kind of export option to make this more predictable.
 
 ### Working with Sketch
 
-Sketch does a pretty solid job of exporting the SVGs so far as I can tell, provided you leave the stroke alignment to "centered". It adds some decoration to the markup, and groups things too aggressively, but that's easily resolved with a script like `svgo`, which can be added into the icon build process. 
+Sketch does a pretty solid job of exporting the SVGs so far as I can tell, provided you leave the stroke alignment to "centered". It adds some decoration to the markup, and groups things too aggressively, but that's easily resolved with a script like `svgo`, which can be added into the icon build process.
 
 But there's a big problem making it completely unusable, at least for me.
 
@@ -61,7 +61,7 @@ In any given page within our app, there is an _svg sprite_. This sprite is writt
 </svg>
 ```
 
-Now, whenever we need this icon, we reference it instead of writing it to the DOM again and again, or pointing at an svg file. We use this method because it allows us to consistantly manipulate the icon with CSS while keeping the HTML nice and clean.
+Now, whenever we need this icon, we reference it instead of writing it to the DOM again and again, or pointing at an svg file. We use this method because it allows us to consistently manipulate the icon with CSS while keeping the HTML nice and clean.
 
 Here's what this type of reference looks like:
 
@@ -102,7 +102,7 @@ For us, we wanted to be able to change all aspects of our icons with CSS. We can
     min-height: var(--icon-size, #{$font-size-icons});
     min-width: var(--icon-size, #{$font-size-icons});
     margin: var(--icon-margin, 0);
-    fill: var(--icon-color, currentcolor); /* currentcolor is a shortcut which means the curent text color */
+    fill: var(--icon-color, currentcolor); /* currentcolor is a shortcut which means the current text color */
     stroke: var(--icon-color, currentcolor);
     stroke-width: var(--icon-stroke-width, #{$icon-stroke-width}); /* This is always 1px at the moment */
 }
@@ -131,11 +131,13 @@ I've put the code above [in a codepen](https://codepen.io/seanriceaz/pen/YOONRm)
 
 When we first rolled out our new icons, things looked great on our fancy macbook pros with high-DPI displays. Then we took a look at things on lower DPI displays, and uncovered a major problem.
 
-(image)
+![Bad svg rendering](/media/2018/10/low-quality-svg.png)
 
-Turns out, our icons were drawn on the pixel grid, which is perfect for when youre filling icons and want them to look nice and crisp. What we were doing is adding strokes, and the computer was trying to draw half of the stroke in one pixel, and the other half in the next pixel. These icons looked like 1992.
+Turns out, our icons were drawn on the pixel grid, which is perfect for when you're filling icons and want them to look nice and crisp. What we were doing is adding strokes, and the computer was trying to draw half of the stroke in one pixel, and the other half in the next pixel. These icons looked like 1992.
 
 The solution was to re-tool all our icons to draw our lines on half-pixels, which wouldn't affect our high-DPI monitors much but made things look much better on low-DPI ones.
+
+![Fixed svg rendering](/media/2018/10/high-quality-svg.png)
 
 ## Worth it?
 

@@ -8,7 +8,7 @@ showcomments: true
 schema_images: http://seanrice.net/media/2018/06/Figma-v-sketch.png
 ---
 
-I've been using [Sketch](http://sketchapp.com) since it was a free beta. It quickly replaced photoshop in my process because it made pixel-perfect vector (mostly) images and spat out the slices just how my engineers needed them. So, it was with great reluctance that I even tried [Figma](http://figma.com). A coworker at the time basically told me &quot; you've got to try this.&quot; And then he spent some time explaining why it could be worth the switch.
+I've been using [Sketch](http://sketchapp.com) since it was a free beta. It quickly replaced Photoshop in my process because it made pixel-perfect vector (mostly) images and spat out the slices just how my engineers needed them. So, it was with great reluctance that I even tried [Figma](http://figma.com). A coworker at the time basically told me &quot; you've got to try this.&quot; And then he spent some time explaining why it could be worth the switch.
 
 I tried it out on a small project. And then I tried it on another. And another. And now I actually try to avoid opening Sketch. Here's what I've learned.
 
