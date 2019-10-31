@@ -5,9 +5,9 @@ subtext: Reflection on my past work experience and key takeaways from each.
 permalink: /work/
 excerpt: A brief history of Sean Rice's work in user experience design
 ---
-## Infusionsoft - Summer 2017 - Current
+## Keap (Formerly Infusionsoft) - Summer 2017 - Current
 
-I'm working on some really great product innovations at Infusionsoft. Stay tuned!
+I'm working on some really great product innovations at Keap. Stay tuned!
 
 ## Tallwave Fall 2013 - Summer 2017
 

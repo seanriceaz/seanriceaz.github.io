@@ -3,7 +3,7 @@ layout: post
 title:  "Onward"
 date:   2017-06-17 12:00:00
 categories: career
-excerpt: I'm moving from a career I loved at Tallwave to start a new adventure at Infusionsoft
+excerpt: I'm moving from a career I loved at Tallwave to start a new adventure at Keap
 showcomments: true
 schema_images: https://33.media.tumblr.com/077a1507e5bdd407c8decf11326c818f/tumblr_nmt01ogheD1u6l9wmo1_r2_500.gif
 ---
@@ -16,9 +16,9 @@ I believe Tallwave is going to make a big impact in the next few years. If you'r
 
 ## Why am I moving on?
 
-It's personal, really. For me, it's about opportunity and ownership. At Infusionsoft, I look forward to some new career growth opportunities that I just wasn't seeing for myself at Tallwave on the timeline I want. I also look forward to the opportunity to continually improve what I work on rather than launching something, hoping to secure another contract that may never materialize.
+It's personal, really. For me, it's about opportunity and ownership. At Keap, I look forward to some new career growth opportunities that I just wasn't seeing for myself at Tallwave on the timeline I want. I also look forward to the opportunity to continually improve what I work on rather than launching something, hoping to secure another contract that may never materialize.
 
-Infusionsoft is a killer-awesome company with some really challenging problems they're solving for their customers. Their mission is to help small businesses succeed. They've got a team of solid designers and developers that I'm excited to collaborate with. I plan to make a big, positive impact there, as I did at Tallwave.
+Keap is a killer-awesome company with some really challenging problems they're solving for their customers. Their mission is to help small businesses succeed. They've got a team of solid designers and developers that I'm excited to collaborate with. I plan to make a big, positive impact there, as I did at Tallwave.
 
 ## What I will miss
 

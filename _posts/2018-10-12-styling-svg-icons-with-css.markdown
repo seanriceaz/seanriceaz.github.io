@@ -8,7 +8,7 @@ showcomments: true
 schema_images: https://seanrice.net/media/2018/10/svg.png
 ---
 
-For the latest design iteration of Infusionsoft, we chose to use stroke-based icons because of their clean, contemporary look. In implementing these icons across our app, we ran into a number of technical issues. In this article, I will describe these issues in detail and walk you through how we tackled them. I hope to spare you, dear reader, days of trial and error getting your SVG icons to work the way you want them to.
+For the latest design iteration of Keap, we chose to use stroke-based icons because of their clean, contemporary look. In implementing these icons across our app, we ran into a number of technical issues. In this article, I will describe these issues in detail and walk you through how we tackled them. I hope to spare you, dear reader, days of trial and error getting your SVG icons to work the way you want them to.
 
 ## Why we chose SVG for icons
 

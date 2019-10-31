@@ -36,7 +36,7 @@ That may sound a lot like management, but DesignOps is a little differently focu
 
 ## The situation before DesignOps
 
-At Keap (at the time, we were called Infusionsoft), before we had an official DesignOps role, I was volunteering time to contribute to the design system, which was created and largely led by engineers. Because of this, I was only making piecemeal updates to our shared design libraries as I was putting components into features. Adding to the problem, our team was using two tools for vector design: Figma and Sketch. And the shared libraries for each were out-of-sync.
+At Keap (at the time, we were called Keap), before we had an official DesignOps role, I was volunteering time to contribute to the design system, which was created and largely led by engineers. Because of this, I was only making piecemeal updates to our shared design libraries as I was putting components into features. Adding to the problem, our team was using two tools for vector design: Figma and Sketch. And the shared libraries for each were out-of-sync.
 
 > Our engineers were receiving inconsistent handoffs from different designers. We're still repaying the resulting design debt (and tech debt) a year later.
 
