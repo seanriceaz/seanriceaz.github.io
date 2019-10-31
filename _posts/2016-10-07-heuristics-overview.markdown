@@ -15,10 +15,10 @@ What I needed was something simpler and easier to clearly apply to the user inte
 
 ## My 10 heuristics
 
-1. [Accessibility](/heuristics/user-experience/2016/10/16/heuristic-1-accessibility.html)
-2. [Aesthetics](/heuristics/user-experience/2016/10/21/heuristic-2-aesthetics.html)
-3. [Awareness](/heuristics/user-experience/awareness/2016/10/30/heuristic-3-awareness.html)
-4. [Wayfinding](/heuristics/user-experience/wayfinding/2016/11/9/heuristic-4-wayfinding.html)
+1. [Accessibility](/heuristics/user-experience/accessibility/2016/10/16/heuristic-1-accessibility.html)
+2. [Aesthetics](/heuristics/user-experience/aesthetics/2016/10/21/heuristic-2-aesthetics.html)
+3. [Awareness](/heuristics/user-experience/awareness/2016/11/05/heuristic-3-awareness.html)
+4. [Wayfinding](/heuristics/user-experience/wayfinding/2016/11/09/heuristic-4-wayfinding.html)
 5. [Reactivity](/heuristics/user-experience/interactivity/2016/12/17/heuristic-5-interactivity.html)
 6. [Legibility](/heuristics/user-experience/legibility/2016/12/30/heuristic-6-legibility.html)
 7. [Affordance](/heuristics/user-experience/affordance/2017/01/05/heuristic-7-affordance.html)
