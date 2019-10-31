@@ -4,14 +4,14 @@ title:  "New Credit Card Form UX Patterns"
 date:   2013-09-05 00:00:00
 categories: user-experience patterns payment credit card ecommerce
 excerpt: Credit card forms are necessary to take payment online. They are one of the last necessary steps to completing a purchase, so it’s very important to get it right! These last few years, there have been several popular innovations in credit card form design.
-#external: http://uxpatterns.org/forms/new-credit-card-form-ux/
+#external: https://uxpatterns.org/forms/new-credit-card-form-ux/
 redirect_from: "/forms/new-credit-card-form-ux/"
 
 ---
 
 _This article was originally posted on uxpatterns.org, which now redirects here._
 <!--
-This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/forms/new-credit-card-form-ux/)-->
+This article was originally posted on uxpatterns.org. [Original Article Link](https://uxpatterns.org/forms/new-credit-card-form-ux/)-->
 
 Credit card forms are necessary to take payment online. They are one of the last necessary steps to completing a purchase, so it’s very important to get it right!
 
@@ -31,7 +31,7 @@ Traditionally, credit card forms involve little or no validation on the front en
 
 Instant credit card form validation evolved from the traditional credit card form. The credit card type dropdown is eliminated from the form, except where multiple payment methods are available. In some variations, valid card types are visible above or nearby the form. As the user types in their credit card number, the card type is highlighted or appears near the form to indicate that the user has typed in a valid number, and they can verify the card type as a second step. In cases where the payment type is still selectable, entering the number for a different card type than was selected causes the type to change to match the entered number. This was the most popular UX pattern in my survey.
 
-For a development (jQuery) example. see http://jquerycreditcardvalidator.com/
+For a development (jQuery) example. see https://jquerycreditcardvalidator.com/
 
 <ul class="gallery">
   <li>{% include galleryitem.html thumb="/media/2013/09/Screen-Shot-2013-08-05-at-9.59.29-PM-300x100.png" full="/media/2013/09/Screen-Shot-2013-08-05-at-9.59.29-PM.png" caption="Walmart's payment form has several available methods. If one is selected incorrectly, it automatically selects the correct one. Numbers are grouped automatically as well." %}</li>
@@ -48,7 +48,7 @@ A recent more recent pattern is called Skeuocard. This method adds a lot of laye
 
 Some work may need to be done to provide the proper affordances that the numbers on the card graphic are editable as this is not immediately evident when the form does not have focus. However, in a really progressive design, this option could be a good fit provided the skeuomorphic nature of this UX pattern works with the overall design. I have never seen this pattern in use on a production site. If you have, please comment below so I can mention it!
 
-Give Skeuocard a try at [http://kenkeiter.com/skeuocard/](http://kenkeiter.com/skeuocard/)
+Give Skeuocard a try at [https://kenkeiter.com/skeuocard/](https://kenkeiter.com/skeuocard/)
 
 <ul class="gallery">
   <li>{% include galleryitem.html thumb="/media/2013/08/Screen-Shot-2013-08-01-at-4.02.26-PM-300x189.png" full="/media/2013/08/Screen-Shot-2013-08-01-at-4.02.26-PM.png" caption="Blank Skeuocard form UX pattern" %}</li>
@@ -62,8 +62,8 @@ It is a best practice to match the format of the card—generally, MM/YY—with 
 
 ## Summary
 
-The [Baymard Institute](http://baymard.com/) (E-Commerce Checkout Usability Report 2010 – Guideline #63) recommends using some sort of inline credit card type validation, but at the very least, it recommends removing the selection for credit card type, since its extraneous.
+The [Baymard Institute](https://baymard.com/) (E-Commerce Checkout Usability Report 2010 – Guideline #63) recommends using some sort of inline credit card type validation, but at the very least, it recommends removing the selection for credit card type, since its extraneous.
 
 ### Further Reading
 
-Detailed information about how credit card numbers break down on Wikipedia: [Bank Card Number](http://en.wikipedia.org/wiki/Bank_card_number)
+Detailed information about how credit card numbers break down on Wikipedia: [Bank Card Number](https://en.wikipedia.org/wiki/Bank_card_number)

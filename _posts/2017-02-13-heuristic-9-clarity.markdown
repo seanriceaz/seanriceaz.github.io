@@ -5,7 +5,7 @@ date:   2017-02-13 15:00:00
 categories: heuristics user-experience clarity
 excerpt: Clarity, in interaction design, is when content and microcopy are concise and direct. Clarity makes users feel empowered.
 showcomments: true
-schema_images: http://seanrice.net/media/2017/02/heuristic-9-clarity-title.png
+schema_images: https://seanrice.net/media/2017/02/heuristic-9-clarity-title.png
 ---
 
 Clarity, in interaction design, is when content and microcopy are concise and direct. Users aren't expected to *just know* how to interact with something to get what they want. But when users encounter a clear design, they feel empowered.

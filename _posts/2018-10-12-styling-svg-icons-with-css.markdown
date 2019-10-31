@@ -5,7 +5,7 @@ date:   2018-10-12 00:00:00
 categories: code design-system
 excerpt: We use a custom SVG icon set in our apps. Here's how I've navigated some of the pitfalls &mdash; and there are a lot of them.
 showcomments: true
-schema_images: http://seanrice.net/media/2018/10/svg.png
+schema_images: https://seanrice.net/media/2018/10/svg.png
 ---
 
 For the latest design iteration of Infusionsoft, we chose to use stroke-based icons because of their clean, contemporary look. In implementing these icons across our app, we ran into a number of technical issues. In this article, I will describe these issues in detail and walk you through how we tackled them. I hope to spare you, dear reader, days of trial and error getting your SVG icons to work the way you want them to.
@@ -54,7 +54,7 @@ In symbols, you can't override properties like the stroke thickness or color. Yo
 In any given page within our app, there is an _svg sprite_. This sprite is written directly into the HTML based on the icons in-use on the screen. Simplified to show only one icon, that sprite looks something like this:
 
 ```html
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0" id="__SVG_SPRITE_NODE__">
+<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" style="position: absolute; width: 0; height: 0" id="__SVG_SPRITE_NODE__">
     <symbol viewBox="0 0 24 24" id="user">
         <path d="M20.5 21.5v-2a4 4 0 0 0-4-4h-9a4 4 0 0 0-4 4v2M12 11.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9z" class="is-icon-target"></path>
     </symbol>
@@ -84,7 +84,7 @@ Our SVG files are minified using the SVG0 script, then we've stripped out all st
 Ultimately, our SVG files look like this one:
 
 ```xml
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.5 21.5v-2a4 4 0 0 0-4-4h-9a4 4 0 0 0-4 4v2M12 11.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9z" class="is-icon-target"/></svg>
+<svg xmlns="https://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20.5 21.5v-2a4 4 0 0 0-4-4h-9a4 4 0 0 0-4 4v2M12 11.5a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9z" class="is-icon-target"/></svg>
 ```
 
 We design our icons to have a starting point of 24x24 pixels. This ensures uniform sizing across icons even when scaled down to smaller sizes.

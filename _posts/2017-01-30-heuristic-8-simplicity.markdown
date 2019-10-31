@@ -5,7 +5,7 @@ date:   2017-01-30 23:00:00
 categories: heuristics user-experience simplicity
 excerpt: I measure the simplicity of an experience by looking at the most complex parts of an experience and determining if any of it can be eliminated.
 showcomments: true
-schema_images: http://seanrice.net/media/2017/01/heuristic-8-simplicity-title.png
+schema_images: https://seanrice.net/media/2017/01/heuristic-8-simplicity-title.png
 ---
 
 Ever go through a checkout process that has a few too many steps? You've dealt with a lack of simplicity. Simplicity is important for increasing conversion rates and reducing customer frustration. Happy customers tend to produce higher lifetime value at lower cost to your support team.

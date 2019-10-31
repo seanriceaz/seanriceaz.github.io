@@ -5,12 +5,12 @@ date:   2016-11-21 13:00:00
 categories: marketing personas journey-mapping
 excerpt: Do you know who your customers are and why they should vote for you? Learn how to apply lessons from from recent elections to improve your marketing.
 showcomments: true
-external: http://www.ethology.com/blog/dont-miss-industrys-brexit/?ref=seanricenet
+external: https://www.ethology.com/blog/dont-miss-industrys-brexit/?ref=seanricenet
 schema_images: /media/2016/11/marketing-and-brexit.jpg
 
 ---
 
-_This article was originally posted on [ethology.com](http://www.ethology.com/blog/dont-miss-industrys-brexit/?ref=seanricenet)_
+_This article was originally posted on [ethology.com](https://www.ethology.com/blog/dont-miss-industrys-brexit/?ref=seanricenet)_
 
 <img src="/media/2016/11/marketing-and-brexit.jpg" alt="">
 

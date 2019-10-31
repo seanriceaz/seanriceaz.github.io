@@ -5,7 +5,7 @@ date:   2016-12-30 23:00:00
 categories: heuristics user-experience legibility
 excerpt: Legibility is the simplest heuristic optimize for. Nevertheless, it is a common issue on many sites and apps.
 showcomments: true
-schema_images: http://seanrice.net/media/2016/12/heuristic-6-legibility-title.jpg
+schema_images: https://seanrice.net/media/2016/12/heuristic-6-legibility-title.jpg
 ---
 
 Let's talk about text. Text is the core to any web experience, and in applications, it serves several very important purposes. Since text is so important, it needs to be legible. That's why I grade digital experiences based on the legibility of their text.
@@ -30,7 +30,7 @@ Here is an example of difficult-to-read text on a noisy image:
 
 ![Example of noisy text background](/media/2016/12/legibility-text-on-image-no.jpg)
 
-On the flipside, [Juxtapoz.com](http://juxtapoz.com) (pictured below) has a good approach to text on top of images. They place a semi-transparent background behind the text.
+On the flipside, [Juxtapoz.com](https://juxtapoz.com) (pictured below) has a good approach to text on top of images. They place a semi-transparent background behind the text.
 
 ![Example of noisy background solution](/media/2016/12/legibility-text-on-image.jpg)
 

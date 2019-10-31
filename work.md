@@ -11,24 +11,24 @@ I'm working on some really great product innovations at Infusionsoft. Stay tuned
 
 ## Tallwave Fall 2013 - Summer 2017
 
-[Tallwave](http://www.tallwave.com) was a great place to work. I was energized daily by the influx of new and interesting projects. Tallwave really understood the importance of customer experience design. Building empathy with customers' consumers taught me new and exciting insights to drive performance of my designs.
+[Tallwave](https://www.tallwave.com) was a great place to work. I was energized daily by the influx of new and interesting projects. Tallwave really understood the importance of customer experience design. Building empathy with customers' consumers taught me new and exciting insights to drive performance of my designs.
 
 _Note: I'm including my time at 29th Drive and Ethology into this as my team was acquired twice, ultimately by Tallwave._
 
 ### Big Projects
 
-- [Weave 2.0 Application Design Refresh](http://weaveeducation.com/)
+- [Weave 2.0 Application Design Refresh](https://weaveeducation.com/)
 - [Equality Health - Project to be Announced](https://www.equalityhealth.com/)
-- [Tarkett Collections Infinies Site](http://collectionsinfinies.tarkettna.com)
-- [Insight.com Redesign](http://insight.com)
-- [ASU UTO Web Site Redesign](http://uto.asu.edu)
-- [DUFL app](http://dufl.com)
+- [Tarkett Collections Infinies Site](https://collectionsinfinies.tarkettna.com)
+- [Insight.com Redesign](https://insight.com)
+- [ASU UTO Web Site Redesign](https://uto.asu.edu)
+- [DUFL app](https://dufl.com)
 - Several technical reporting dashboard applications
 - Customer experience research, interviews and reporting for various companies
 
 ### Open Source
 
-- [Inkling: A responsive email framework](http://github.com/ethology-co/inkling)
+- [Inkling: A responsive email framework](https://github.com/ethology-co/inkling)
 
 ---------------------------------------
 
@@ -38,10 +38,10 @@ The big takeaway from my time at U-Haul was the importance of well-designed syst
 
 ### Big Projects
 
-- [Uhaul.com](http://uhaul.com): Tuning based on research, making it mobile-friendly.
+- [Uhaul.com](https://uhaul.com): Tuning based on research, making it mobile-friendly.
 - Internal apps ranging from reports, to warehouse management, to a parking space sharing app, to a reservation management system.
-- [U-Haul Car Share](http://uhaulcarshare.com): Guiding the launch of a new service line.
-- [Supergraphics](http://uhaul.com/supergraphics): Designing and building educational mini-sites, an accompanying phone app, and content management system.
+- [U-Haul Car Share](https://uhaulcarshare.com): Guiding the launch of a new service line.
+- [Supergraphics](https://uhaul.com/supergraphics): Designing and building educational mini-sites, an accompanying phone app, and content management system.
 
 ---------------------------------------
 

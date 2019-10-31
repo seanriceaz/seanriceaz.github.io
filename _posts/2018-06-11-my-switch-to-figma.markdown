@@ -5,10 +5,10 @@ date:   2018-06-11 12:00:00
 categories: user-experience tools
 excerpt: I made the switch from Sketch to Figma a month ago. Here's what I learned.
 showcomments: true
-schema_images: http://seanrice.net/media/2018/06/Figma-v-sketch.png
+schema_images: https://seanrice.net/media/2018/06/Figma-v-sketch.png
 ---
 
-I've been using [Sketch](http://sketchapp.com) since it was a free beta. It quickly replaced Photoshop in my process because it made pixel-perfect vector (mostly) images and spat out the slices just how my engineers needed them. So, it was with great reluctance that I even tried [Figma](http://figma.com). A coworker at the time basically told me &quot; you've got to try this.&quot; And then he spent some time explaining why it could be worth the switch.
+I've been using [Sketch](https://sketchapp.com) since it was a free beta. It quickly replaced Photoshop in my process because it made pixel-perfect vector (mostly) images and spat out the slices just how my engineers needed them. So, it was with great reluctance that I even tried [Figma](https://figma.com). A coworker at the time basically told me &quot; you've got to try this.&quot; And then he spent some time explaining why it could be worth the switch.
 
 I tried it out on a small project. And then I tried it on another. And another. And now I actually try to avoid opening Sketch. Here's what I've learned.
 
@@ -30,7 +30,7 @@ The magic happens when you want to change something in an instance of your compo
 
 #### File sync
 
-Remember a little over a year ago when [Abstract](http://goabstract.com) came out for Sketch? We designers exclaimed with one voice "Finally! Git for Sketch! Now we can finally share files like engineers!"
+Remember a little over a year ago when [Abstract](https://goabstract.com) came out for Sketch? We designers exclaimed with one voice "Finally! Git for Sketch! Now we can finally share files like engineers!"
 
 > Why would you want to introduce complicated source control and diff merging, when you can just work on the same file simultaneously?
 
@@ -38,7 +38,7 @@ With Figma, that same exclamation is more like "Finally! Google docs for design 
 
 #### Commenting and review
 
-[Invision](http://invisionapp.com) is the typical tool used to comment on design files. Abstract has the feature, but it's still rough around the edges. Sketch cloud has commenting as well.
+[Invision](https://invisionapp.com) is the typical tool used to comment on design files. Abstract has the feature, but it's still rough around the edges. Sketch cloud has commenting as well.
 
 > All of the Sketch tools make the designer deal with comments outside the context of their design.
 

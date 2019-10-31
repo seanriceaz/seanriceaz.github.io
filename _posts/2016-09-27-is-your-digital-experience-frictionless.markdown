@@ -4,10 +4,10 @@ title:  "Is your digital experience frictionless?"
 date:   2016-09-27 09:00:00
 categories: heuristics user-experience
 excerpt: You've been live for a year or two. You’re receiving tepid app store reviews and customer feedback. You need an outside perspective to articulate issues with your UX.
-external: http://www.ethology.com/blog/digital-experience-frictionless/
+external: https://www.ethology.com/blog/digital-experience-frictionless/
 ---
 
-_This article was originally posted on [Ethology.com](http://www.ethology.com/blog/digital-experience-frictionless/?ref=seanricenet)_
+_This article was originally posted on [Ethology.com](https://www.ethology.com/blog/digital-experience-frictionless/?ref=seanricenet)_
 
 ## Exposing user experience issues to elevate your metrics.
 
@@ -15,7 +15,7 @@ Your site or app has been live for a year or two. In some ways, it still feels b
 
 ## You need an outside perspective.
 
-At [Ethology](http://www.ethology.com), we encounter situations like yours every day. We’ve come up with a quick process to review your experience to uncover those areas of friction that your users are encountering. We call it a heuristic review.
+At [Ethology](https://www.ethology.com), we encounter situations like yours every day. We’ve come up with a quick process to review your experience to uncover those areas of friction that your users are encountering. We call it a heuristic review.
 
 ## What is a heuristic?
 

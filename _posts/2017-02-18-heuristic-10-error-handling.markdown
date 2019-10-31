@@ -5,7 +5,7 @@ date:   2017-02-18 23:00:00
 categories: heuristics user-experience error-handling
 excerpt: Error is so much a part of the Human Experience that we should plan a significant occurrence of it in our interfaces.
 showcomments: true
-schema_images: http://seanrice.net/media/2017/02/heuristic-10-error-handling-title.png
+schema_images: https://seanrice.net/media/2017/02/heuristic-10-error-handling-title.png
 ---
 
 Error handling is the last in the list of [My 10 Heuristics](/heuristics/user-experience/2016/10/07/heuristics-overview.html). It's also usually the last thing to get designed, many times as an afterthought to the rest of the design. This should not be! Error is so much a part of the Human Experience and so much a part of our experiences with software, that we should plan around a significant occurrence of it in our interfaces, even as we build interfaces that help users avoid errors altogether.
@@ -28,7 +28,7 @@ When entering in numerical data, it's simple to build the limits into the input 
 
 Some tools exist that allow for automatic formatting of phone number inputs. Use discretion when implementing them as sometimes they make it difficult to edit the phone number after inputting it.
 
-Other inputs such as the message field for [twitter](http://www.twitter.com){:target="\_blank"} handle input outside of the acceptable range well. They inform the user that the user is over the allotted character limit, but let them continue typing while they formulate their message. Twitter has even implemented ways to give users more available characters by using link shorteners and attaching images differently.
+Other inputs such as the message field for [twitter](https://www.twitter.com){:target="\_blank"} handle input outside of the acceptable range well. They inform the user that the user is over the allotted character limit, but let them continue typing while they formulate their message. Twitter has even implemented ways to give users more available characters by using link shorteners and attaching images differently.
 
 ![Twitter message over the 140 character limit](/media/2017/02/twitter-over.jpg)
 
@@ -47,7 +47,7 @@ The best way to help users avoid this type of "accident" is to detect the issue 
 Another type of "accidental click" involves accidentally submitting a form or a part of a form. Help people avoid this by making button text clear, and explaining what will happen when they submit, especially if they are at the end of a longer process. Also, give the user the ability to "undo" or go back whenever possible.
 
 <figure class="img-right"><img src="/media/2017/02/sent-undo.jpg" alt="Google Inbox Undo">
-</figure> [Google Inbox](http://inbox.google.com){:target="\_blank"} does a good job with this, allowing the user to &quot;undo&quot; a recently sent email for a few seconds after clicking &quot;send&quot;
+</figure> [Google Inbox](https://inbox.google.com){:target="\_blank"} does a good job with this, allowing the user to &quot;undo&quot; a recently sent email for a few seconds after clicking &quot;send&quot;
 
 
 ### Connection interruption

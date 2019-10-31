@@ -5,7 +5,7 @@ date:   2019-10-31 00:00:00
 categories: DesignOps
 excerpt: DesignOps amplifies the impact of design at scale. In other words, it helps managers, directors, and executives understand and utilize all of the various things design has to offer, while helping designers collaborate and deliver work more effectively.
 showcomments: false
-schema_images: http://seanrice.net/media/2019/Standing-Up-Design-Ops-1-Title.png
+schema_images: https://seanrice.net/media/2019/Standing-Up-Design-Ops-1-Title.png
 external: https://www.designsystems.io/2019/10/31/standing-up-designops-at-keap/?ref=seanrice.net
 ---
 

@@ -5,7 +5,7 @@ date:   2018-05-25 12:00:00
 categories: user-experience design-systems
 excerpt: You set out to build a design system, but you fell into a few common traps along the way. Disarm those traps before they put your efforts to a premature end.
 showcomments: true
-schema_images: http://seanrice.net/media/2018/05/trap.jpg
+schema_images: https://seanrice.net/media/2018/05/trap.jpg
 ---
 
 Working on a larger team of designers on a multifaceted application or multiple apps within an ecosystem is the dream of many designers. But how do you keep consistent design quality across applications with different problems and even branding needs?

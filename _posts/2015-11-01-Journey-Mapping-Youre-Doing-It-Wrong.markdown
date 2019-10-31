@@ -4,20 +4,20 @@ title:  "Journey Mapping &mdash; You’re Doing It All Wrong"
 date:   2015-11-01 09:00:00
 categories: analytics customer-experience cx data ethnography journey-map ux
 excerpt: By using journey mapping essentials such as ethnography, you can make sure you're not missing any pieces to your journey map puzzle.
-external: http://www.ethology.com/blog/journey-mapping-essentials/
+external: https://www.ethology.com/blog/journey-mapping-essentials/
 ---
 
-_This article was originally posted on [ethology.com](http://www.ethology.com/blog/journey-mapping-essentials?ref=seanricenet)_
+_This article was originally posted on [ethology.com](https://www.ethology.com/blog/journey-mapping-essentials?ref=seanricenet)_
 
-&quot;How do your customers buy your product?&quot; Of all the questions someone could ask you about your business, this one seems far from the hardest to answer. Yet, with the emergence of new marketing channels, multiple screens and digital media, it’s now one of the most complex, dynamic and important questions of our time &ndash; one that sits at the very core of modern business. The companies that are able to most accurately answer it are the ones differentiating themselves and succeeding in the marketplace. This is why more and more companies are embarking on [journey mapping](http://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) projects to better understand the paths and needs of their customers.
+&quot;How do your customers buy your product?&quot; Of all the questions someone could ask you about your business, this one seems far from the hardest to answer. Yet, with the emergence of new marketing channels, multiple screens and digital media, it’s now one of the most complex, dynamic and important questions of our time &ndash; one that sits at the very core of modern business. The companies that are able to most accurately answer it are the ones differentiating themselves and succeeding in the marketplace. This is why more and more companies are embarking on [journey mapping](https://www.smashingmagazine.com/2015/01/all-about-customer-journey-mapping/) projects to better understand the paths and needs of their customers.
 
 > It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
 
 However, not all journey mapping projects are created equal. Too often these exercises are done with minimal investment, based solely on the intuition of a handful of often-isolated executives. While these partial journey maps may have some value, they almost always fall short of revealing the types of insights and ideas that can truly drive innovation and growth.
 
-So how do you [unlock a journey map’s full potential](http://www.ethology.com/use-your-customer-journey-map-to-guide-your-marketing)? By creating more robust maps *based on ethnographic research*. It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
+So how do you [unlock a journey map’s full potential](https://www.ethology.com/use-your-customer-journey-map-to-guide-your-marketing)? By creating more robust maps *based on ethnographic research*. It’s one thing to think about your customers, and a whole other thing to invest in truly understanding them.
 
-<!--<img src="http://www.ethology.com/wp-content/uploads/2015/12/what-is-ethnography.jpg" alt="what is ethnography" />-->
+<!--<img src="https://www.ethology.com/wp-content/uploads/2015/12/what-is-ethnography.jpg" alt="what is ethnography" />-->
 
 ## What Is Ethnography?
 In short, ethnography is the *systematic* study of people and cultures. Pioneered in the field of anthropology to gain deeper and more nuanced understanding of human social behavior and cultures, ethnography emphasizes long-term, observational, field-based research as opposed to research conducted in laboratories or other controlled settings. It’s not a new concept as applied to business &ndash; <a href="https://hbr.org/2009/03/ethnographic-research-a-key-to-strategy" target="_blank">Intel’s successful expansion into creating products for home use in the mid-1990s, for example, was driven by ethnographic research.</a> Yet, ethnographic research, which often requires significant time and resources, is often cut out of the equation or not even considered in the name of &quot;going lean&quot; and &quot;maximizing efficiency.&quot; Let’s take a look at why this is shortsighted.
@@ -31,7 +31,7 @@ A journey map generally starts with a handful of executives gathered in a room, 
 Without knowing it, many journey mappers fall into the trap of only looking at what happens on the site or app in focus to understand a user. The problem with this is that there are factors that operate outside the site, or even offline entirely, that have tremendous influence on the user journey:
 
 - Context &ndash; Where is the user completing a step? At a library? On the bus? At home?
-- Comparison &ndash; Does the user have a competitor’s site open in another browser tab? Or perhaps multiple product pages <a href="http://www.nngroup.com/articles/multi-tab-page-parking/" target="_blank">in multiple tabs</a>?
+- Comparison &ndash; Does the user have a competitor’s site open in another browser tab? Or perhaps multiple product pages <a href="https://www.nngroup.com/articles/multi-tab-page-parking/" target="_blank">in multiple tabs</a>?
 - Influence of Others &ndash; Did someone influence a user’s decision in some way?
 - Real-World Interactions &ndash; Did a user arrive at the location and get what he or she needed easily? Was there confusion? Were the employees helpful? Are print materials in sync with the website? Did the user utilize a mobile device to enhance the experience? If so, how? (Price comparisons? Tap-to-Pay?)
 
@@ -77,4 +77,4 @@ In the end, investing in ethnographic research to create more nuanced journey ma
 
 Ethology’s goal is to optimize every part of the digital experience to drive measurable results. Our team can help you create a customer experience that drives the right traffic to the right places, maximizing conversions and impacting your bottom line.
 
-<a href="http://www.ethology.com/contact-us/">Get in touch with an Ethologist right now</a>
+<a href="https://www.ethology.com/contact-us/">Get in touch with an Ethologist right now</a>

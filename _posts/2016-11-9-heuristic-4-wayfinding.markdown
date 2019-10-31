@@ -38,7 +38,7 @@ In a hospital, arrows on the walls direct users where to find the pharmacy or th
 ### The hamburger menu
 
 <figure class="img-right width-400"><img  src="/media/2016/11/hamburger-menu.gif" alt="Example of a hamburger menu opening">
-<figcaption><a href="http://www.itsnicethat.com/">It's nice that</a> has a rather extensive hamburger menu.</figcaption>
+<figcaption><a href="https://www.itsnicethat.com/">It's nice that</a> has a rather extensive hamburger menu.</figcaption>
 </figure>
 Hamburger menus are a junk-drawer approach to site and app navigation. They're not necessarily _wrong_ to use, but they should only be a last-resort or a backup plan for better navigation patterns.
 
@@ -46,12 +46,12 @@ The hamburger menu is discussed at length by others, so I won't get into the det
 
 ### Obvious always Wins
 
-Users navigate with whatever is available to them. As [Luke Wroblewski](http://www.lukew.com) Says, "Obvious always wins." So, put important features right there on screen. Help the users navigate with appropriate content and imagery on the page&mdash;not only in navigation menus.
+Users navigate with whatever is available to them. As [Luke Wroblewski](https://www.lukew.com) Says, "Obvious always wins." So, put important features right there on screen. Help the users navigate with appropriate content and imagery on the page&mdash;not only in navigation menus.
 
 ### Navigation hierarchy
 
 <figure class="img-right width-400"><img  src="/media/2016/11/servicearizona.jpg" alt="servicearizona.com screenshot">
-<figcaption>Government agencies have notoriously disorganized content.  <a href="http://servicearizona.com">Service Arizona</a> is no exception.</figcaption>
+<figcaption>Government agencies have notoriously disorganized content.  <a href="https://servicearizona.com">Service Arizona</a> is no exception.</figcaption>
 </figure>
 Larger sites need good hierarchy. This can be a difficult thing to put together. Here are a few tips for organizing your site architecture well.
 

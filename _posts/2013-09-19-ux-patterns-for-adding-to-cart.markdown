@@ -4,12 +4,12 @@ title:  "UX Patterns for Adding To Cart"
 date:   2013-09-19 00:00:00
 categories: user-experience patterns cart ecommerce conversion funnel
 excerpt: Any time a customer wants to buy something, they need to add it to their cart. But what happens when the user clicks that magical button?
-#external: http://uxpatterns.org/ecommerce/adding-to-cart/
+#external: https://uxpatterns.org/ecommerce/adding-to-cart/
 redirect_from: "/ecommerce/adding-to-cart/"
 
 ---
 _This article was originally posted on uxpatterns.org, which now redirects here._
-<!-- This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/ecommerce/adding-to-cart/)-->
+<!-- This article was originally posted on uxpatterns.org. [Original Article Link](https://uxpatterns.org/ecommerce/adding-to-cart/)-->
 
 <img class="img-right" src="/media/2013/08/threadless.png" alt="Screenshot of large add to cart button">
 
@@ -56,7 +56,7 @@ This option may work well if your site sells expensive items or your customers t
 {% include galleryitem.html thumb="/media/2013/08/icondock-205x300.png" full="/media/2013/08/icondock.png" %}
 </div>
 
-A couple of patterns are out there that are different than the standard UX designs above. Firstly, [Amazon.com](http://www.amazon.com) pioneered ([and patented](http://en.wikipedia.org/wiki/1-Click)) one-click purchases which allow you to skip the cart altogether, provided you already have an account set up for it. Also, [icondock](http://icondock.com/) uses a drag-and drop cart that forgoes the add to cart button and everything with it in favor of a side box that acts like the cart. This works for them because of the simple nature of their products.
+A couple of patterns are out there that are different than the standard UX designs above. Firstly, [Amazon.com](https://www.amazon.com) pioneered ([and patented](https://en.wikipedia.org/wiki/1-Click)) one-click purchases which allow you to skip the cart altogether, provided you already have an account set up for it. Also, [icondock](https://icondock.com/) uses a drag-and drop cart that forgoes the add to cart button and everything with it in favor of a side box that acts like the cart. This works for them because of the simple nature of their products.
 
 ## Summary
 
@@ -64,4 +64,4 @@ On sites selling fewer items, or higher-priced, but customized items, it may mak
 
 ## Similar article
 
-[UX FTW: What Happens When You Add an Item to Your Cart?](http://www.aidanbryant.com/post/37053391376/ux-ftw-what-happens-when-you-add-an-item-to-your-cart)
+[UX FTW: What Happens When You Add an Item to Your Cart?](https://www.aidanbryant.com/post/37053391376/ux-ftw-what-happens-when-you-add-an-item-to-your-cart)

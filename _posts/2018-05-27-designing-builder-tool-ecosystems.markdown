@@ -5,7 +5,7 @@ date:   2018-05-27 23:36:00
 categories: user-experience information-architecture
 excerpt: I design tool sets that need to interact with each other within the context of a larger ecosystem of apps. Here's a framework for describing the different layers involved.
 showcomments: true
-schema_images: http://seanrice.net/media/2018/05/layers.png
+schema_images: https://seanrice.net/media/2018/05/layers.png
 ---
 
 As a user journeys through our family of applications at Infusionsoft, they traverse many layers of functionality that they are probably unaware of as they move. In order to design a cohesive experience, we designers need to visualize the different layers of our app and plan for ways to help our users transition between them seamlessly.

@@ -4,10 +4,10 @@ title:  "Progressive Disclosure"
 date:   2013-09-26 00:00:00
 categories: user-experience patterns progressive disclosure ux
 excerpt: When designing something with a lot of information that the user may not need to know all at once, you need progressive disclosure. Users see something and decide they want more information about it, or to see things related to it. So they “zoom in.”
-#external: http://uxpatterns.org/affordances/progressive-disclosure/
+#external: https://uxpatterns.org/affordances/progressive-disclosure/
 redirect_from: "/affordances/progressive-disclosure/"
 ---
-_This article was originally posted on [Uxpatterns.org](http://uxpatterns.org/affordances/progressive-disclosure/)._
+_This article was originally posted on [Uxpatterns.org](https://uxpatterns.org/affordances/progressive-disclosure/)._
 
 When designing something with a lot of information that the user may not need to know all at once, you need progressive disclosure. Actually, progressive disclosure is woven into the nature of the internet and many applications. Users see something and decide they want more information about it, or to see things related to it. So they “zoom in.”
 
@@ -114,5 +114,5 @@ Much like Twitter, Google Plus reveals more functionality as you interact.
 
 ## Further Reading
 
-- [Microsoft Developer guidelines for progressive disclosure](http://msdn.microsoft.com/en-us/library/windows/desktop/aa511487.aspx)
-- [Nielsen Norman on Progressive Disclosure](http://www.nngroup.com/articles/progressive-disclosure/)
+- [Microsoft Developer guidelines for progressive disclosure](https://msdn.microsoft.com/en-us/library/windows/desktop/aa511487.aspx)
+- [Nielsen Norman on Progressive Disclosure](https://www.nngroup.com/articles/progressive-disclosure/)

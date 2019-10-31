@@ -4,13 +4,13 @@ title:  "Authentication UX Patterns – Passwords & PINs"
 date:   2013-08-15 00:00:00
 categories: user-experience patterns passwords
 excerpt: On many web sites, one of the most-used features is the password reset tool. We UX'ers must design our applications to accommodate the failings of human memory, which is why the password reset function exists. But perhaps we should strive for something higher than the illusion of security at the expense of user experience. In this article, we are going to explore different methods of authenticating, and how human memory limitations collide with security requirements.
-#external: http://uxpatterns.org/authentication/passwords-pins-and-patterns/
+#external: https://uxpatterns.org/authentication/passwords-pins-and-patterns/
 redirect_from: "/authentication/passwords-pins-and-patterns/"
-schema_images: "[\"http://seanrice.net/media/2013/07/IMG951235-169x300\",\"http://www.seanrice.net/media/2013/07/Screen-Shot-2013-07-19-at-8.36.37-PM-300x178.png\"]"
+schema_images: "[\"https://seanrice.net/media/2013/07/IMG951235-169x300\",\"https://www.seanrice.net/media/2013/07/Screen-Shot-2013-07-19-at-8.36.37-PM-300x178.png\"]"
 ---
 
 _This article was originally posted on uxpatterns.org, which now redirects here._
-<!-- [uxpatterns.org](http://uxpatterns.org/authentication/passwords-pins-and-patterns/).-->
+<!-- [uxpatterns.org](https://uxpatterns.org/authentication/passwords-pins-and-patterns/).-->
 
 Any time you have an account, you have some sort of sensitive information. That information might be as simple as a list of comments you’ve made, or it may be your banking history. We use passwords and patterns to unlock out smartphones. We might have a gate code to enter our apartment complex.
 
@@ -54,7 +54,7 @@ Some sites require passwords with special characters, such as punctuation, dashe
 
 {% include galleryitem.html thumb="/media/2013/07/Screen-Shot-2013-07-19-at-8.36.37-PM-300x178.png" full="/media/2013/07/Screen-Shot-2013-07-19-at-8.36.37-PM.png" caption="Simple’s login form looks like the back of a credit card, and requires a passphrase instead of your standard password." %}
 
-I just recently saw a site start to use something called a passphrase to authenticate me. The site is [Simple.com](http://simple.com). A pass phrase is a series of words with spaces and maybe punctuation. It can be easy to remember like lyrics to a song, or a special saying you have. My pass phrase is over 30 characters long, yet it is simple to remember and probably difficult to guess. Talking about possible character combinations is virtually useless at this point. the number is ridiculously high. Now we can calculate the possible word combinations in a five word English phrase to something around 150,000 ^ 5 (actually this is a gross underestimate of possible combinations based on an estimate of 150,000 english words in the dictionary) but that also an incredibly high number. I am oversimplifying these calculations, but suffice it to say, pass phrases appear to be far more secure than any of the previous methods mentioned.
+I just recently saw a site start to use something called a passphrase to authenticate me. The site is [Simple.com](https://simple.com). A pass phrase is a series of words with spaces and maybe punctuation. It can be easy to remember like lyrics to a song, or a special saying you have. My pass phrase is over 30 characters long, yet it is simple to remember and probably difficult to guess. Talking about possible character combinations is virtually useless at this point. the number is ridiculously high. Now we can calculate the possible word combinations in a five word English phrase to something around 150,000 ^ 5 (actually this is a gross underestimate of possible combinations based on an estimate of 150,000 english words in the dictionary) but that also an incredibly high number. I am oversimplifying these calculations, but suffice it to say, pass phrases appear to be far more secure than any of the previous methods mentioned.
 
 In terms of memory, our brains are built to remember important phrases. Why else can you still recite the Pledge of Allegiance or your country’s national anthem, or the lyrics to that song from your high school days?
 

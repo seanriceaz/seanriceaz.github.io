@@ -5,7 +5,7 @@ date:   2017-04-14 12:00:00
 categories: user-experience workshop-facilitation
 excerpt: While hosting my first D&D campaign, I realized that hosting a tabletop game session is similar in many ways to facilitating a design workshop.
 showcomments: true
-schema_images: http://seanrice.net/media/2017/03/dddw.png
+schema_images: https://seanrice.net/media/2017/03/dddw.png
 external: https://tallwave.com/secrets/design/dungeons-dragons-and-design-workshops/?ref=seanrice.net
 ---
 

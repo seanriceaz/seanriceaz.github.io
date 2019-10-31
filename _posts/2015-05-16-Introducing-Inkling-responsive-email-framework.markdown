@@ -4,16 +4,16 @@ title:  "Introducing Inkling: A responsive email framework for modern web develo
 date:   2015-05-16 00:00:00
 categories: email html responsive mobile user-experience
 excerpt: When tasked with building out a few custom responsive email templates, we naturally sought out some ways we could streamline that process. Inkling came about as a by-product of seeking to improve the user experience of coding custom HTML emails.
-# external: http://www.ethology.com/inkling-responsive-email-framework
+# external: https://www.ethology.com/inkling-responsive-email-framework
 ---
 
-_This article was originally posted on [ethology.com](http://www.ethology.com/inkling-responsive-email-framework?ref=seanricenet)_
+_This article was originally posted on [ethology.com](https://www.ethology.com/inkling-responsive-email-framework?ref=seanricenet)_
 
-At Ethology, we leverage a few different web development tools that help us to do our jobs more efficiently – namely, <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="http://sass-lang.com/" target="_blank">Sass</a>. So when tasked with building out a few custom responsive email templates, we naturally sought out some ways we could streamline that process. Inkling came about as a by-product of seeking to improve the user experience of coding custom HTML emails.
+At Ethology, we leverage a few different web development tools that help us to do our jobs more efficiently – namely, <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://sass-lang.com/" target="_blank">Sass</a>. So when tasked with building out a few custom responsive email templates, we naturally sought out some ways we could streamline that process. Inkling came about as a by-product of seeking to improve the user experience of coding custom HTML emails.
 
 ### Tables all the way down
 
-In our hunt for a responsive email toolkit, we settled on <a href="http://zurb.com/ink/" target="_blank">Zurb’s ink framework</a> because — unlike the many templates from the major email marketing providers — it was pretty bare-bones to begin with, giving us a clean starting point.
+In our hunt for a responsive email toolkit, we settled on <a href="https://zurb.com/ink/" target="_blank">Zurb’s ink framework</a> because — unlike the many templates from the major email marketing providers — it was pretty bare-bones to begin with, giving us a clean starting point.
 
 <img class="alignnone size-full wp-image-2189" src="{{ site.baseurl }}/media/2015/code-before.jpg" alt="Code Snapshot of an HTML email ">
 

@@ -4,12 +4,12 @@ title:  "Mobile Navigation Menus"
 date:   2013-09-12 00:00:00
 categories: user-experience patterns touch navigation mobile
 excerpt: Mobile navigation menu UX has been a hot topic the last few years. There are a couple of UX patterns that have emerged recently and some things that appear on their way out.
-#external: http://uxpatterns.org/affordances/mobile-navigation-menus/
+#external: https://uxpatterns.org/affordances/mobile-navigation-menus/
 redirect_from: "/affordances/mobile-navigation-menus/"
 
 ---
 _This article was originally posted on uxpatterns.org, which now redirects here._
-<!-- This article was originally posted on uxpatterns.org. [Original Article Link](http://uxpatterns.org/affordances/mobile-navigation-menus/) -->
+<!-- This article was originally posted on uxpatterns.org. [Original Article Link](https://uxpatterns.org/affordances/mobile-navigation-menus/) -->
 
 Mobile navigation menu UX has been a hot topic the last few years. There are a couple of UX patterns that have emerged recently and some things that appear on their way out. For our purposes today, we’re talking about mobile navigation in terms of menus. Some apps and sites don’t use menus, opting instead for tabs or a home screen, etc., but we can cover those options in a later post.
 
@@ -119,7 +119,7 @@ Facebook has two different menus that serve different functions. The left one is
 
 ## More reading
 
-One of my favorite authors, [Luke Wroblewski](http://lukew.com/) ([@lukew](https://twitter.com/lukew)), has written on some topics covered in this article:
+One of my favorite authors, [Luke Wroblewski](https://lukew.com/) ([@lukew](https://twitter.com/lukew)), has written on some topics covered in this article:
 
-- [Responsive Navigation: Optimizing for Touch Across Devices](http://www.lukew.com/ff/entry.asp?1649)
-- [Off Canvas Multi-Device Layouts](http://www.lukew.com/ff/entry.asp?1569)
+- [Responsive Navigation: Optimizing for Touch Across Devices](https://www.lukew.com/ff/entry.asp?1649)
+- [Off Canvas Multi-Device Layouts](https://www.lukew.com/ff/entry.asp?1569)

@@ -5,7 +5,7 @@ date:   2017-06-17 12:00:00
 categories: career
 excerpt: I'm moving from a career I loved at Tallwave to start a new adventure at Infusionsoft
 showcomments: true
-schema_images: http://33.media.tumblr.com/077a1507e5bdd407c8decf11326c818f/tumblr_nmt01ogheD1u6l9wmo1_r2_500.gif
+schema_images: https://33.media.tumblr.com/077a1507e5bdd407c8decf11326c818f/tumblr_nmt01ogheD1u6l9wmo1_r2_500.gif
 ---
 
 It's never easy leaving something behind. Yesterday, I closed a chapter of my life at a company where I enjoyed working among friends on projects that were challenging and varied.
@@ -29,4 +29,4 @@ Infusionsoft is a killer-awesome company with some really challenging problems t
 
 ## Onward!
 
-![Millennium Falcon Departing](http://33.media.tumblr.com/077a1507e5bdd407c8decf11326c818f/tumblr_nmt01ogheD1u6l9wmo1_r2_500.gif)
+![Millennium Falcon Departing](https://33.media.tumblr.com/077a1507e5bdd407c8decf11326c818f/tumblr_nmt01ogheD1u6l9wmo1_r2_500.gif)

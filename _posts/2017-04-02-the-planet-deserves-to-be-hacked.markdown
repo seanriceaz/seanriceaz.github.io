@@ -5,7 +5,7 @@ date:   2017-04-02 14:00:00
 categories: user-experience sketch code
 excerpt: This article is about why I hacked a better spell checker into Sketch, and why the world needs designers to get hacking
 showcomments: true
-schema_images: http://seanrice.net/media/2017/04/sketch-hack.jpg
+schema_images: https://seanrice.net/media/2017/04/sketch-hack.jpg
 ---
 
 The gift of a designer isn't merely the ability to make or change things. It's _seeing_ what needs to be made or changed.
@@ -77,7 +77,7 @@ I now had a working spell checker, but I still wasn't done.
 
 ### V1.1 - Extending to symbol overrides
 
-At [Tallwave](http://www.tallwave.com), we use symbols and overrides fairly extensively, and my plugin still couldn't spell check these.
+At [Tallwave](https://www.tallwave.com), we use symbols and overrides fairly extensively, and my plugin still couldn't spell check these.
 
 It turns out symbol overrides are an *entirely different animal* than plain old text layers. A symbol exposes overrides from itself and every nested symbol within it in a single panel in Sketch. Fortunately, this made looping through them fairly easy once I figured out how to find them with code.
 
