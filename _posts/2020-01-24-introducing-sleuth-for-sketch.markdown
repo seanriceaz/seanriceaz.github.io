@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing Sleuth for Sketch"
 date:   2020-01-24 00:00:00
-categories: DesignOps, sketch
+categories: DesignOps sketch
 excerpt: With Sleuth for Sketch, you can easily measure impact of your shared libraries across your team’s sketch files. We’re releasing this tool for free to help DesignOps teams everywhere.
 showcomments: false
 schema_images: https://seanrice.net/media/2020/Sleuth-Social.png
