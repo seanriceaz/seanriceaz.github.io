@@ -41,6 +41,7 @@ Hit up the [Sleuth page](https://sleuth.keap.design) for an overview and detaile
 
 - [Jake Ferguson](https://www.linkedin.com/in/jake-ferguson-97948051/) - Helping design the Sleuth landing page
 - [Brandon Clute](https://www.linkedin.com/in/heybrandon/) - Building a stellar animation for the landing page
+- [Libbie Miller](https://www.linkedin.com/in/libbiemiller/) - Clarifying the content on the landing page
 - [Jordan Reed](https://www.linkedin.com/in/jordan-reed/) - Writing the original proof of concept during a company hackathon
 
 If you're interested in this sort of thing, [follow me on twitter](https://twitter.com/seanriceaz)! If you want to work with me, hit up the [Keap Careers](https://keap.com/about/careers) page.
