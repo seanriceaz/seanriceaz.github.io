@@ -16,7 +16,7 @@ With [Sleuth for Sketch](https://sleuth.keap.design), you can easily measure imp
 
 At [Keap](https://keap.com), we have a robust set of components and styles to help us solve large problems effectively across all areas of our ecosystem. We needed to understand how these components were being used in our Sketch files. This would unlock our DesignOps team to dive deeper into areas of our designs to understand the needs of our designers better.
 
-> In short, we created [Sleuth](https://sleuth.keap.design) to help us understand the impact our Design System was having on our design process.
+In short, we created [Sleuth](https://sleuth.keap.design) to help us understand the impact our Design System was having on our design process.
 
 This tool helps us identify areas where we might need to update our design system or clean out old files.
 
