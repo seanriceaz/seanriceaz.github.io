@@ -16,9 +16,9 @@ With [Sleuth for Sketch](https://sleuth.keap.design), you can easily measure imp
 
 At [Keap](https://keap.com), we have a robust set of components and styles to help us solve large problems effectively across all areas of our ecosystem. We needed to understand how these components were being used in our Sketch files. This would unlock our DesignOps team to dive deeper into areas of our designs to understand the needs of our designers better.
 
-In short, we created [Sleuth](https://sleuth.keap.design) to help us understand the impact our Design System was having on our design process.
+With the help of an engineer, I created [Sleuth](https://sleuth.keap.design) to help me understand the impact our Design System was having on our design process.
 
-This tool helps us identify areas where we might need to update our design system or clean out old files.
+This tool helps me identify areas where I might need to update our design system or clean out old files.
 
 ## The reports
 
@@ -27,13 +27,13 @@ This tool helps us identify areas where we might need to update our design syste
 
 The report data is rolled up by project. You can drill down into projects to see coverage in individual files. If you’re using Abstract, all the projects are set up in the report automatically. If not, projects are grouped using a simple file structure.
 
-We use coverage percentage as a benchmark for how well we’re improving the design system and educating about Sketch best practices.
+I use coverage percentage as a benchmark for how well we’re improving the design system and educating about Sketch best practices.
 
-Lower coverage projects are typically older work that needs to be re-addressed or cleaned out and archived. Higher-coverage projects are more affected by design system updates, so we use them as examples when testing.
+Lower coverage projects are typically older work that needs to be re-addressed or cleaned out and archived. Higher-coverage projects are more affected by design system updates, so I use them as examples when testing.
 
 ## Conclusion
 
-We hope that you’ll use Sleuth to help guide your design teams and improve your shared libraries for the benefit of your users.
+I hope that you’ll use Sleuth to help guide your design teams and improve your shared libraries for the benefit of your users.
 
 Hit up the [Sleuth page](https://sleuth.keap.design) for an overview and detailed instructions to get you started.
 
