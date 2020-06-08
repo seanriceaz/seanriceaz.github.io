@@ -4,12 +4,9 @@ title:  "UX Patterns for Adding To Cart"
 date:   2013-09-19 00:00:00
 categories: user-experience patterns cart ecommerce conversion funnel
 excerpt: Any time a customer wants to buy something, they need to add it to their cart. But what happens when the user clicks that magical button?
-#external: https://uxpatterns.org/ecommerce/adding-to-cart/
 redirect_from: "/ecommerce/adding-to-cart/"
 
 ---
-_This article was originally posted on uxpatterns.org, which now redirects here._
-<!-- This article was originally posted on uxpatterns.org. [Original Article Link](https://uxpatterns.org/ecommerce/adding-to-cart/)-->
 
 <img class="img-right" src="/media/2013/08/threadless.png" alt="Screenshot of large add to cart button">
 

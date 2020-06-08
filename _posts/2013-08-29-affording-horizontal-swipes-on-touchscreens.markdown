@@ -4,12 +4,9 @@ title:  "Affording Horizontal Swipes on Touchscreens"
 date:   2013-08-29 00:00:00
 categories: user-experience patterns touch gestures mobile
 excerpt: With the increasing adoption rate of mobile devices, I have noticed that more and more apps and web sites utilize horizontal swipe gestures on touch screens to access different functionality. Of course, this interaction isn’t very helpful unless the user knows that it’s there.
-#external: https://uxpatterns.org/affordances/affording-horizontal-swipes-on-touchscreens/
 redirect_from: "/affordances/affording-horizontal-swipes-on-touchscreens/"
 
 ---
-_This article was originally posted on uxpatterns.org, which now redirects here._
-<!-- [Original Article Link](https://uxpatterns.org/affordances/affording-horizontal-swipes-on-touchscreens/)-->
 
 With the increasing adoption rate of mobile devices, I have noticed that more and more apps and web sites utilize horizontal swipe gestures on touch screens to access different functionality. Of course, this interaction isn’t very helpful unless the user knows that it’s there. The way of indicating that an action is available or that there is a particular way to get a particular result somehow is called an affordance. If we don’t give the user an affordance, they may never know how to access certain functionality. Conversely, if we follow a pattern that looks like an affordance but isn’t, as in the Facebook example to the right, we may frustrate our users as they try to interact and get a puzzling result or no result at all.
 

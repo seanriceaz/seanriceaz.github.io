@@ -7,7 +7,20 @@ excerpt: A brief history of Sean Rice's work in user experience design
 ---
 ## Keap (Formerly Infusionsoft) - Summer 2017 - Current
 
-I'm working on some really great product innovations at Keap. Stay tuned!
+My passion is helping designers and the design discipline have a bigger impact. This is why I lead DesignOps.
+
+### Leadership
+
+- I drive improvement of the Design System that powers and informs the design of all Keap apps leading to higher-quality, more consistent user experiences as well as components that are easier to work with for both engineers and designers. Gathers feedback and coordinates updates to design and engineering artifacts, boosting quality.
+- I led the redesign of the designer hiring and onboarding experience, which inspired the company-wide adoption of the new process and reduced designer ramp-up time to one day. This effort won the team the “Better Together” award.
+Coordinated the creation of a design playbook that standardizes best practices and team procedures, which became the new standard for playbooks throughout the company.
+- I lead a company-wide effort to adopt Design Thinking and User-Centered Design practices by mentoring team members across the company in using lean user research and collaborative ideation techniques, standardizing and increasing the impact of design at scale.
+- I spearheaded the launch of an open-source [tool for Sketch called Sleuth](/designops/sketch/2020/01/23/introducing-sleuth-for-sketch.html), which gained 3,125 visitors, was featured in Sketch’s newsletter in its first month.
+- I designed and launched an experience that dramatically reduced the difficulty of sending bulk emails that now accounts for half of all bulk email campaigns sent in Keap.
+
+### Open Source
+
+- [Sleuth for Sketch](/designops/sketch/2020/01/23/introducing-sleuth-for-sketch.html)
 
 ## Tallwave Fall 2013 - Summer 2017
 
@@ -15,7 +28,7 @@ I'm working on some really great product innovations at Keap. Stay tuned!
 
 _Note: I'm including my time at 29th Drive and Ethology into this as my team was acquired twice, ultimately by Tallwave._
 
-### Big Projects
+### Notable Projects
 
 - [Weave 2.0 Application Design Refresh](https://weaveeducation.com/)
 - [Equality Health - Project to be Announced](https://www.equalityhealth.com/)
@@ -28,6 +41,7 @@ _Note: I'm including my time at 29th Drive and Ethology into this as my team was
 
 ### Open Source
 
+- [Sketch Spellcheck Plugin](https://github.com/Tallwave/sketch-spellcheck-all-layers)
 - [Inkling: A responsive email framework](https://github.com/ethology-co/inkling)
 
 ---------------------------------------

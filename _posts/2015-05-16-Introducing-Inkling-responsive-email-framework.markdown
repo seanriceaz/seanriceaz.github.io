@@ -4,12 +4,11 @@ title:  "Introducing Inkling: A responsive email framework for modern web develo
 date:   2015-05-16 00:00:00
 categories: email html responsive mobile user-experience
 excerpt: When tasked with building out a few custom responsive email templates, we naturally sought out some ways we could streamline that process. Inkling came about as a by-product of seeking to improve the user experience of coding custom HTML emails.
-# external: https://www.ethology.com/inkling-responsive-email-framework
 ---
 
-_This article was originally posted on [ethology.com](https://www.ethology.com/inkling-responsive-email-framework?ref=seanricenet)_
+## UPDATE: <a href="https://get.foundation/emails.html">Zurb's Foundation for Email</a> was released some time ago, and now there's no longer a need for my Inkling tool, described below. ##
 
-At Ethology, we leverage a few different web development tools that help us to do our jobs more efficiently – namely, <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://sass-lang.com/" target="_blank">Sass</a>. So when tasked with building out a few custom responsive email templates, we naturally sought out some ways we could streamline that process. Inkling came about as a by-product of seeking to improve the user experience of coding custom HTML emails.
+When I was at Ethology (later, Tallwave), we leveraged a few different web development tools that help us to do our jobs more efficiently – namely, <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://sass-lang.com/" target="_blank">Sass</a>. So when tasked with building out a few custom responsive email templates, we naturally sought out some ways we could streamline that process. Inkling came about as a by-product of seeking to improve the user experience of coding custom HTML emails.
 
 ### Tables all the way down
 

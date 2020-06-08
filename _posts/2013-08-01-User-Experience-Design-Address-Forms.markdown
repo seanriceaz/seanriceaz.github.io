@@ -4,13 +4,9 @@ title:  "The User Experience Design of Address Forms"
 date:   2013-08-01 00:00:00
 categories: forms address user-experience patterns
 excerpt: If you've ever worked on a site that needs to process payments or mail something out to a physical address, you've encountered address forms. This post covers some innovations in address form design that show us that perhaps these forms need special attention.
-#external: https://uxpatterns.org/forms/address-forms/
 redirect_from: "/forms/address-forms/"
 schema_images: "[\"https://seanrice.net/media/2013/08/paypal-266x300.png\",\"https://www.seanrice.net/media/2013/07/UPS-address-form-300x148.png\"]"
 ---
-
-_This article was originally posted on uxpatterns.org, which now redirects here._
-<!-- [uxpatterns.org.](https://uxpatterns.org/forms/address-forms/).-->
 
 If you’ve ever worked on a site that needs to process payments or mail something out to a physical address, you’ve encountered address forms. Like many things in user experience design, they are something easily overlooked. You can just go with whatever is built in to your ecommerce platform, or roll your own simple form. This post covers some innovations in address form design that show us that perhaps these forms need special attention.
 
