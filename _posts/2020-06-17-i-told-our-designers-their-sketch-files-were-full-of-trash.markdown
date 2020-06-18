@@ -3,7 +3,7 @@ layout: post
 title:  "I told our designers their Sketch files were full of trash—Here’s what happened"
 date:   2020-06-17 00:00:00
 categories: DesignOps Sketch
-excerpt: In this article, I discuss how I brought the team around to cleaning up their Sketch files, and the results the team achieved form teh effort
+excerpt: In this article, I discuss how I brought the team around to cleaning up their Sketch files, and the results the team achieved from the effort
 showcomments: true
 schema_images: https://seanrice.net/media/2020/Cleaning-Up-Our-Sketch-Files.jpg
 ---
