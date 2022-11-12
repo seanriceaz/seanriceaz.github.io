@@ -15,10 +15,10 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
+    font-size: var(--base-font-size, #{$base-font-size});
+    line-height: var(--base-line-height, #{$base-line-height});
+    font-weight: var(--base-font-weight, 300);
+    color: var(--text-color, #{$text-color});
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     padding-top:$header-height; //Accommodate our fixed header.
@@ -26,7 +26,7 @@ body {
 
 @include media-query($screen-xs) {
   body{
-    padding-top:$spacing-unit;
+    padding-top:var(--spacing-unit, $spacing-unit);
   }
 }
 
@@ -37,12 +37,12 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: calc(var(--spacing-unit) / 2);
 }
 
 
 hr{
-  margin:$spacing-unit*2 0;
+  margin: calc(var(--spacing-unit) * 2) 0;
 }
 
 
@@ -59,8 +59,8 @@ p > img{
 }
 .img-right{
   float:right;
-  margin-left:$spacing-unit;
-  margin-bottom:$spacing-unit;
+  margin-left: var(--spacing-unit);
+  margin-bottom: var(--spacing-unit);
 }
 
 /**
@@ -111,43 +111,24 @@ li {
  */
 
 h1{
-  font-size:64px;
+  font-size:calc(var(--base-font-size) * var(--type-ratio-5));
 }
 h2{
-  font-size:48px;
+  font-size:calc(var(--base-font-size) * var(--type-ratio-4));
 }
 
 h3{
-  font-size:32px;
+  font-size:calc(var(--base-font-size) * var(--type-ratio-3));
 }
 h4{
-  font-size:24px;
+  font-size:calc(var(--base-font-size) * var(--type-ratio-2));
 }
 
 h1{
-  font-weight:100;
+  font-weight:var(--super-font-weight);
 }
 h2, h3, h4 {
-    font-weight: 200;
-}
-
-@include media-query($screen-lg) {
-  h1{
-    font-size:48px;
-    font-weight:200;
-  }
-  h2{
-    font-size:32px;
-    font-weight:300;
-  }
-
-  h3{
-    font-size:24px;
-    font-weight:300;
-  }
-  h4{
-    font-size:18px;
-  }
+    font-weight:var(--headline-font-weight);
 }
 
 table{
@@ -183,18 +164,18 @@ table{
  * Links
  */
 a {
-    color: $link-color;
+    color: var(--link-color, $link-color);
     @include transition(all .2s ease-in-out);
     text-decoration: none;
-    border-bottom:1px solid rgba($link-color,0);
+    border-bottom:1px solid rgba(255,255,255,0);
 
     &:visited {
         color: darken($link-color, 15%);
     }
 
     &:hover {
-        color: $link-color;
-        border-bottom:1px solid rgba($link-color,1);
+        color: var(--link-color, $link-color);
+        border-bottom:1px solid var(--link-color, $link-color);
     }
 }
 
@@ -304,7 +285,7 @@ pre {
  * Font Coloring
  */
 .subtle{
-  color: rgba($text-color, .25);
+  color: #757575;
 }
 
 
@@ -354,9 +335,9 @@ pre {
         display:inline-block;
         line-height:1;
         padding:24px 0 4px;
-        color:rgba($text-color,.5);
+        color: #757575;
         &:hover{
-          color:rgba($text-color,1);
+          color: #111111;
         }
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -376,7 +357,7 @@ pre {
     margin-left:0;
   }
   .site-nav .page-link{
-    margin-bottom:$spacing-unit/2;
+    margin-bottom: calc( var(--spacing-unit) / 2);
 
   }
 }
@@ -395,21 +376,6 @@ pre {
   }
 }
 
-@include media-query($screen-md) {
-  .fancy-strikethrough{
-    font-size:.5em;
-    font-weight:200;
-  }
-}
-@include media-query($screen-sm) {
-.fancy-strikethrough{
-  display:block;
-  text-align:center;
-  label{
-    text-align:center;
-    }
-  }
-}
 
 /**
  * Galleries

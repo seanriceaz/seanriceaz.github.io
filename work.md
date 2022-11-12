@@ -5,9 +5,21 @@ subtext: Reflection on my past work experience and key takeaways from each.
 permalink: /work/
 excerpt: A brief history of Sean Rice's work in user experience design
 ---
-## Keap (Formerly Infusionsoft) - Summer 2017 - Current
 
-My passion is helping designers and the design discipline have a bigger impact. This is why I lead DesignOps.
+## GoDaddy Summer, 2020 - Current
+
+I have carried forward my passion for improving the design process to the scale of GoDaddy. Here, I'm working cross-functionally with many of the teams building cutting edge experiences for our customers. I employ user-centered-design practices to design a better design experience for our teams.
+
+### Leadership
+
+- I lead the federated design system effort around our core multibrand design system. I work closely with our lead designers across the organization as well as engineering to align on various updates and changes to that system.
+- I train designers on GoDaddy's way of doing product design, facilitating regular onboarding sessions and developing a multimedia training curriculum for our systems, tools, and processes.
+- I build the Figma libraries and maintain tools to keep the libraries aligned with our multi-brand token system.
+- I cast the vision and help align teams on cross-org efforts that impact multiple global user experiences.
+
+## Keap (Formerly Infusionsoft) Summer 2017 - Summer 2020
+
+I led DesignOps at Keap because I really wanted to improve the lives of designers there. I brought designers and engineers together, enabling them both to build more purposefully, serving our customers better.
 
 ### Leadership
 
@@ -21,6 +33,7 @@ Coordinated the creation of a design playbook that standardizes best practices a
 ### Open Source
 
 - [Sleuth for Sketch](/designops/sketch/2020/01/23/introducing-sleuth-for-sketch.html)
+- [Sleuth for Figma](https://sleuth.keap.design/)
 
 ## Tallwave Fall 2013 - Summer 2017
 

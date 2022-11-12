@@ -29,6 +29,30 @@ $header-height:56px;
 // Links
 $link-color: #E00099;
 
+// Make these into CSS Vars so we can tweak 'em
+:root{
+    --link-color: #{$link-color};
+    --text-color: #{$text-color};
+    --base-font-size: #{$base-font-size};
+    
+    --base-line-height: #{$base-line-height};
+    --spacing-unit: #{$spacing-unit};
+    --background-color: #{$background-color};
+    --super-font-weight: 700;
+    --headline-font-weight: 500;
+    --base-font-weight: 400;
+
+    --type-ratio-5: 3;
+    --type-ratio-4: 2;
+    --type-rato-3: 1.5;
+    --type-ratio-2: 1.25;
+    --type-ratio-1: 1.125;
+    --type-ratio--1: .8888889;
+    --type-ratio--2: .75;
+
+    --small-font-size: calc(var(--base-font-size) * var(--type-ratio--1));
+
+}
 
 // Width of the content area
 $header-width: 1280px;

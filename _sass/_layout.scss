@@ -12,14 +12,14 @@ header, article, .posts{
 
 header, .posts{
   text-align:center;
-  margin-bottom:$spacing-unit * 2;
+  margin-bottom: calc(var(--spacing-unit) * 2);
   max-width: -webkit-calc(#{$header-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$header-width} - (#{$spacing-unit} * 2));
 }
 article{
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-bottom:$spacing-unit * 2;
+  margin-bottom: calc(var(--spacing-unit) * 2);
 }
 
 
