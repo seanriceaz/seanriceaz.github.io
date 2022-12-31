@@ -34,7 +34,8 @@ I’m not going to claim that beauty is something that can be achieved with a ma
 
 Mimicking nature, or following classical proportions can give a certain _feel_ to your work. But there’s no magic number that can make your work more perfect.
 
-[Golden Spiral]
+<figure><img src="/media/2022/Golden-Spiral.jpg" alt="The Fibonacci or 'Golden' spiral">
+</figure>
 
 ### Humans like symmetry and pattern
 
@@ -55,7 +56,7 @@ Did you notice the mathematical proportions between those intervals? For every �
 For centuries, musicians tuned their instruments to make the “major” intervals sound good in this way. If you play A, C#, E, and A  an octave higher at the same time, you will have an “A Major” chord, that will sound traditionally harmonious. Those pitches correspond to these ratios:
 
 | Pitch Name | Interval Ratio | Interval Name | 12-note step |
-—
+| --- |
 | A | 1 | Tonic or “Root” | 1 |
 | C# | 1.25 | Major 3 | 1 | 5 |
 | E | 1.5 | “Perfect” 5 | 4 | 8 |
@@ -63,7 +64,9 @@ For centuries, musicians tuned their instruments to make the “major” interva
 
 See the interval ratio pattern? The 12-note step bit might be confusing. This is the root of the system that musicians debated on for hundreds of years. Every musician could agree that this set of intervals sounded great when played together. And mathematically, you can see why. But that’s only 4 notes. In art, that would be like limiting the color palette to 4 “pure” colors. Not everyone appreciates Piet Mondrian, who did exactly that. And even those that do would not likely call it expressive or capable of evoking a wide range of human emotion like music can.
 
-[Mondrian] - Composition II in Red, Blue, and Yellow
+<figure><img src="/media/2022/Mondrian.jpg" alt="">
+<figcaption>"Composition II in Red, Blue, and Yellow" by Piet Mondrian</figcaption>
+</figure>
 
 But a type stack with these four intervals would look like
 16px, 20px, 24px, 32px.
@@ -71,7 +74,8 @@ But a type stack with these four intervals would look like
 Or, starting from a “classical” 12 pt…
 12, 15, 18, 24
 
-[specimens]
+<figure><img src="/media/2022/Specimens.png" alt="Type Specimens demonstrating the above concept">
+</figure>
 
 That’s starting to look pretty similar to (link to article) the system in this article by so and so. But we’re missing some notes.
 
@@ -84,7 +88,7 @@ Is a type system about the individual “notes”? If it is, how do we calculate
 Believe it or not, for hundreds of years. musicians had several different approaches to tuning those intervals. The simplest was called “Just tuning” where all the ratios were calculated with whole numbers. Here are 12 notes using “just” tuning ratios:
 
 | Note number | Ratio | Decimal | Interval Name | 16 Pixel equivalent |
-—
+| --- |
 | 1 | 1 | 1 | Tonic or “Root” | 16 |
 | 2 |  16:15 | 1.067  | Minor second | 17.067 |
 | 3 | 9:8 | 1.125 | Major Second | 18 |
@@ -101,13 +105,15 @@ Believe it or not, for hundreds of years. musicians had several different approa
 
 Here's what that looks like with a few added octaves:
 
-[Full scale]
+<figure><img src="/media/2022/Full-Scale.png" alt="Type scale visualization for the above table">
+</figure>
 
 ### On Keys
 
 A “Key” in music is the set of notes available for composing something. This is a set of 7 pitches (8 if you include the octave) that sound generally good when played together. Composers sometimes write in notes that aren’t in the key to get a certain sound, and these are called “Accidentals”.
 
-[Key signature image]
+<figure><img src="/media/2022/Key-Signature.png" alt="Key Signature Image">
+</figure>
 
 A Key starts on a particular root note. If a piano is tuned with the Just Tuning system above, that means that A is 440 Hertz, and anything in the key of A major will sound perfect and joyful. Anything played in the key of A minor on that piano will sound perfectly kind of sad. A song played in B or C on that same piano (“Just” tuned to A) meaning the “root” note is B or C instead of the note the instrument was specifically tuned to, might sound a little out-of-tune, or even completely horrible because the interval ratios between the notes is no longer the same. 
 
@@ -119,7 +125,8 @@ If you’ve worked with designers struggling to adopt a design system, you know 
 
 The music theory nerds in the 1600’s were like our design systems nerds today. They sought a tuning scheme that would work fairly well in any key. The tradeoffs were you’d lose the absolute perfection of the thirds and fifths.
 
-[Baroque]
+<figure><img src="/media/2022/baroque-musicians.jpeg" alt="Historical painting of musicians">
+</figure>
 
 It’s beginning to sound more familiar, isn’t it? Balancing pixel-perfect design tweakery against ability to consistently execute (or perform), the designs (or music).
 
@@ -135,10 +142,11 @@ Commonly, type scales are calculated with even intervals between the steps in or
 
 But it does create a nice even scaling.
 
-[Major 2]
+<figure><img src="/media/2022/Major-2.png" alt="Type Specimen for major second scale">
+</figure>
 
 | Step | Actual Ratio vs Base Size | Pixel Size |
-—
+| --- |
 | 1 | 1 | 16 |
 | 2 | 1.125 | 18 |
 | 3 | 1.2657  | 20.25 |
@@ -166,7 +174,7 @@ It’s about being able to _play_ the music, not about having mathematical perfe
 Most apps use a base paragraph size of 16px. Other common sizes are 18px and 12px. Whichever one you select will determine the pixel sizes of your “notes” in your scale. In music, a key limits the available pitches you can play during a composition. In the same way, you might limit your available “notes” to something like this “major” key:
 
 | Note number | Ratio | Decimal | Interval Name | 16 Pixel equivalent |
-—
+| --- |
 | 1 | 1 | 1 | Tonic or “Root” | 16 |
 | 3 | 9:8 | 1.125 | Major Second | 18 |
 | 5 | 5:4 | 1.25 | Major Third | 20 |
@@ -178,13 +186,15 @@ Most apps use a base paragraph size of 16px. Other common sizes are 18px and 12p
 
 Here is what that looks like:
 
-[With a key]
+<figure><img src="/media/2022/With-a-Key.png" alt="Type Specimens demonstrating the above concept">
+</figure>
 
 ### Define what “chords” you want to use
 
 A “chord” is combination of several notes played at the same time. Every chord has a certain _feel_ to it. Minor chords feel melancholy. Major chords feel energizing. More complex chords can convey a mix of feelings all at once. The same chord can be “voiced” differently depending on how spread out all the notes are across the keyboard, and how hard those individual notes are played.
 
-[hand-chord]
+<figure><img src="/media/2022/Hand-chord.jpg" alt="Hand playing a chord on a piano">
+</figure>
 
 Think of a chord as a lockup of several text sizes next to each other. You’ll need a few of these options available to create your composition. Your headline is probably the largest size and highest “pitch” in the chord. Whereas a smaller font size is likely your “root”. Any subtitles or overlines might be a different “pitch” in the chord.
 
@@ -204,7 +214,8 @@ A classic “major” chord will have the root (1) third (1.25 ratio), the fifth
 
 In type, a “major” chord might look like type sizes 16, 20, 24, and 32. This would give you a solid foundation for a few type lockups.
 
-[Chord image]
+<figure><img src="/media/2022/Chord.png" alt="A 'Major' chord as type">
+</figure>
 
 Or you could spread the same chord across the keyboard some more:
 16, 40, 48, and 64 or 12, 16, 32, and 40.
@@ -217,12 +228,12 @@ The simplest songs have 3 chords in them. A typical set of chords for a 3-chord 
 
 In type sets, these “chords”  (in the “key” of 16px) would look like:
 
-Chord | Root | Third | Fifth | Octave
-—
-1 - C | 16 | 20 | 24 | 32
-4 - F | 19.2 | 26.667 |  30 | 38.4
-5 - G | 24 | 30 | 36 | 48
-5 - (lower G) | 12 | 15 | 18 | 24
+| Chord | Root | Third | Fifth | Octave |
+| --- |
+| 1 - C | 16 | 20 | 24 | 32 |
+| 4 - F | 19.2 | 26.667 |  30 | 38.4 |
+| 5 - G | 24 | 30 | 36 | 48 |
+| 5 - (lower G) | 12 | 15 | 18 | 24 |
 
 Those three lockup scales would give you enough to create a fairly robust experience with some musical proportions to back up your type size selections.
 
@@ -232,7 +243,8 @@ You can really select any set of notes and make a chord out of them, if you find
 
 Here's one way to make an "E7" chord:
 
-[ jazzy chord ]
+<figure><img src="/media/2022/Jazzy-Chord.png" alt="A Jazzy typography chord">
+</figure>
 
 We set up rules like this so we can boost our creativity by limiting choices. This allows us to creatively solve problems rather than merely nudge type sizes up or down all day.
 
@@ -256,7 +268,8 @@ We might define our rules like this:
 
 Here’s what some of those lockups might look like:
 
-[Image - Type lockups and chords]
+<figure><img src="/media/2022/Type-Lockups-and-Chords.png" alt="Type Specimens demonstrating the above concept">
+</figure>
 
 Line height and spacing are relevant here too. This is a good time to try to do baseline grid alignment etc. if you can. But otherwise, keep it simple! Any one-off tweaks you make can compound your problems when your system scales.
 
