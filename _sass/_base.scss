@@ -110,25 +110,28 @@ li {
  * Headings
  */
 
-h1{
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  font-weight:var(--headline-font-weight);
+  margin-top: var(--spacing-unit);
+}
+
+h1 {
   font-size:calc(var(--base-font-size) * var(--type-ratio-5));
-}
-h2{
-  font-size:calc(var(--base-font-size) * var(--type-ratio-4));
-}
-
-h3{
-  font-size:calc(var(--base-font-size) * var(--type-ratio-3));
-}
-h4{
-  font-size:calc(var(--base-font-size) * var(--type-ratio-2));
-}
-
-h1{
   font-weight:var(--super-font-weight);
 }
-h2, h3, h4 {
-    font-weight:var(--headline-font-weight);
+h2 {
+  font-size:calc(var(--base-font-size) * var(--type-ratio-4));
+  margin-top: calc(var(--spacing-unit) *1.5);
+}
+h3 {
+  font-size:calc(var(--base-font-size) * var(--type-ratio-3));
+}
+h4 {
+  font-size:calc(var(--base-font-size) * var(--type-ratio-2));
+}
+h5 {
+  font-size: calc(var(--base-font-size) * var(--type-ratio-1));
 }
 
 table{
@@ -136,7 +139,7 @@ table{
   margin-bottom:$spacing-unit;
   thead{
     th,td{
-      font-weight: bold;
+      font-weight: var(--headline-font-weight);
       border-bottom:1px solid $grey-color;
       padding:$spacing-unit/2;
       font-size: $base-font-size;
@@ -148,7 +151,7 @@ table{
       margin:0;
       border:0;
       padding:$spacing-unit/2;
-      font-size:$base-font-size * .75;
+      font-size:calc(var(--base-font-size) * var(--type-ratio--1));
       border-bottom:1px solid $grey-color-light;
       background:white;
     }
