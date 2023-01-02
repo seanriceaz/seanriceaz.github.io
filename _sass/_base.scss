@@ -123,6 +123,9 @@ h1 {
 h2 {
   font-size:calc(var(--base-font-size) * var(--type-ratio-4));
   margin-top: calc(var(--spacing-unit) *1.5);
+  span + & {
+    margin-top: 0;
+  }
 }
 h3 {
   font-size:calc(var(--base-font-size) * var(--type-ratio-3));

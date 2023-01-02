@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Typography is a lot like music"
-date:   2023-1-2 00:00:00
+date:   2023-1-2
 categories: design-system typography music
 excerpt: I've been exploring type scale relationships. It turns out, good type solutions are a lot like musical chords.
 showcomments: true
