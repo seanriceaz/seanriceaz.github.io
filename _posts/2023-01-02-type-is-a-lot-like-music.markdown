@@ -70,9 +70,9 @@ For centuries, musicians tuned their instruments to make the “major” interva
 
 See the interval ratio pattern?
 
-Every musician could agree that this set of intervals sounded great when played together. And mathematically, you can see why. But that’s only 4 notes. In art, that would be like limiting the color palette to 4 “pure” colors. Not everyone appreciates Piet Mondrian, who did exactly that. And even those that do would not likely call it expressive or capable of evoking a wide range of human emotion like music can.
+Every musician could agree that this set of intervals sounds great when played together. And mathematically, you can see why. But that’s only 4 notes. In art, that would be like limiting the color palette to 4 “pure” colors. Not everyone appreciates Piet Mondrian, who did exactly that. And even those that do would not likely call it expressive or capable of evoking a wide range of human emotion like music can.
 
-But a type stack with these four intervals would look like have these sizes: 16px, 20px, 24px, 32px.
+A type stack with these four intervals would look like have these sizes: 16px, 20px, 24px, 32px.
 
 Or, starting from a “classical” 12 pt scale:  12, 15, 18, 24
 
@@ -136,7 +136,7 @@ The music theory nerds in the 1600’s were like our design systems nerds today.
 
 It’s beginning to sound more familiar, isn’t it? Balancing pixel-perfect design tweakery against ability to consistently execute (or perform), the designs (or music).
 
-Here’s the math-music nerd solution. Instead of whole-number ratios, use a logarithmic (really) algorithm to calculate the intervals. F<sub>n</sub> = F<sub>0</sub><sup>(n/12)</sup>. While super-nerdy from a math perspective, it creates “good-enough” pitch intervals all the way up and down the keyboard. This is the way we have tuned our instruments in Western music for the last 300 years.
+Here’s the math-music nerd solution. Instead of whole-number ratios, use a logarithmic (really) algorithm to calculate the intervals. F<sub>n</sub> = 2<sup>(n/12)</sup>. While super-nerdy from a math perspective, it creates “good-enough” pitch intervals all the way up and down the keyboard. This is the way we have tuned our instruments in Western music for the last 300 years.
 
 Bach created the first proof of this concept in his work “The Well-Tempered Clavier”, which contains a piece in every musical key.
 
