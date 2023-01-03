@@ -192,7 +192,7 @@ Most apps use a base paragraph size of 16px. Other common sizes are 18px and 12p
 
 Here is what that looks like:
 
-<figure><img src="/media/2022/With-a-Key.png" alt="Type Specimens demonstrating the above concept">
+<figure><img src="/media/2022/WIth-a-Key.png" alt="Type Specimens demonstrating the above concept">
 </figure>
 
 ### Define what “chords” you want to use
