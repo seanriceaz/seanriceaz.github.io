@@ -12,7 +12,7 @@ I'm a musician. I'm a designer. I see design and music in just about everything.
 
 In this article, I’ll set up a scalable way of selecting type sizes, and then couple it with a system for pairing those sizes harmoniously in relationship to each other.
 
-## Type size scales an pitch scales
+## Type size scales and pitch scales
 
 The mathematically-generated type scale concept is not new. There are a few different approaches, but ultimately, what you get is a set of type sizes that can be used in a design.
 
