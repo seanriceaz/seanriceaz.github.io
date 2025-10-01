@@ -1,10 +1,9 @@
 # Site settings
-title: Sean Rice - Lead User Experience Designer | SeanRice.net
+title: Sean Rice - Senior Lead User Experience Designer | SeanRice.net
 email:
 description: Sean Rice is a design leader working remotely from Pennsylvania. This site houses a history of his work and writings.
 #baseurl: "https://seanriceaz.github.io"
 url: "https://seanrice.net" # the base hostname & protocol for your site
-twitter_username: seanriceaz
 github_username:  seanriceaz
 
 #plugins: #comment this out when developing. Uncomment when deploying.
